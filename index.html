@@ -41,6 +41,20 @@ body{background:var(--ink);color:var(--fg);font-family:var(--f-head);touch-actio
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
   white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .flash{position:fixed;inset:0;z-index:4;pointer-events:none;background:var(--red);opacity:0;transition:opacity .35s}
+.flash.good{background:#3fae5a}
+.vig{position:fixed;inset:0;z-index:3;pointer-events:none;opacity:0;background:radial-gradient(ellipse at center,transparent 35%,#5a0d0a 100%);transition:opacity .4s}
+.combo{position:fixed;left:50%;top:calc(env(safe-area-inset-top,0px) + 64px);transform:translateX(-50%);z-index:5;pointer-events:none;
+  font-family:var(--f-display);font-size:42px;color:var(--amber);text-shadow:0 3px 0 #000;opacity:0;transition:opacity .25s;font-variant-numeric:tabular-nums}
+.combo.on{opacity:1}
+.combo.pop{animation:pop .18s ease-out}
+.combo.hot{color:var(--red)}
+@keyframes pop{0%{transform:translateX(-50%) scale(1.5)}100%{transform:translateX(-50%) scale(1)}}
+.sting{position:fixed;inset:0;z-index:6;display:grid;place-items:center;pointer-events:none;opacity:0}
+.sting.on{animation:sting 1.6s ease-out}
+.sting div{background:var(--paper);color:var(--ink);font-family:var(--f-display);font-size:clamp(28px,8vw,60px);padding:10px 26px;transform:rotate(-3deg);box-shadow:0 10px 30px #000a}
+.sting div small{display:block;font-family:var(--f-mono);font-size:12px;letter-spacing:.14em;color:var(--red);font-weight:600}
+@keyframes sting{0%{opacity:0;transform:scale(.6)}12%{opacity:1;transform:scale(1.05)}20%{transform:scale(1)}80%{opacity:1}100%{opacity:0;transform:scale(1)}}
+@media (prefers-reduced-motion:reduce){.combo.pop,.sting.on{animation:none}.sting.on{opacity:1}}
 .flash.on{opacity:.45;transition:none}
 .overlay{position:fixed;inset:0;z-index:10;display:grid;place-items:center;
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px;
@@ -69,7 +83,10 @@ textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-m
 </head>
 <body>
 <div id="stage"></div>
+<div class="vig" id="vig"></div>
 <div class="flash" id="flash"></div>
+<div class="combo" id="combo"></div>
+<div class="sting" id="sting"><div><small id="stingKicker">Extra</small><span id="stingText"></span></div></div>
 <div class="hud" id="hud" hidden>
   <div class="stat"><span>Sanity</span><div class="bar" id="bar"><i id="barFill"></i></div></div>
   <div class="stat" style="align-items:center"><span>Edition</span><b id="lvl">1</b></div>
@@ -81,11 +98,12 @@ textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-m
   <div class="slip">
     <div class="kicker">Late edition · Stop the presses</div>
     <h1>Kill the <span>News</span></h1>
-    <p>Headlines are coming for you. Tap them to spike them before they hit. The grimmer the story, the more taps it takes. It starts slow. It does not stay slow.</p>
+    <p>Headlines are coming for you. Tap them to spike them before they hit. The grimmer the story, the more taps it takes. Chain spikes for a combo. Don't spike the good news. It starts slow. It does not stay slow.</p>
     <div class="legend">
       <span><i class="pip"></i>1 tap: fluff</span>
       <span><i class="pip"></i><i class="pip"></i><i class="pip"></i>3: politics</span>
       <span><i class="pip" style="background:var(--red)"></i>×6: grim</span>
+      <span><i class="pip" style="background:#3fae5a"></i>green: good news, let it through</span>
     </div>
     <div class="row">
       <button id="playBtn">Start the press</button>
@@ -116,9 +134,10 @@ textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-m
       <div><div class="note">Headlines spiked</div><div class="big" id="finalScore">0</div></div>
       <div style="text-align:right"><div class="note">Survived</div><div class="big" id="finalTime">0s</div></div>
     </div>
-    <div class="worst"><div class="note" style="font-weight:400">The one that finished you</div><span id="killer"></span></div>
+    <div class="row" style="justify-content:space-between"><div><div class="note">Best combo</div><div class="big" id="finalCombo">0</div></div><div style="text-align:right"><div class="note">Edition reached</div><div class="big" id="finalEd">1</div></div></div>
+    <div class="worst"><div class="note" style="font-weight:400" id="killerBy">The one that finished you</div><span id="killer"></span></div>
     <div class="note" id="bestNote"></div>
-    <div class="row"><button id="againBtn">Run another edition</button><button class="alt" id="menuBtn">Menu</button></div>
+    <div class="row"><button id="againBtn">Run another edition</button><button class="alt" id="copyBtn">Copy result</button><button class="alt" id="menuBtn">Menu</button></div>
   </div>
 </div>
 
@@ -177,6 +196,12 @@ const WEIGHTS=[
  [/\b(minister|government|PM|prime minister|election|inflation|rates?|recession|NHS|jobs|cuts|protest|bills|prices|warn\w*|row|resigns?|chaos|record)\b/i,1],
  [/\b(cat|dog|goose|puffin|celebrity|star|royal|strictly|recipe|chef|fete|kebab|reality|love|tears|surprise|walk)\b/i,-1]
 ];
+const GOOD=/\b(bounce back|bounces back|found alive|rescued|reunited|cured|wins?|won|record (low|number of)|celebrat\w*|good news|free (school )?meals|breakthrough|saved|survives?|returns? home|jackpot|adorable|heartwarming|triumph\w*)\b/i;
+const GOOD_SAMPLES=["Puffin numbers bounce back on remote island","Lost dog reunited with family after 400-mile journey","Village raises £40,000 to save its last pub","Teen wins international piano competition","Rare orchid found thriving on motorway verge"];
+function isGood(h){ return GOOD.test(h) && !/\b(kill|dead|death|war|attack|crash|missile)\b/i.test(h); }
+// How each paper behaves: Mail is fast and twitchy, Guardian is wide, slow and takes an extra hit, BBC is the measured middle.
+const PAPER={ Mail:{speed:1.18,weave:1.0,extraHp:0,width:1,shout:true}, Guardian:{speed:0.82,weave:0.3,extraHp:1,width:1.22}, BBC:{speed:1,weave:0.5,extraHp:0,width:1} };
+function paper(src){ return PAPER[src]||PAPER.BBC; }
 function severity(h){
   let s=1; for(const [re,w] of WEIGHTS){ const m=h.match(new RegExp(re.source,'gi')); if(m) s+=w*Math.min(m.length,2); }
   return Math.max(1,Math.min(6,s));
@@ -184,7 +209,7 @@ function severity(h){
 let pool=[], usingCustom=false, live=null;
 function setPool(entries,mode,note){
   pool=entries.map(e=>typeof e==='string'?{text:e}:e).map(e=>({text:String(e.text||'').trim(),source:e.source||''}))
-    .filter(e=>e.text.length>3).map(e=>({...e,sev:severity(e.text)}));
+    .filter(e=>e.text.length>3).map(e=>({...e,sev:severity(e.text),good:isGood(e.text)}));
   usingCustom=mode==='custom';
   $('srcNote').textContent=note||(usingCustom?`Using your ${pool.length} pasted headlines.`:'Using built-in sample headlines (invented, not real stories).');
 }
@@ -201,6 +226,28 @@ fetch('headlines.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=
   if(d&&Array.isArray(d.headlines)) live=d;
   if(!usingCustom) useLive();
 });
+
+/* ---- sound: tiny Web Audio synth, started on the first button press ---- */
+let AC=null;
+function audio(){ if(!AC){ try{AC=new (window.AudioContext||window.webkitAudioContext)();}catch(e){} } if(AC&&AC.state==='suspended') AC.resume(); return AC; }
+function tone(freq,dur,type='square',vol=.08,slide=0){ const ac=audio(); if(!ac) return;
+  const o=ac.createOscillator(), g=ac.createGain(); o.type=type; o.frequency.setValueAtTime(freq,ac.currentTime);
+  if(slide) o.frequency.exponentialRampToValueAtTime(Math.max(30,freq+slide),ac.currentTime+dur);
+  g.gain.setValueAtTime(vol,ac.currentTime); g.gain.exponentialRampToValueAtTime(.0005,ac.currentTime+dur);
+  o.connect(g).connect(ac.destination); o.start(); o.stop(ac.currentTime+dur); }
+function noise(dur,vol=.15,hp=400){ const ac=audio(); if(!ac) return;
+  const b=ac.createBuffer(1,ac.sampleRate*dur,ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*(1-i/d.length);
+  const src=ac.createBufferSource(); src.buffer=b; const f=ac.createBiquadFilter(); f.type='highpass'; f.frequency.value=hp;
+  const g=ac.createGain(); g.gain.value=vol; src.connect(f).connect(g).connect(ac.destination); src.start(); }
+const SFX={
+  tap(c){ tone(420+Math.min(c,20)*45,.07,'square',.06); },
+  shred(sev){ noise(.18+sev*.03,.2,300); tone(160-sev*10,.2,'sawtooth',.08,-100); },
+  hit(sev){ noise(.5,.3,120); tone(90,.5,'sawtooth',.12,-60); },
+  bad(){ tone(220,.25,'triangle',.1,-150); tone(180,.3,'triangle',.08,-120); },
+  heal(){ [523,659,784].forEach((f,i)=>setTimeout(()=>tone(f,.18,'triangle',.07),i*70)); },
+  edition(){ [330,330,330,440].forEach((f,i)=>setTimeout(()=>tone(f,i==3?.4:.1,'square',.07),i*110)); noise(.3,.08,800); },
+  combo(){ tone(880,.12,'triangle',.08,400); }
+};
 
 /* ---- three.js scene ---- */
 const stage=$('stage');
@@ -235,21 +282,22 @@ function wrap(ctx,text,maxW){const words=text.split(' ');const lines=[];let line
 function drawSlip(item,hp){
   const c=item.canvas||(item.canvas=document.createElement('canvas')); c.width=1024;c.height=320;
   const g=c.getContext('2d'); const sev=item.sev;
-  g.fillStyle=SEV_PAPER[sev-1]; g.fillRect(0,0,1024,320);
+  g.fillStyle=item.good?'#cfe8c9':SEV_PAPER[sev-1]; g.fillRect(0,0,1024,320);
   // torn edge
   g.fillStyle='#10131c'; g.beginPath(); g.moveTo(0,320);
   for(let x=0;x<=1024;x+=16) g.lineTo(x,312+((x*7919)%9)); g.lineTo(1024,320); g.fill();
   // masthead band
-  g.fillStyle=sev>=5?'#e2342b':'#10131c'; g.fillRect(0,0,1024,44);
+  g.fillStyle=item.good?'#2f8f47':sev>=5?'#e2342b':'#10131c'; g.fillRect(0,0,1024,44);
   g.fillStyle='#efe9dc'; g.font='600 24px "IBM Plex Mono", monospace'; g.textBaseline='middle';
-  const tag=sev>=5?'BREAKING':sev>=3?'NEWS':'AND FINALLY';
+  const tag=item.good?'GOOD NEWS · LET IT THROUGH':item.column?'OPINION':sev>=5?'BREAKING':sev>=3?'NEWS':'AND FINALLY';
   g.fillText(item.source?item.source.toUpperCase()+'  ·  '+tag:tag, 24, 23);
   // hit pips
-  for(let i=0;i<item.maxHp;i++){ g.beginPath(); g.arc(1000-i*30,22,10,0,Math.PI*2);
+  if(!item.good) for(let i=0;i<item.maxHp;i++){ g.beginPath(); g.arc(1000-i*30,22,10,0,Math.PI*2);
     g.fillStyle=i<hp?(sev>=5?'#efe9dc':'#f2b134'):'rgba(239,233,220,.25)'; g.fill(); }
   // headline
   let size=64; g.fillStyle='#10131c'; let lines;
-  do{ g.font=`900 ${size}px "Libre Franklin", Arial, sans-serif`; lines=wrap(g,item.text,964); size-=4;}while(lines.length*size*1.08>240&&size>30);
+  const txt=paper(item.source).shout&&!item.good?item.text.toUpperCase():item.text;
+  do{ g.font=`900 ${size}px "Libre Franklin", Arial, sans-serif`; lines=wrap(g,txt,964); size-=4;}while(lines.length*size*1.08>240&&size>30);
   const lh=size*1.12; const top=44+(268-lines.length*lh)/2+lh/2;
   lines.forEach((l,i)=>g.fillText(l,30,top+i*lh));
   // damage scratches
@@ -259,13 +307,20 @@ function drawSlip(item,hp){
 }
 
 /* ---- game state ---- */
-let state='menu', items=[], parts=[], t=0, spawnT=0, health=100, score=0, killer='', lastPick=-1, shake=0;
+let state='menu', items=[], parts=[], t=0, spawnT=0, health=100, score=0, killer='', killerSrc='', lastPick=-1, shake=0, combo=0, bestCombo=0, comboT=0, lastEd=1;
 const raycaster=new THREE.Raycaster(); const ptr=new THREE.Vector2();
 const slipGeo=new THREE.PlaneGeometry(5.6,1.75);
 
 function pick(){ let i; do{ i=Math.floor(Math.random()*pool.length);}while(pool.length>1&&i===lastPick); lastPick=i; return pool[i]; }
-function spawn(){
-  const src=pick(); const item={text:src.text,source:src.source,sev:src.sev,maxHp:src.sev,hp:src.sev,wob:Math.random()*6};
+function spawn(opts={}){
+  let src;
+  if(opts.good||(!opts.column&&t>8&&Math.random()<0.11)){
+    const goods=pool.filter(p=>p.good); src=goods.length&&Math.random()<.7?goods[Math.floor(Math.random()*goods.length)]:{text:GOOD_SAMPLES[Math.floor(Math.random()*GOOD_SAMPLES.length)],source:'',sev:1,good:true};
+  } else { do{ src=pick(); }while(src.good&&pool.length>3); }
+  if(opts.fluff){ let n=0; while(src.sev>2&&n++<8) src=pick(); }
+  const pp=paper(src.source);
+  let hp=src.good?1:Math.min(8,src.sev+pp.extraHp+(opts.column?3:0));
+  const item={text:src.text,source:src.source,sev:src.sev,good:!!src.good,column:!!opts.column,maxHp:hp,hp,wob:Math.random()*6,pp};
   drawSlip(item,item.hp);
   item.tex=new THREE.CanvasTexture(item.canvas); item.tex.anisotropy=4;
   const m=new THREE.Mesh(slipGeo,new THREE.MeshLambertMaterial({map:item.tex,side:THREE.DoubleSide,transparent:true}));
@@ -273,13 +328,21 @@ function spawn(){
   m.position.set((Math.random()-.5)*halfW*1.2,(Math.random()-.5)*halfH*0.9,z);
   // aim at a point near the player's face
   item.target=new THREE.Vector3((Math.random()-.5)*2.2*Math.min(1,camera.aspect),(Math.random()-.5)*1.4,0);
-  m.rotation.z=(Math.random()-.5)*.3; m.userData.item=item; item.mesh=m; scene.add(m); items.push(item);
+  m.rotation.z=(Math.random()-.5)*.3; m.scale.x=pp.width*(opts.column?1.3:1); m.scale.y=opts.column?1.3:1; item.baseScale=m.scale.clone();
+  m.userData.item=item; item.mesh=m; scene.add(m); items.push(item);
 }
 // Phase 1 (0-30s): speed holds steady while more headlines crowd in. Phase 2: speed ramps.
 function speed(){ return Math.min(24, 5.5 + Math.max(0,t-30)*0.24); }
 function interval(){ return Math.max(0.5, 2.6 - t*0.04); }
 function edition(){ return 1+Math.floor(t/20); }
 
+function setCombo(n){
+  combo=n; bestCombo=Math.max(bestCombo,combo); const el=$('combo');
+  if(combo>=3){ el.textContent='×'+combo; el.classList.add('on'); el.classList.toggle('hot',combo>=10); el.classList.remove('pop'); void el.offsetWidth; el.classList.add('pop'); }
+  else el.classList.remove('on','hot');
+}
+function sting(kicker,text){ $('stingKicker').textContent=kicker; $('stingText').textContent=text; const el=$('sting'); el.classList.remove('on'); void el.offsetWidth; el.classList.add('on'); }
+function setHealth(h){ health=Math.max(0,Math.min(100,h)); $('barFill').style.width=health+'%'; $('bar').classList.toggle('low',health<35); $('vig').style.opacity=((100-health)/100)*0.9; }
 function burst(pos,color,n){
   for(let i=0;i<n;i++){
     const p=new THREE.Mesh(new THREE.PlaneGeometry(.25,.18),new THREE.MeshBasicMaterial({color,side:THREE.DoubleSide,transparent:true}));
@@ -297,18 +360,27 @@ function onTap(e){
   const hits=raycaster.intersectObjects(items.map(i=>i.mesh));
   if(!hits.length) return;
   const item=hits[0].object.userData.item;
-  item.hp--; item.mesh.position.z-=1.2; item.mesh.scale.setScalar(.92); item.flash=.15;
+  if(item.good){
+    burst(item.mesh.position,0x3fae5a,12); remove(item); setHealth(health-10); setCombo(0); SFX.bad();
+    $('ticker').textContent='THAT WAS GOOD NEWS: '+item.text; shake=.2; return;
+  }
+  item.hp--; item.mesh.position.z-=1.2; item.mesh.scale.multiplyScalar(.9); item.flash=.15;
   if(item.hp<=0){
     burst(item.mesh.position,item.sev>=5?0xe2342b:0xefe9dc,10+item.sev*4);
-    score++; $('score').textContent=score;
-    $('ticker').textContent='SPIKED'+(item.source?' ('+item.source+')':'')+': '+item.text; remove(item);
-  } else drawSlip(item,item.hp);
+    setCombo(combo+1); comboT=4; const mult=combo>=10?3:combo>=5?2:1;
+    score+=mult; $('score').textContent=score; SFX.shred(item.sev); if(combo===5||combo===10) SFX.combo();
+    $('ticker').textContent='SPIKED'+(item.source?' ('+item.source+')':'')+(mult>1?' ×'+mult:'')+': '+item.text; remove(item);
+  } else { drawSlip(item,item.hp); SFX.tap(combo); }
 }
 renderer.domElement.addEventListener('pointerdown',onTap);
 
 function hitPlayer(item){
-  const dmg=8+item.sev*6; health=Math.max(0,health-dmg); killer=item.text;
-  $('barFill').style.width=health+'%'; $('bar').classList.toggle('low',health<35);
+  if(item.good){
+    setHealth(health+15); SFX.heal(); remove(item); $('ticker').textContent='GOOD NEWS: '+item.text;
+    $('flash').classList.add('on','good'); requestAnimationFrame(()=>requestAnimationFrame(()=>$('flash').classList.remove('on')));
+    setTimeout(()=>$('flash').classList.remove('good'),400); return;
+  }
+  const dmg=8+item.sev*6+(item.column?10:0); setHealth(health-dmg); killer=item.text; killerSrc=item.source; setCombo(0); SFX.hit(item.sev);
   $('flash').classList.add('on'); requestAnimationFrame(()=>requestAnimationFrame(()=>$('flash').classList.remove('on')));
   shake=.35+item.sev*.05; $('ticker').textContent='IT GOT THROUGH: '+item.text;
   try{navigator.vibrate&&navigator.vibrate(40+item.sev*20)}catch(e){}
@@ -317,7 +389,7 @@ function hitPlayer(item){
 }
 
 function start(){
-  items.slice().forEach(remove); t=0; spawnT=1.2; health=100; score=0; killer='';
+  audio(); items.slice().forEach(remove); t=0; spawnT=1.2; score=0; killer=''; killerSrc=''; combo=0; bestCombo=0; lastEd=1; setHealth(100); setCombo(0);
   $('score').textContent='0'; $('lvl').textContent='1'; $('barFill').style.width='100%'; $('bar').classList.remove('low');
   ['startScreen','overScreen','pasteScreen'].forEach(id=>$(id).hidden=true); $('hud').hidden=false;
   $('ticker').textContent='Tap the headlines before they reach you'; state='play';
@@ -326,11 +398,15 @@ function gameOver(){
   state='over'; $('hud').hidden=true;
   const best=Math.max(score,+(store.get('ktn-best')||0)); store.set('ktn-best',best);
   $('finalScore').textContent=score; $('finalTime').textContent=Math.floor(t)+'s'; $('killer').textContent=killer;
-  $('bestNote').textContent=score>=best&&score>0?'New best edition.':`Best: ${best} spiked.`;
+  $('finalCombo').textContent='×'+bestCombo; $('finalEd').textContent=edition();
+  $('killerBy').textContent=killerSrc?`Finished off by the ${killerSrc==='Mail'?'Daily Mail':killerSrc}`:'The one that finished you';
+  $('bestNote').textContent=score>=best&&score>0?'New best edition.':`Best: ${best} spiked.`; $('combo').classList.remove('on');
   $('overScreen').hidden=false;
 }
 
 $('playBtn').onclick=start; $('againBtn').onclick=start;
+$('copyBtn').onclick=()=>{ const txt=`Kill the News: I survived ${Math.floor(t)}s, spiked ${score} headlines (best combo ×${bestCombo}) and was finished off by ${killerSrc?'the '+(killerSrc==='Mail'?'Daily Mail':killerSrc):'a headline'}: "${killer}"`;
+  const b=$('copyBtn'); navigator.clipboard.writeText(txt).then(()=>{b.textContent='Copied';setTimeout(()=>b.textContent='Copy result',1500);}).catch(()=>{b.textContent=txt;}); };
 $('menuBtn').onclick=()=>{$('overScreen').hidden=true;$('startScreen').hidden=false;items.slice().forEach(remove);state='menu';};
 $('pasteBtn').onclick=()=>{$('pasteBox').value=usingCustom?pool.map(p=>p.text).join('\n'):'';$('startScreen').hidden=true;$('pasteScreen').hidden=false;};
 $('useBtn').onclick=()=>{const lines=$('pasteBox').value.split('\n').filter(l=>l.trim().length>3);
@@ -348,19 +424,24 @@ function loop(){
   dustGeo.attributes.position.needsUpdate=true;
 
   if(state==='play'){
-    t+=dt; spawnT-=dt; $('lvl').textContent=edition();
+    t+=dt; spawnT-=dt; const ed=edition(); $('lvl').textContent=ed;
+    if(comboT>0){ comboT-=dt; if(comboT<=0&&combo>0) setCombo(0); }
+    if(ed!==lastEd){ lastEd=ed; SFX.edition();
+      if(ed%2===0){ sting('Extra · Edition '+ed,'OPINION COLUMN'); spawn({column:true}); }
+      else { sting('Extra · Edition '+ed,'FLUFF FLURRY'); for(let i=0;i<5;i++) setTimeout(()=>state==='play'&&spawn({fluff:true}),i*260); }
+      spawnT=Math.max(spawnT,1.5); }
     if(spawnT<=0){ spawn(); if(t>10&&Math.random()<Math.min(.55,(t-10)/60)) spawn(); spawnT=interval()*(0.7+Math.random()*0.6); }
     const sp=speed();
     for(const it of items.slice()){
       const m=it.mesh; const z=m.position.z; const k=(z-SPAWN_Z)/-SPAWN_Z; // 0 far → 1 near
       // heavier stories move a touch slower
-      const v=sp*(1.08-it.sev*0.04);
+      const v=sp*(1.08-it.sev*0.04)*it.pp.speed*(it.column?0.6:1);
       m.position.z+=v*dt;
       tmp.set(it.target.x,it.target.y,m.position.z);
-      m.position.x+= (tmp.x-m.position.x)*dt*0.6*k;
-      m.position.y+= (tmp.y-m.position.y)*dt*0.6*k + Math.sin(t*2+it.wob)*dt*0.3;
+      m.position.x+= (tmp.x-m.position.x)*dt*0.6*k + Math.sin(t*3.1+it.wob)*dt*1.8*it.pp.weave;
+      m.position.y+= (tmp.y-m.position.y)*dt*0.6*k + Math.sin(t*2+it.wob)*dt*(0.3+it.pp.weave);
       m.rotation.y=Math.sin(t*1.3+it.wob)*0.18; m.rotation.x=Math.sin(t*0.9+it.wob)*0.1;
-      m.scale.lerp(tmp.set(1,1,1),dt*10);
+      m.scale.lerp(it.baseScale,dt*10);
       if(it.flash>0){it.flash-=dt; m.material.emissive&&m.material.emissive.setHex(0x661111);} else m.material.emissive&&m.material.emissive.setHex(0);
       if(m.position.z>-1.6) hitPlayer(it);
     }
