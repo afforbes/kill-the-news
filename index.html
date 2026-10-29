@@ -258,30 +258,44 @@ const MUSIC=(()=>{
   // D minor. Chord cycle i – VI – VII – v (Dm, Bb, C, Am) every bar; pulse runs on the chord root.
   const CHORDS=[[62,65,69],[58,62,65],[60,64,67],[57,60,64]];
   const ROOTS=[38,34,36,33];
-  let master=null, on=true, running=false, bar=0, step=0, nextT=0, timer=null, bpm=134, lead=0.12;
-  function out(){ const ac=audio(); if(!ac) return null; if(!master){ master=ac.createGain(); master.gain.value=on?0.7:0; const comp=ac.createDynamicsCompressor(); comp.threshold.value=-14; comp.knee.value=8; comp.ratio.value=6; comp.attack.value=.003; comp.release.value=.12; master.connect(comp).connect(ac.destination);} return ac; }
+  let master=null, rev=null, dly=null, on=true, running=false, bar=0, step=0, nextT=0, timer=null, bpm=134, lead=0.12;
+  function out(){ const ac=audio(); if(!ac) return null; if(!master){
+      master=ac.createGain(); master.gain.value=on?0.7:0;
+      const comp=ac.createDynamicsCompressor(); comp.threshold.value=-12; comp.knee.value=10; comp.ratio.value=4; comp.attack.value=.004; comp.release.value=.15;
+      master.connect(comp).connect(ac.destination);
+      // room: a synthetic stereo impulse (2 s, exponential decay) on a send bus
+      const len=ac.sampleRate*2, ir=ac.createBuffer(2,len,ac.sampleRate);
+      for(let ch=0;ch<2;ch++){ const d=ir.getChannelData(ch); for(let i=0;i<len;i++) d[i]=(Math.random()*2-1)*Math.pow(1-i/len,2.6)*(i<400?i/400:1); }
+      const conv=ac.createConvolver(); conv.buffer=ir; rev=ac.createGain(); rev.gain.value=.35; rev.connect(conv).connect(master);
+      // slapback delay for the key, dotted-eighth feel, panned off-centre
+      dly=ac.createGain(); const d=ac.createDelay(1); d.delayTime.value=.19; const fb=ac.createGain(); fb.gain.value=.28; const pan=ac.createStereoPanner(); pan.pan.value=.45;
+      const lp=ac.createBiquadFilter(); lp.type='lowpass'; lp.frequency.value=3200;
+      dly.connect(d); d.connect(lp); lp.connect(fb); fb.connect(d); lp.connect(pan).connect(master); lp.connect(rev);
+    } return ac; }
   function osc(ac,type,freq,t0,dur,vol,dest,attack=.005,detune=0){
     const o=ac.createOscillator(), g=ac.createGain(); o.type=type; o.frequency.setValueAtTime(freq,t0); o.detune.value=detune;
-    g.gain.setValueAtTime(0,t0); g.gain.linearRampToValueAtTime(vol,t0+attack); g.gain.exponentialRampToValueAtTime(.0005,t0+dur);
-    o.connect(g).connect(dest||master); o.start(t0); o.stop(t0+dur+.02); return o; }
+    g.gain.setValueAtTime(0,t0); g.gain.linearRampToValueAtTime(vol,t0+attack); g.gain.setTargetAtTime(.0001,t0+dur*.6,dur*.18);
+    o.connect(g).connect(dest||master); o.start(t0); o.stop(t0+dur+.05); return o; }
   function brass(ac,notes,t0,dur,vol){ // string section: detuned saws under a dark lowpass with a slow attack, nothing brassy
     const f=ac.createBiquadFilter(); f.type='lowpass'; f.frequency.setValueAtTime(500,t0); f.frequency.linearRampToValueAtTime(1100,t0+dur*.5); f.connect(master);
     notes.forEach(n=>{ osc(ac,'sawtooth',NOTE(n),t0,dur,vol*.7,f,Math.min(.25,dur*.4),-7); osc(ac,'sawtooth',NOTE(n),t0,dur,vol*.7,f,Math.min(.25,dur*.4),7); osc(ac,'sine',NOTE(n-12),t0,dur,vol*.6,f,.05); }); }
   // morse: a pure sine telegraph key. dot = short, dash = three dots. Patterns are rhythmic, not real messages.
-  function key(ac,t0,dur,f=1180,vol=.2){ osc(ac,'sine',f,t0,dur,vol,master,.003); }
+  function key(ac,t0,dur,f=1180,vol=.2){ const o=osc(ac,'sine',f,t0,dur,vol,master,.006); const send=ac.createGain(); send.gain.value=.5; o.connect(send); send.connect(dly); send.connect(rev); }
   const MORSE=[
     '.... .-.. ...- .-', // bar patterns: each char is a 16th slot; '.'=dot '-'=dash ' '=rest
     '.-.. .... --.. ..',
     '.... .... .-.- ..',
     '-... .-.- .... ..' ];
-  function timp(ac,t0,freq=55,vol=.9){ const o=ac.createOscillator(), g=ac.createGain(); o.type='sine'; o.frequency.setValueAtTime(freq*2,t0); o.frequency.exponentialRampToValueAtTime(freq,t0+.12);
-    g.gain.setValueAtTime(vol,t0); g.gain.exponentialRampToValueAtTime(.001,t0+.6); o.connect(g).connect(master); o.start(t0); o.stop(t0+.7);
-    const b=ac.createBuffer(1,ac.sampleRate*.08,ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*(1-i/d.length);
-    const n=ac.createBufferSource(); n.buffer=b; const ng=ac.createGain(); ng.gain.value=vol*.25; const lf=ac.createBiquadFilter(); lf.type='lowpass'; lf.frequency.value=400; n.connect(lf).connect(ng).connect(master); n.start(t0); }
-  function hat(ac,t0,vol=.12,dur=.04){ const b=ac.createBuffer(1,ac.sampleRate*dur,ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*(1-i/d.length);
-    const n=ac.createBufferSource(); n.buffer=b; const f=ac.createBiquadFilter(); f.type='highpass'; f.frequency.value=6000; const g=ac.createGain(); g.gain.value=vol; n.connect(f).connect(g).connect(master); n.start(t0); }
+  function nz(ac,dur){ const b=ac.createBuffer(1,Math.ceil(ac.sampleRate*dur),ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=Math.random()*2-1; const n=ac.createBufferSource(); n.buffer=b; return n; }
+  function timp(ac,t0,freq=55,vol=.9){ // kick / timpani: pitched sine drop with a soft click, a touch into the room
+    const o=ac.createOscillator(), g=ac.createGain(); o.type='sine'; o.frequency.setValueAtTime(freq*3.2,t0); o.frequency.exponentialRampToValueAtTime(freq,t0+.07);
+    g.gain.setValueAtTime(0,t0); g.gain.linearRampToValueAtTime(vol,t0+.004); g.gain.exponentialRampToValueAtTime(.001,t0+.5); o.connect(g).connect(master); g.connect(rev); o.start(t0); o.stop(t0+.6);
+    const n=nz(ac,.03), f=ac.createBiquadFilter(); f.type='bandpass'; f.frequency.value=1800; f.Q.value=.7; const ng=ac.createGain(); ng.gain.setValueAtTime(vol*.35,t0); ng.gain.exponentialRampToValueAtTime(.001,t0+.03); n.connect(f).connect(ng).connect(master); n.start(t0); }
+  function hat(ac,t0,vol=.12,dur=.04){ const n=nz(ac,dur+.05), f=ac.createBiquadFilter(); f.type='highpass'; f.frequency.value=7500; const f2=ac.createBiquadFilter(); f2.type='peaking'; f2.frequency.value=10000; f2.gain.value=4;
+    const g=ac.createGain(); g.gain.setValueAtTime(vol,t0); g.gain.exponentialRampToValueAtTime(.001,t0+dur); n.connect(f).connect(f2).connect(g).connect(master); n.start(t0); }
   function pip(ac,t0,dur=.09,vol=.18,f=1000){ osc(ac,'sine',f,t0,dur,vol,master,.002); }
-  function snare(ac,t0,vol=.3){ hat(ac,t0,vol,.12); osc(ac,'triangle',190,t0,.1,vol*.6,master,.002); }
+  function snare(ac,t0,vol=.3){ const n=nz(ac,.25), f=ac.createBiquadFilter(); f.type='bandpass'; f.frequency.value=2200; f.Q.value=.6; const g=ac.createGain(); g.gain.setValueAtTime(vol,t0); g.gain.exponentialRampToValueAtTime(.001,t0+.18); n.connect(f).connect(g).connect(master); g.connect(rev); n.start(t0);
+    const o=ac.createOscillator(), og=ac.createGain(); o.type='sine'; o.frequency.setValueAtTime(240,t0); o.frequency.exponentialRampToValueAtTime(150,t0+.06); og.gain.setValueAtTime(vol*.8,t0); og.gain.exponentialRampToValueAtTime(.001,t0+.1); o.connect(og).connect(master); o.start(t0); o.stop(t0+.12); }
 
   function intro(ac,t0){
     // bar 1: timpani roll under five pips, the sixth long (a countdown to air)
@@ -289,14 +303,13 @@ const MUSIC=(()=>{
     for(let i=0;i<5;i++) pip(ac,t0+i*.4);
     pip(ac,t0+2.0,.6,.22);
     // bar 2: brass motif  D  D  F  A | G F E D (dotted, urgent)
-    const m=[[62,0,.5],[65,.6,.5],[69,.9,.9],[67,1.5,.4],[65,1.75,.4],[62,2.25,1.2]];
-    m.forEach(([n,at,d])=>{ brass(ac,[n,n+7,n+12],t0+2.3+at,d,.07); });
+    // a deep sub drone rises under the telegraph instead of a chord
+    osc(ac,'sine',NOTE(38),t0+2.3,3.2,.22,master,1.2); osc(ac,'sine',NOTE(26),t0+2.3,3.2,.18,master,1.6);
     // telegraph burst: fast dots in groups of four, a dash to close each group
     for(let gp=0;gp<4;gp++){ for(let i=0;i<4;i++) key(ac,t0+2.3+gp*.55+i*.11,.05); key(ac,t0+2.3+gp*.55+.44,.14,1180,.22); }
     for(let i=0;i<8;i++) timp(ac,t0+2.3+i*.25,48,.5);
     timp(ac,t0+2.3,55,1); timp(ac,t0+3.2,55,.8); timp(ac,t0+4.55,49,1.1);
     // big held chord into the pulse
-    brass(ac,[50,57,62,65,69],t0+4.55,1.6,.08);
     for(let i=0;i<7;i++) key(ac,t0+4.55+i*.12,i===6?.3:.05);
     return t0+5.4; // when the pulse takes over
   }
@@ -304,8 +317,8 @@ const MUSIC=(()=>{
     const chord=CHORDS[b%4], root=ROOTS[b%4], beat=60/bpm, s16=beat/4, intensity=Math.min(1,(typeof t==='number'?t:0)/120);
     // the pulse: 16th-note bass, accents on 1 and the "and" of 2
     const acc=(st%16===0||st%16===6)?1.0:(st%2===0?.8:.6);
-    osc(ac,'triangle',NOTE(root),when,s16*.9,.16*acc,master,.003);
-    osc(ac,'sine',NOTE(root-12),when,s16*.9,.12*acc,master,.003);
+    { const f=ac.createBiquadFilter(); f.type='lowpass'; f.frequency.setValueAtTime(420+acc*500,when); f.frequency.exponentialRampToValueAtTime(180,when+s16); f.Q.value=3; f.connect(master);
+      osc(ac,'triangle',NOTE(root),when,s16*.95,.22*acc,f,.004); osc(ac,'sawtooth',NOTE(root),when,s16*.95,.07*acc,f,.004,4); }
     // the telegraph: dots and dashes on a single pure tone, pattern per bar; a lower key answers every other bar
     const mc=MORSE[b%4][st];
     if(mc==='.') key(ac,when,s16*.45,1180,.2); else if(mc==='-') key(ac,when,s16*1.5,1180,.22);
@@ -318,13 +331,12 @@ const MUSIC=(()=>{
     if(intensity>.3&&st%4===2) hat(ac,when,.16,.1);
     if(intensity>.6&&(st%16===14||st%16===15)) snare(ac,when,.18);
     // string pad: chord held per bar, low in the mix
-    if(st===0){ const f=ac.createBiquadFilter(); f.type='lowpass'; f.frequency.value=1200+intensity*1500; f.connect(master);
-      chord.forEach(n=>{ osc(ac,'sawtooth',NOTE(n),when,beat*4,.028,f,.3,-5); osc(ac,'sawtooth',NOTE(n),when,beat*4,.028,f,.3,5); }); }
+    // no pad: a bar-long sub drone on the root keeps it full without any synth tone
+    if(st===0) osc(ac,'sine',NOTE(root-12),when,beat*4,.1,master,.2);
     // arpeggio lead, 16ths, brighter as intensity rises
-    const arp=[0,2,1,2,0,1,2,1][Math.floor(st/2)%8]; if(st%2===0) osc(ac,'sine',NOTE(chord[arp]+12),when,s16*1.6,.03+intensity*.03,master,.004);
+    const arp=[0,2,1,2,0,1,2,1][Math.floor(st/2)%8]; if(intensity>.25&&st%2===0){ const o=osc(ac,'sine',NOTE(chord[arp]+24),when,s16*1.2,.02+intensity*.03,master,.004); o.connect(rev); }
     // brass stab on the downbeat every other bar, and a two-note answer on bar 4
-    if(st===0&&b%4===0) brass(ac,chord.map(n=>n+12),when,beat*3.5,.05);
-    if(b%8===7&&st===12) brass(ac,[62,65,69,74],when,beat*1.2,.07);
+    if(b%8===7&&st>=12) key(ac,when,s16*.45,[885,1180,1770,2360][st-12],.12);
   }
   function tick(){ const ac=out(); if(!ac||!running) return;
     bpm=134+Math.min(42,Math.max(0,(typeof speed==='function'?speed():5.5)-5.5)*2.3);
@@ -333,7 +345,7 @@ const MUSIC=(()=>{
     start(){ const ac=out(); if(!ac) return; running=true; bar=0; step=0; nextT=intro(ac,ac.currentTime+.05); clearInterval(timer); timer=setInterval(tick,30); },
     stop(){ running=false; clearInterval(timer); const ac=out(); if(!ac) return;
       // sign-off: falling brass and a last timpani
-      brass(ac,[62,65,69],ac.currentTime,.5,.06); brass(ac,[60,64,67],ac.currentTime+.45,.5,.06); brass(ac,[50,57,62],ac.currentTime+.9,1.6,.07); timp(ac,ac.currentTime+.9,45,1); for(let i=0;i<3;i++) key(ac,ac.currentTime+1.0+i*.14,.06); key(ac,ac.currentTime+1.45,.5,1180,.18); },
+      const c=ac.currentTime; timp(ac,c,50,.9); timp(ac,c+.45,45,1); osc(ac,'sine',NOTE(26),c+.45,2.5,.2,master,.05); for(let i=0;i<3;i++) key(ac,c+.6+i*.14,.06); key(ac,c+1.05,.6,1180,.18); },
     toggle(){ on=!on; store.set('ktn-sound',on?'1':'0'); if(master) master.gain.setTargetAtTime(on?0.7:0,audio().currentTime,.05); return on; },
     get on(){ return on; }, set on(v){ on=v; }
   };
