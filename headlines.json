@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:18:18.712Z",
+ "updated": "2026-10-29T18:02:28.621Z",
  "headlines": [
   {
    "text": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
@@ -14,7 +14,7 @@
    "good": false
   },
   {
-   "text": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+   "text": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -50,9 +50,9 @@
    "good": false
   },
   {
-   "text": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
+   "text": "Hundreds of GP practices lose online services after collapse of tech firm",
    "source": "BBC",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
@@ -62,9 +62,9 @@
    "good": false
   },
   {
-   "text": "Hundreds of GP practices lose online services after collapse of tech firm Silicon Practice",
+   "text": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
    "source": "BBC",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
@@ -140,6 +140,12 @@
    "good": false
   },
   {
+   "text": "DUP blocks Michelle O'Neill's engagements over Drumcree",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
    "source": "BBC",
    "sev": 6,
@@ -152,19 +158,13 @@
    "good": false
   },
   {
-   "text": "Serious pollution by water industry remains high despite £5bn investment",
+   "text": "Colorado firebombing suspect pleads guilty to federal hate crimes charges",
    "source": "BBC",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
    "text": "Bereaved families appalled by footage of Seoul crush in Call of Duty",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "DUP blocks Michelle O'Neill's engagements over Drumcree",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -224,15 +224,21 @@
    "good": false
   },
   {
+   "text": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Spain begins mourning period as search continues for train crash victims",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
+   "text": "Metropolitan police refers itself to watchdog over Meghan warning letter",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -242,15 +248,9 @@
    "good": false
   },
   {
-   "text": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
+   "text": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
    "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
-   "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -260,15 +260,15 @@
    "good": false
   },
   {
-   "text": "Eight of England’s nine water companies still failing on environment, report finds",
+   "text": "Trump rallies in South Carolina as turmoil grows over Alaska campaign investigation – live",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Astronauts step out of the ISS for spacewalk – watch live",
+   "text": "‘We make shit houses great again’: Visit Norway cleans up after Trump’s insult",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -362,21 +362,27 @@
    "good": false
   },
   {
-   "text": "Moment hero worker tries to stop train knifeman with frying pan during stabbing 'rampage' is shown to court",
+   "text": "Moment hero worker tries to stop train knifeman with frying pan as he 'attempted to murder 10 passengers' is shown in court",
    "source": "Mail",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Labour's soft justice bonanza sees number of new crimes committed by freed lags hit record high as it emerges more than 79,000 prisoners have now been let out of jail early",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Healey deals blow to Burnham's hopes of cooling Labour Brexit row saying UK won't rejoin the EU in his lifetime and downplaying return of free movement",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
    "text": "Inside the 'never-ending cruise' that dumped its passengers in Cambodia: 'It got worse and worse. Crew begged us for money. We gave them $450k after they pressured us'",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Healey risks undermining Burnham's bid to ease Brexit splits as he insists freedom of movement is 'not on the agenda'",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
@@ -417,12 +423,6 @@
   },
   {
    "text": "Holidaymakers face higher air fares as new Budget 'green tax' on imported fuels announced by Chancellor John Healey could apply to jet fuel",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Labour's soft justice bonanza sees number of new crimes committed by freed lags hit record high as it emerges more than 79,000 prisoners have now been let out of jail early",
    "source": "Mail",
    "sev": 2,
    "good": false
