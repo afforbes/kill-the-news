@@ -209,7 +209,8 @@ renderer.setPixelRatio(Math.min(devicePixelRatio,2));
 stage.appendChild(renderer.domElement);
 const scene=new THREE.Scene();
 scene.background=new THREE.Color(0x10131c);
-scene.fog=new THREE.Fog(0x10131c,30,75);
+scene.fog=new THREE.Fog(0x10131c,45,90);
+const SPAWN_Z=-42;
 const camera=new THREE.PerspectiveCamera(60,1,0.1,200);
 scene.add(new THREE.AmbientLight(0xffffff,0.75));
 const key=new THREE.DirectionalLight(0xffe6c8,0.6); key.position.set(3,5,4); scene.add(key);
@@ -260,7 +261,7 @@ function drawSlip(item,hp){
 /* ---- game state ---- */
 let state='menu', items=[], parts=[], t=0, spawnT=0, health=100, score=0, killer='', lastPick=-1, shake=0;
 const raycaster=new THREE.Raycaster(); const ptr=new THREE.Vector2();
-const slipGeo=new THREE.PlaneGeometry(4.8,1.5);
+const slipGeo=new THREE.PlaneGeometry(5.6,1.75);
 
 function pick(){ let i; do{ i=Math.floor(Math.random()*pool.length);}while(pool.length>1&&i===lastPick); lastPick=i; return pool[i]; }
 function spawn(){
@@ -268,7 +269,7 @@ function spawn(){
   drawSlip(item,item.hp);
   item.tex=new THREE.CanvasTexture(item.canvas); item.tex.anisotropy=4;
   const m=new THREE.Mesh(slipGeo,new THREE.MeshLambertMaterial({map:item.tex,side:THREE.DoubleSide,transparent:true}));
-  const z=-62; const halfH=Math.tan(THREE.MathUtils.degToRad(30))*-z; const halfW=halfH*camera.aspect;
+  const z=SPAWN_Z; const halfH=Math.tan(THREE.MathUtils.degToRad(30))*-z; const halfW=halfH*camera.aspect;
   m.position.set((Math.random()-.5)*halfW*1.2,(Math.random()-.5)*halfH*0.9,z);
   // aim at a point near the player's face
   item.target=new THREE.Vector3((Math.random()-.5)*2.2*Math.min(1,camera.aspect),(Math.random()-.5)*1.4,0);
@@ -350,7 +351,7 @@ function loop(){
     if(spawnT<=0){ spawn(); if(t>45&&Math.random()<Math.min(.5,(t-45)/120)) spawn(); spawnT=interval()*(0.7+Math.random()*0.6); }
     const sp=speed();
     for(const it of items.slice()){
-      const m=it.mesh; const z=m.position.z; const k=(z+62)/62; // 0 far → 1 near
+      const m=it.mesh; const z=m.position.z; const k=(z-SPAWN_Z)/-SPAWN_Z; // 0 far → 1 near
       // heavier stories move a touch slower
       const v=sp*(1.08-it.sev*0.04);
       m.position.z+=v*dt;
