@@ -275,8 +275,9 @@ function spawn(){
   item.target=new THREE.Vector3((Math.random()-.5)*2.2*Math.min(1,camera.aspect),(Math.random()-.5)*1.4,0);
   m.rotation.z=(Math.random()-.5)*.3; m.userData.item=item; item.mesh=m; scene.add(m); items.push(item);
 }
-function speed(){ return Math.min(24, 5.5 + t*0.22); }
-function interval(){ return Math.max(0.5, 3.4 - t*0.042); }
+// Phase 1 (0-30s): speed holds steady while more headlines crowd in. Phase 2: speed ramps.
+function speed(){ return Math.min(24, 5.5 + Math.max(0,t-30)*0.24); }
+function interval(){ return Math.max(0.5, 2.6 - t*0.04); }
 function edition(){ return 1+Math.floor(t/20); }
 
 function burst(pos,color,n){
@@ -348,7 +349,7 @@ function loop(){
 
   if(state==='play'){
     t+=dt; spawnT-=dt; $('lvl').textContent=edition();
-    if(spawnT<=0){ spawn(); if(t>45&&Math.random()<Math.min(.5,(t-45)/120)) spawn(); spawnT=interval()*(0.7+Math.random()*0.6); }
+    if(spawnT<=0){ spawn(); if(t>10&&Math.random()<Math.min(.55,(t-10)/60)) spawn(); spawnT=interval()*(0.7+Math.random()*0.6); }
     const sp=speed();
     for(const it of items.slice()){
       const m=it.mesh; const z=m.position.z; const k=(z-SPAWN_Z)/-SPAWN_Z; // 0 far → 1 near
