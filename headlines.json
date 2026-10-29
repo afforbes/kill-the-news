@@ -3,363 +3,543 @@
  "headlines": [
   {
    "text": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Met refers itself to police watchdog over letter about Meghan's father",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "George Michael's Faith guitar sells for £180k after auction row",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Lib Dems and Reform UK in war of words over alleged shove",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Hundreds of GP practices lose online services after collapse of tech firm Silicon Practice",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Faisal Islam: This Budget was micro and that was deliberate",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Bereaved families will not face tax bill over pension delays under new rules",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Healey provides some breathing space but things still set to get worse for most",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "What the Budget means for your money",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "'The internet's a less whimsical place' - YouTuber Jacksepticeye branches out",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Europe's youth is on the march - but does anything actually unite them?",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Israel's election deadlock is a sign of the country's deep divisions",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "We love how we look but AI tried to 'fix' our visible differences",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "'I live with a ghost': The people saving money by moving into Japan's haunted houses",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Take our Celebrity Traitors quiz to find out which star you would be in this year's show",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 6,
+   "good": false
   },
   {
    "text": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 6,
+   "good": false
   },
   {
    "text": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Serious pollution by water industry remains high despite £5bn investment",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Bereaved families appalled by footage of Seoul crush in Call of Duty",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "DUP blocks Michelle O'Neill's engagements over Drumcree",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Mum of critically ill baby denied hospital food as she wasn't breastfeeding",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Download now",
-   "source": "BBC"
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "How £100 vanishes in minutes: inside the ‘slot farms’ targeted in the budget",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "The tabloids that used Thomas Markle to attack Meghan should now reflect. I bet they won’t | Zoe Willliams",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Exploding heads, mutant aliens and bursting chests: horror’s greatest special effects – ranked!",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "‘Why has the Chancellor left the wealthiest untouched?’ – our money and economics writers answered your questions",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Puddlesuits, movie nights and daytime baths: how to survive rainy days with small kids",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Flávio Bolsonaro’s defeat is a major blow to Trump and his orange wave",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Healey’s budget paves way for ‘brutal’ spending review next year, warns IFS",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Spain begins mourning period as search continues for train crash victims",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Finland launches criminal investigation into Google’s clearing of forest for datacentre site",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Nigel Farage accused of shoving female Lib Dem MP in parliament",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Israel election results live: Qatar says accusations of election interference in Israel ‘ridiculous and dangerous’",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Burnham denies preventing ministers from speaking about plans for closer relationship with EU – UK politics live",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Russell Brand’s wife tells court he is ‘amazingly attentive husband’",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Eight of England’s nine water companies still failing on environment, report finds",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Astronauts step out of the ISS for spacewalk – watch live",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "How will John Healey’s energy support package affect you?",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "What you need to know about Your First Home scheme for first-time buyers",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "‘I earn £126,000 – but nothing’s left at the end of the month’: readers react to the budget",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "How did the Spain train crash happen and what will investigators be asking?",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "​Pragmatic or pointless? Europe’s rift over whether to pick up the phone to Putin",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Behind the scenes at the scream park: fear, fainting, clowns – and ‘code brown’",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "What is it like to work when your co-workers are AI agents?",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "My sister-in-law is nearly 40 but cannot handle losing at board games. What can I do? | Leading questions",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "​‘He buckled. I could hear his bass ringing out ...’ The luminous rise and tragic end of US alt heroes Morphine",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "‘Algorithms make everything predictable’: why the CD is making a comeback",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Middlemarch review – World’s Greatest Novel hurtles from costume drama to jolting marital tragedy",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "‘My hands are shaking’ - what it’s like to be an expert witness - video",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Fake film deals and emails from top agents: who is behind the explosion in literary scams?",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "The ‘breathing space budget’ – breathing space for the government, that is | John Crace",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "If British Library reading rooms become ‘co-working spaces’, it’s all too easy to imagine what comes next | Andy Beckett",
-   "source": "Guardian"
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Moment hero worker tries to stop train knifeman with frying pan during stabbing 'rampage' is shown to court",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Inside the 'never-ending cruise' that dumped its passengers in Cambodia: 'It got worse and worse. Crew begged us for money. We gave them $450k after they pressured us'",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Healey risks undermining Burnham's bid to ease Brexit splits as he insists freedom of movement is 'not on the agenda'",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Moment Audi driven by illegal migrant smashes into roundabout and flips after dramatic 100mph police chase",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Thomas Markle's digital devices to be examined by Philippine police after court grants search warrant over alleged child sex abuse images",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Train crash disaster that claimed 74 lives sparks violent demonstrations and clashes with riot cops in Madrid as audio of controller's 'catastrophic error' emerges",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Man admits murdering Microsoft manager, 44, found drowned next to private members' club on River Thames - as police reveal pair knew each other",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "It could be you: Lottery bosses hunt missing millionaire as clock ticks down to claim deadline",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Samantha Markle's defence of her father will likely 'do little to improve' his reputation, says RICHARD EDEN, after she claimed photograph at heart of child abuse probe 'may be one of his girlfriends'",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "Holidaymakers face higher air fares as new Budget 'green tax' on imported fuels announced by Chancellor John Healey could apply to jet fuel",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Labour's soft justice bonanza sees number of new crimes committed by freed lags hit record high as it emerges more than 79,000 prisoners have now been let out of jail early",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Trump takes the credit as Netanyahu edges ahead in Israeli elections",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Monaco royal family member found dead in park 'fell 40ft to his death'... as rumours swirl he was connected to cryptocurrency scandal and Ukrainian is arrested",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "'Dishonest' homeowner who won £225,000 Thames Water payment claiming her house was 'unsellable' after floods must pay cash back because she'd sold it a month earlier for £780,000",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Healey faces bingo backlash as Budget tax raid puts 77 sites and 1,200 jobs at risk",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Moment anti-migrant protester hurls petrol bomb at hotel housing up to 500 asylum seekers",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 5,
+   "good": false
   },
   {
    "text": "Kosovan criminal who stole from disabled people can't be deported as she is 'culturally and socially integrated' in Britain, judge rules",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Burglars steal 12 Pokémon cards worth £12,000 in targeted raid while owner was on holiday - as thefts of valuable collector's items soar",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "King Charles has moves! Monarch leaves Bahamas with his dancing hogging the headlines despite calls for slavery apology and reparations",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "At least something is going down fast! Chancellor Healey necks a pint hours after tax-raising Budget that hit strivers",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Households face being £1,050 a year worse off by 2029 - as country suffers worst decade for living standards since records began in 1960s",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Pigs facing the slaughterhouse after escaping on to busy road have their bacon saved by online donors",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "Two Albanians jailed after £500,000 cannabis farm hidden in underground bunkers straight out of Guy Ritchie's The Gentlemen are unearthed",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Mother of baby fighting for life left 'shocked' at being denied hospital meals as she was not breastfeeding",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "SARAH VINE: It's obvious Healey's a decent fellow, but Kemi was in full attack mode. This wasn't going to be pretty",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 3,
+   "good": false
   },
   {
    "text": "Engineer accused of the rape and murder of his girlfriend became angry about her choice of clothes and threw a dog at her, court hears",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 6,
+   "good": false
   },
   {
    "text": "Worse off under Burnham: The middle-earners and families struggling with bills who face a fall in living standards under Labour's 'is that it?' Budget",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Award-winning psychic, 44, died after falling down flight of stairs, inquest hears",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 4,
+   "good": false
   },
   {
    "text": "'I don't think anyone in the Labour government is financially literate': Voters give their verdict on John Healey's 'is that it?' Budget",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Peace talks between Russia and Ukraine 'will take place in coming days', Zelensky says",
-   "source": "Mail"
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   }
  ]
 }

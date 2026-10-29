@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['scripts/**', '.github/workflows/headlines.yml']
+    paths: ['scripts/**', 'seriousness.js', '.github/workflows/headlines.yml']
 
 permissions:
   contents: write

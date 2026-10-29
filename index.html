@@ -119,7 +119,7 @@ textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-m
   <div class="slip">
     <div class="kicker">Copy desk</div>
     <h2>Paste today's headlines</h2>
-    <p>One per line. These replace the live feed until you switch back. Each gets a severity score from its words.</p>
+    <p>One per line. These replace the live feed until you switch back. Each is scored for seriousness: deaths, war and disaster score highest, politics and money in the middle, celebrities and animals lowest.</p>
     <textarea id="pasteBox" placeholder="One headline per line"></textarea>
     <div class="row">
       <button id="useBtn">Use these</button>
@@ -144,6 +144,7 @@ textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-m
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="seriousness.js"></script>
 <script>
 (function(){
 const $=id=>document.getElementById(id);
@@ -211,7 +212,7 @@ function severity(h){
 let pool=[], usingCustom=false, live=null;
 function setPool(entries,mode,note){
   pool=entries.map(e=>typeof e==='string'?{text:e}:e).map(e=>({text:String(e.text||'').trim(),source:e.source||''}))
-    .filter(e=>e.text.length>3).map(e=>({...e,sev:severity(e.text),good:isGood(e.text)}));
+    .filter(e=>e.text.length>3).map(e=>{ const r=(typeof scoreHeadline==='function')?scoreHeadline(e.text):{sev:severity(e.text),good:isGood(e.text)}; return {...e,sev:e.sev||r.sev,good:typeof e.good==='boolean'?e.good:r.good}; });
   usingCustom=mode==='custom';
   $('srcNote').textContent=note||(usingCustom?`Using your ${pool.length} pasted headlines.`:'Using built-in sample headlines (invented, not real stories).');
 }

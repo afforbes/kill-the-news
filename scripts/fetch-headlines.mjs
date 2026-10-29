@@ -1,6 +1,8 @@
 // Fetches BBC, Guardian and Daily Mail RSS feeds and writes headlines.json.
 // Runs in GitHub Actions on a schedule; no dependencies (Node 20+).
 import { readFile, writeFile } from 'node:fs/promises';
+import { createRequire } from 'node:module';
+const { scoreHeadline } = createRequire(import.meta.url)('../seriousness.js');
 
 const FEEDS = [
   { source: 'BBC', url: 'https://feeds.bbci.co.uk/news/rss.xml' },
@@ -35,7 +37,8 @@ async function fetchFeed({ source, url }) {
     const text = decode(t[1]);
     if (text.length < 12 || seen.has(text)) continue;
     seen.add(text);
-    out.push({ text, source });
+    const { sev, good } = scoreHeadline(text);
+    out.push({ text, source, sev, good });
     if (out.length >= PER_SOURCE) break;
   }
   if (!out.length) throw new Error(`${source}: no items parsed`);
@@ -59,6 +62,7 @@ for (const feed of FEEDS) {
   }
 }
 
+for (const h of headlines) Object.assign(h, scoreHeadline(h.text), { hits: undefined, score: undefined });
 const same = JSON.stringify(headlines) === JSON.stringify(previous.headlines);
 if (same) {
   console.log('No change.');
