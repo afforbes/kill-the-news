@@ -31,6 +31,7 @@ body{background:var(--ink);color:var(--fg);font-family:var(--f-head);touch-actio
   padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
   display:flex;justify-content:space-between;align-items:flex-start;gap:12px;font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
 .hud .stat{display:flex;flex-direction:column;gap:4px}
+.mute{position:fixed;right:max(16px,env(safe-area-inset-right,0px));bottom:calc(34px + env(safe-area-inset-bottom,0px));z-index:7;background:var(--ink-2);color:var(--paper);border:1px solid #3a4054;font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;padding:8px 10px;flex:0 0 auto;cursor:pointer}
 .hud b{font-family:var(--f-display);font-size:20px;letter-spacing:0;font-weight:400;font-variant-numeric:tabular-nums;color:var(--paper)}
 .bar{width:min(40vw,180px);height:8px;background:var(--ink-2);border:1px solid #3a4054}
 .bar i{display:block;height:100%;width:100%;background:var(--paper);transition:width .2s}
@@ -92,6 +93,7 @@ textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-m
   <div class="stat" style="align-items:center"><span>Edition</span><b id="lvl">1</b></div>
   <div class="stat" style="align-items:flex-end"><span>Spiked</span><b id="score">0</b></div>
 </div>
+<button class="mute" id="muteBtn" type="button">Sound on</button>
 <div class="ticker" id="ticker">Tap the headlines before they reach you</div>
 
 <div class="overlay" id="startScreen">
@@ -230,12 +232,12 @@ fetch('headlines.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=
 /* ---- sound: tiny Web Audio synth, started on the first button press ---- */
 let AC=null;
 function audio(){ if(!AC){ try{AC=new (window.AudioContext||window.webkitAudioContext)();}catch(e){} } if(AC&&AC.state==='suspended') AC.resume(); return AC; }
-function tone(freq,dur,type='square',vol=.08,slide=0){ const ac=audio(); if(!ac) return;
+function tone(freq,dur,type='square',vol=.08,slide=0){ const ac=audio(); if(!ac||!MUSIC.on) return;
   const o=ac.createOscillator(), g=ac.createGain(); o.type=type; o.frequency.setValueAtTime(freq,ac.currentTime);
   if(slide) o.frequency.exponentialRampToValueAtTime(Math.max(30,freq+slide),ac.currentTime+dur);
   g.gain.setValueAtTime(vol,ac.currentTime); g.gain.exponentialRampToValueAtTime(.0005,ac.currentTime+dur);
   o.connect(g).connect(ac.destination); o.start(); o.stop(ac.currentTime+dur); }
-function noise(dur,vol=.15,hp=400){ const ac=audio(); if(!ac) return;
+function noise(dur,vol=.15,hp=400){ const ac=audio(); if(!ac||!MUSIC.on) return;
   const b=ac.createBuffer(1,ac.sampleRate*dur,ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*(1-i/d.length);
   const src=ac.createBufferSource(); src.buffer=b; const f=ac.createBiquadFilter(); f.type='highpass'; f.frequency.value=hp;
   const g=ac.createGain(); g.gain.value=vol; src.connect(f).connect(g).connect(ac.destination); src.start(); }
@@ -248,6 +250,78 @@ const SFX={
   edition(){ [330,330,330,440].forEach((f,i)=>setTimeout(()=>tone(f,i==3?.4:.1,'square',.07),i*110)); noise(.3,.08,800); },
   combo(){ tone(880,.12,'triangle',.08,400); }
 };
+
+/* ---- music: an original broadcast-style theme. Opening sting (timpani, brass hits, countdown pips),
+   then a constant 16th-note pulse that tightens as the game speeds up. ---- */
+const MUSIC=(()=>{
+  const NOTE=n=>440*Math.pow(2,(n-69)/12);
+  // D minor. Chord cycle i – VI – VII – v (Dm, Bb, C, Am) every bar; pulse runs on the chord root.
+  const CHORDS=[[62,65,69],[58,62,65],[60,64,67],[57,60,64]];
+  const ROOTS=[38,34,36,33];
+  let master=null, on=true, running=false, bar=0, step=0, nextT=0, timer=null, bpm=118, lead=0.12;
+  function out(){ const ac=audio(); if(!ac) return null; if(!master){ master=ac.createGain(); master.gain.value=on?0.5:0; master.connect(ac.destination);} return ac; }
+  function osc(ac,type,freq,t0,dur,vol,dest,attack=.005,detune=0){
+    const o=ac.createOscillator(), g=ac.createGain(); o.type=type; o.frequency.setValueAtTime(freq,t0); o.detune.value=detune;
+    g.gain.setValueAtTime(0,t0); g.gain.linearRampToValueAtTime(vol,t0+attack); g.gain.exponentialRampToValueAtTime(.0005,t0+dur);
+    o.connect(g).connect(dest||master); o.start(t0); o.stop(t0+dur+.02); return o; }
+  function brass(ac,notes,t0,dur,vol){ // sawtooth stack through a lowpass that opens: a cheap horn section
+    const f=ac.createBiquadFilter(); f.type='lowpass'; f.frequency.setValueAtTime(600,t0); f.frequency.linearRampToValueAtTime(2600,t0+.08); f.frequency.exponentialRampToValueAtTime(900,t0+dur); f.connect(master);
+    notes.forEach(n=>{ osc(ac,'sawtooth',NOTE(n),t0,dur,vol,f,.02,-6); osc(ac,'sawtooth',NOTE(n),t0,dur,vol,f,.02,6); osc(ac,'square',NOTE(n-12),t0,dur,vol*.5,f,.02); }); }
+  function timp(ac,t0,freq=55,vol=.9){ const o=ac.createOscillator(), g=ac.createGain(); o.type='sine'; o.frequency.setValueAtTime(freq*2,t0); o.frequency.exponentialRampToValueAtTime(freq,t0+.12);
+    g.gain.setValueAtTime(vol,t0); g.gain.exponentialRampToValueAtTime(.001,t0+.6); o.connect(g).connect(master); o.start(t0); o.stop(t0+.7);
+    const b=ac.createBuffer(1,ac.sampleRate*.08,ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*(1-i/d.length);
+    const n=ac.createBufferSource(); n.buffer=b; const ng=ac.createGain(); ng.gain.value=vol*.25; const lf=ac.createBiquadFilter(); lf.type='lowpass'; lf.frequency.value=400; n.connect(lf).connect(ng).connect(master); n.start(t0); }
+  function hat(ac,t0,vol=.12,dur=.04){ const b=ac.createBuffer(1,ac.sampleRate*dur,ac.sampleRate), d=b.getChannelData(0); for(let i=0;i<d.length;i++) d[i]=(Math.random()*2-1)*(1-i/d.length);
+    const n=ac.createBufferSource(); n.buffer=b; const f=ac.createBiquadFilter(); f.type='highpass'; f.frequency.value=6000; const g=ac.createGain(); g.gain.value=vol; n.connect(f).connect(g).connect(master); n.start(t0); }
+  function pip(ac,t0,dur=.09,vol=.18){ osc(ac,'sine',1000,t0,dur,vol,master,.002); }
+
+  function intro(ac,t0){
+    // bar 1: timpani roll under five pips, the sixth long (a countdown to air)
+    for(let i=0;i<21;i++) timp(ac,t0+i*.11,50,.3+i*.03);
+    for(let i=0;i<5;i++) pip(ac,t0+i*.4);
+    pip(ac,t0+2.0,.6,.22);
+    // bar 2: brass motif  D  D  F  A | G F E D (dotted, urgent)
+    const m=[[62,0,.22],[62,.3,.22],[65,.6,.22],[69,.9,.5],[67,1.5,.18],[65,1.75,.18],[64,2.0,.18],[62,2.25,.9]];
+    m.forEach(([n,at,d])=>{ brass(ac,[n,n+7],t0+2.3+at,d,.09); });
+    timp(ac,t0+2.3,55,1); timp(ac,t0+3.2,55,.8); timp(ac,t0+4.55,49,1.1);
+    // big held chord into the pulse
+    brass(ac,[50,57,62,65,69],t0+4.55,1.6,.08);
+    return t0+5.4; // when the pulse takes over
+  }
+  function schedule(ac,when,st,b){
+    const chord=CHORDS[b%4], root=ROOTS[b%4], beat=60/bpm, s16=beat/4, intensity=Math.min(1,(typeof t==='number'?t:0)/120);
+    // the pulse: 16th-note bass, accents on 1 and the "and" of 2
+    const acc=(st%16===0||st%16===6)?1.0:(st%2===0?.75:.55);
+    osc(ac,'square',NOTE(root),when,s16*.9,.11*acc,master,.003);
+    osc(ac,'sawtooth',NOTE(root+12),when,s16*.6,.05*acc,master,.003);
+    // hats every 8th, kick on beats, snare-ish timp on 2 and 4 as it gets intense
+    if(st%2===0) hat(ac,when,st%4===0?.1:.06);
+    if(st%4===0) timp(ac,when,48,.55);
+    if(intensity>.3&&(st%16===4||st%16===12)) hat(ac,when,.18,.09);
+    // string pad: chord held per bar, low in the mix
+    if(st===0){ const f=ac.createBiquadFilter(); f.type='lowpass'; f.frequency.value=1200+intensity*1500; f.connect(master);
+      chord.forEach(n=>{ osc(ac,'sawtooth',NOTE(n),when,beat*4,.028,f,.3,-5); osc(ac,'sawtooth',NOTE(n),when,beat*4,.028,f,.3,5); }); }
+    // arpeggio lead, 16ths, brighter as intensity rises
+    const arp=[0,2,1,2,0,1,2,1][Math.floor(st/2)%8]; if(st%2===0) osc(ac,'triangle',NOTE(chord[arp]+12),when,s16*1.6,.04+intensity*.04,master,.004);
+    // brass stab on the downbeat every other bar, and a two-note answer on bar 4
+    if(st===0&&b%2===0) brass(ac,chord.map(n=>n+12),when,beat*.6,.05);
+    if(b%4===3&&(st===8||st===12)) brass(ac,[chord[0]+12,chord[2]+12],when,beat*.4,.045);
+  }
+  function tick(){ const ac=out(); if(!ac||!running) return;
+    bpm=118+Math.min(48,Math.max(0,(typeof speed==='function'?speed():5.5)-5.5)*2.6);
+    while(nextT<ac.currentTime+lead){ schedule(ac,nextT,step,bar); nextT+=60/bpm/4; step++; if(step===16){step=0;bar++;} } }
+  return {
+    start(){ const ac=out(); if(!ac) return; running=true; bar=0; step=0; nextT=intro(ac,ac.currentTime+.05); clearInterval(timer); timer=setInterval(tick,30); },
+    stop(){ running=false; clearInterval(timer); const ac=out(); if(!ac) return;
+      // sign-off: falling brass and a last timpani
+      brass(ac,[62,65,69],ac.currentTime,.5,.07); brass(ac,[60,64,67],ac.currentTime+.45,.5,.06); brass(ac,[50,57,62],ac.currentTime+.9,1.4,.07); timp(ac,ac.currentTime+.9,45,1); },
+    toggle(){ on=!on; store.set('ktn-sound',on?'1':'0'); if(master) master.gain.setTargetAtTime(on?0.5:0,audio().currentTime,.05); return on; },
+    get on(){ return on; }, set on(v){ on=v; }
+  };
+})();
+MUSIC.on=store.get('ktn-sound')!=='0';
+$('muteBtn').textContent=MUSIC.on?'Sound on':'Muted';
+$('muteBtn').onclick=()=>{ $('muteBtn').textContent=MUSIC.toggle()?'Sound on':'Muted'; };
 
 /* ---- three.js scene ---- */
 const stage=$('stage');
@@ -389,13 +463,13 @@ function hitPlayer(item){
 }
 
 function start(){
-  audio(); items.slice().forEach(remove); t=0; spawnT=1.2; score=0; killer=''; killerSrc=''; combo=0; bestCombo=0; lastEd=1; setHealth(100); setCombo(0);
+  audio(); MUSIC.start(); items.slice().forEach(remove); t=0; spawnT=1.2; score=0; killer=''; killerSrc=''; combo=0; bestCombo=0; lastEd=1; setHealth(100); setCombo(0);
   $('score').textContent='0'; $('lvl').textContent='1'; $('barFill').style.width='100%'; $('bar').classList.remove('low');
   ['startScreen','overScreen','pasteScreen'].forEach(id=>$(id).hidden=true); $('hud').hidden=false;
   $('ticker').textContent='Tap the headlines before they reach you'; state='play';
 }
 function gameOver(){
-  state='over'; $('hud').hidden=true;
+  state='over'; $('hud').hidden=true; MUSIC.stop();
   const best=Math.max(score,+(store.get('ktn-best')||0)); store.set('ktn-best',best);
   $('finalScore').textContent=score; $('finalTime').textContent=Math.floor(t)+'s'; $('killer').textContent=killer;
   $('finalCombo').textContent='×'+bestCombo; $('finalEd').textContent=edition();
