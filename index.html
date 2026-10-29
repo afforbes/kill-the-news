@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Kill the News</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Libre+Franklin:wght@500;800;900&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* Layout: full-bleed WebGL pressroom, HUD pinned to the top edge, modal slips for start/paste/game-over. Single dark look by choice. */
+:root{
+  --ink:#10131c;        /* pressroom void */
+  --ink-2:#1b2030;
+  --paper:#efe9dc;      /* newsprint */
+  --fg:#e9e4d8;
+  --muted:#8a8fa3;
+  --red:#e2342b;        /* breaking-news red */
+  --amber:#f2b134;
+  --f-display:"Rubik Mono One","Arial Black",Impact,sans-serif;
+  --f-head:"Libre Franklin","Helvetica Neue",Arial,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+  color-scheme:dark;
+}
+html,body{height:100%;margin:0;overflow:hidden}
+body{background:var(--ink);color:var(--fg);font-family:var(--f-head);touch-action:none;-webkit-user-select:none;user-select:none}
+#stage{position:fixed;inset:0}
+#stage canvas{display:block;width:100%;height:100%}
+.hud{position:fixed;top:0;left:0;right:0;z-index:5;pointer-events:none;
+  padding-top:calc(env(safe-area-inset-top,0px) + 10px);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  display:flex;justify-content:space-between;align-items:flex-start;gap:12px;font-family:var(--f-mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase}
+.hud .stat{display:flex;flex-direction:column;gap:4px}
+.hud b{font-family:var(--f-display);font-size:20px;letter-spacing:0;font-weight:400;font-variant-numeric:tabular-nums;color:var(--paper)}
+.bar{width:min(40vw,180px);height:8px;background:var(--ink-2);border:1px solid #3a4054}
+.bar i{display:block;height:100%;width:100%;background:var(--paper);transition:width .2s}
+.bar.low i{background:var(--red)}
+.ticker{position:fixed;left:0;right:0;bottom:0;z-index:5;pointer-events:none;background:var(--red);color:#fff;
+  font-family:var(--f-mono);font-weight:600;font-size:12px;letter-spacing:.08em;text-transform:uppercase;
+  padding-block:6px calc(6px + env(safe-area-inset-bottom,0px));
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.flash{position:fixed;inset:0;z-index:4;pointer-events:none;background:var(--red);opacity:0;transition:opacity .35s}
+.flash.on{opacity:.45;transition:none}
+.overlay{position:fixed;inset:0;z-index:10;display:grid;place-items:center;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:24px;
+  background:color-mix(in srgb,var(--ink) 72%,transparent);overflow-y:auto}
+.slip{background:var(--paper);color:var(--ink);max-width:440px;width:100%;padding:28px 24px 22px;transform:rotate(-1.2deg);
+  box-shadow:0 18px 50px #000a;display:flex;flex-direction:column;gap:14px;position:relative}
+.slip::before{content:"";position:absolute;left:0;right:0;top:-6px;height:6px;
+  background:linear-gradient(-45deg,transparent 4px,var(--paper) 0) 0 0/8px 8px,linear-gradient(45deg,transparent 4px,var(--paper) 0) 0 0/8px 8px}
+.kicker{font-family:var(--f-mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--red);font-weight:600}
+h1{font-family:var(--f-display);font-weight:400;font-size:clamp(36px,10vw,52px);line-height:.92;margin:0;text-wrap:balance}
+h1 span{color:var(--red)}
+h2{font-family:var(--f-display);font-weight:400;font-size:28px;line-height:1;margin:0;text-wrap:balance}
+.slip p{margin:0;font-size:15px;line-height:1.45;font-weight:500}
+.legend{display:flex;gap:10px;flex-wrap:wrap;font-family:var(--f-mono);font-size:11px;text-transform:uppercase;letter-spacing:.06em}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.pip{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--ink)}
+.row{display:flex;gap:10px;flex-wrap:wrap}
+button{font-family:var(--f-display);font-size:15px;border:0;cursor:pointer;padding:14px 18px;background:var(--ink);color:var(--paper);flex:1 1 auto}
+button.alt{background:transparent;color:var(--ink);border:2px solid var(--ink);font-family:var(--f-mono);font-weight:600;font-size:13px;text-transform:uppercase;letter-spacing:.06em}
+button:focus-visible,textarea:focus-visible{outline:3px solid var(--red);outline-offset:2px}
+textarea{width:100%;box-sizing:border-box;min-height:180px;font-family:var(--f-mono);font-size:13px;line-height:1.4;padding:10px;border:2px solid var(--ink);background:#fff;color:var(--ink);resize:vertical}
+.note{font-family:var(--f-mono);font-size:11px;color:#5a5f70;line-height:1.5}
+.big{font-family:var(--f-display);font-size:44px;line-height:1;font-variant-numeric:tabular-nums}
+.worst{border-top:2px solid var(--ink);padding-top:10px;font-weight:800;font-size:16px;line-height:1.25}
+</style>
+</head>
+<body>
+<div id="stage"></div>
+<div class="flash" id="flash"></div>
+<div class="hud" id="hud" hidden>
+  <div class="stat"><span>Sanity</span><div class="bar" id="bar"><i id="barFill"></i></div></div>
+  <div class="stat" style="align-items:center"><span>Edition</span><b id="lvl">1</b></div>
+  <div class="stat" style="align-items:flex-end"><span>Spiked</span><b id="score">0</b></div>
+</div>
+<div class="ticker" id="ticker">Tap the headlines before they reach you</div>
+
+<div class="overlay" id="startScreen">
+  <div class="slip">
+    <div class="kicker">Late edition · Stop the presses</div>
+    <h1>Kill the <span>News</span></h1>
+    <p>Headlines are coming for you. Tap them to spike them before they hit. The grimmer the story, the more taps it takes. It starts slow. It does not stay slow.</p>
+    <div class="legend">
+      <span><i class="pip"></i>1 tap: fluff</span>
+      <span><i class="pip"></i><i class="pip"></i><i class="pip"></i>3: politics</span>
+      <span><i class="pip" style="background:var(--red)"></i>×6: grim</span>
+    </div>
+    <div class="row">
+      <button id="playBtn">Start the press</button>
+      <button class="alt" id="pasteBtn">Load headlines</button>
+    </div>
+    <div class="note" id="srcNote">Using built-in sample headlines.</div>
+  </div>
+</div>
+
+<div class="overlay" id="pasteScreen" hidden>
+  <div class="slip">
+    <div class="kicker">Copy desk</div>
+    <h2>Paste today's headlines</h2>
+    <p>One per line. These replace the live feed until you switch back. Each gets a severity score from its words.</p>
+    <textarea id="pasteBox" placeholder="One headline per line"></textarea>
+    <div class="row">
+      <button id="useBtn">Use these</button>
+      <button class="alt" id="resetBtn">Use live feed</button>
+    </div>
+  </div>
+</div>
+
+<div class="overlay" id="overScreen" hidden>
+  <div class="slip">
+    <div class="kicker">Final edition</div>
+    <h2>The news got you</h2>
+    <div class="row" style="align-items:baseline;justify-content:space-between">
+      <div><div class="note">Headlines spiked</div><div class="big" id="finalScore">0</div></div>
+      <div style="text-align:right"><div class="note">Survived</div><div class="big" id="finalTime">0s</div></div>
+    </div>
+    <div class="worst"><div class="note" style="font-weight:400">The one that finished you</div><span id="killer"></span></div>
+    <div class="note" id="bestNote"></div>
+    <div class="row"><button id="againBtn">Run another edition</button><button class="alt" id="menuBtn">Menu</button></div>
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+(function(){
+const $=id=>document.getElementById(id);
+const store={get(k){try{return localStorage.getItem(k)}catch(e){return null}},set(k,v){try{localStorage.setItem(k,v)}catch(e){}}};
+
+/* ---- Headlines: invented samples, plus anything the player pastes ---- */
+const SAMPLES=[
+"Town council votes to rename roundabout after beloved local goose",
+"Heatwave warning issued as temperatures set to hit 31C",
+"Celebrity chef reveals the one ingredient he never cooks without",
+"Prime Minister faces backbench revolt over planning reforms",
+"Inflation edges up to 3.4% as food prices climb again",
+"Thousands of rail workers to strike over pay next month",
+"Missile strikes kill dozens in overnight attack on city",
+"Cat found alive after three weeks trapped in garden shed",
+"NHS waiting lists reach new record high, figures show",
+"Bank of England holds interest rates for fourth time",
+"Flood alerts across northern England after torrential rain",
+"Royal couple make surprise visit to seaside fish and chip shop",
+"Man charged with murder after stabbing in city centre",
+"Scientists warn ocean temperatures at record levels",
+"Reality star splits from partner in dramatic villa row",
+"Hospital declares critical incident as A&E overwhelmed",
+"Ceasefire talks collapse as fighting intensifies",
+"Pensioner, 92, completes first parachute jump",
+"Energy bills to rise this winter, regulator confirms",
+"Earthquake leaves hundreds dead and thousands homeless",
+"Supermarket recalls sandwiches over labelling error",
+"Minister resigns amid row over leaked messages",
+"Terror suspect arrested after major police operation",
+"Strictly star in tears after shock exit",
+"House prices fall for third month in a row",
+"Children among victims as school bus crashes",
+"New study says a daily walk adds years to your life",
+"Factory closure puts 1,200 jobs at risk",
+"Famine warning as aid convoys blocked at border",
+"Village fete cancelled after marrow sabotage scandal",
+"Opposition leader accuses government of chaos on borders",
+"Wildfires force mass evacuation of holiday resorts",
+"Mortgage rates tumble in boost for first-time buyers",
+"Footballer apologises for late-night kebab shop video",
+"Thousands march in capital in protest over cuts",
+"Outbreak spreads to five more countries, WHO warns",
+"Puffin numbers bounce back on remote island",
+"Prison overcrowding crisis: early release scheme extended",
+"Storm Barra brings 90mph winds and travel chaos",
+"Nuclear talks stall as tensions rise in region"
+];
+const WEIGHTS=[
+ [/\b(kill|killed|killing|dead|death|deaths|dies|died|massacre|murder|genocide|war|missile|bomb|terror|famine|earthquake|nuclear|shooting|stabbing|hostage|invasion)\b/i,4],
+ [/\b(attack|crash|victims?|outbreak|wildfire|wildfires|flood|floods|ceasefire|fighting|strike[sd]?|crisis|collapse|evacuat\w*|abuse|charged|arrest\w*|refugees?|homeless)\b/i,2],
+ [/\b(minister|government|PM|prime minister|election|inflation|rates?|recession|NHS|jobs|cuts|protest|bills|prices|warn\w*|row|resigns?|chaos|record)\b/i,1],
+ [/\b(cat|dog|goose|puffin|celebrity|star|royal|strictly|recipe|chef|fete|kebab|reality|love|tears|surprise|walk)\b/i,-1]
+];
+function severity(h){
+  let s=1; for(const [re,w] of WEIGHTS){ const m=h.match(new RegExp(re.source,'gi')); if(m) s+=w*Math.min(m.length,2); }
+  return Math.max(1,Math.min(6,s));
+}
+let pool=[], usingCustom=false, live=null;
+function setPool(entries,mode,note){
+  pool=entries.map(e=>typeof e==='string'?{text:e}:e).map(e=>({text:String(e.text||'').trim(),source:e.source||''}))
+    .filter(e=>e.text.length>3).map(e=>({...e,sev:severity(e.text)}));
+  usingCustom=mode==='custom';
+  $('srcNote').textContent=note||(usingCustom?`Using your ${pool.length} pasted headlines.`:'Using built-in sample headlines (invented, not real stories).');
+}
+function ago(iso){const m=Math.round((Date.now()-new Date(iso))/60000);return isNaN(m)?'':m<2?'just now':m<90?m+' min ago':Math.round(m/60)+' h ago';}
+function useLive(){
+  if(live&&live.headlines.length){
+    const counts={};live.headlines.forEach(h=>counts[h.source]=(counts[h.source]||0)+1);
+    setPool(live.headlines,'live',`Live: ${Object.entries(counts).map(([k,v])=>k+' '+v).join(' · ')}. Updated ${ago(live.updated)}.`);
+  } else setPool(SAMPLES,'samples','Live feed unavailable, so using built-in sample headlines (invented).');
+}
+const saved=store.get('ktn-headlines');
+if(saved) setPool(saved.split('\n'),'custom'); else setPool(SAMPLES,'samples','Fetching today\'s headlines…');
+fetch('headlines.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null).then(d=>{
+  if(d&&Array.isArray(d.headlines)) live=d;
+  if(!usingCustom) useLive();
+});
+
+/* ---- three.js scene ---- */
+const stage=$('stage');
+const renderer=new THREE.WebGLRenderer({antialias:true});
+renderer.setPixelRatio(Math.min(devicePixelRatio,2));
+stage.appendChild(renderer.domElement);
+const scene=new THREE.Scene();
+scene.background=new THREE.Color(0x10131c);
+scene.fog=new THREE.Fog(0x10131c,30,75);
+const camera=new THREE.PerspectiveCamera(60,1,0.1,200);
+scene.add(new THREE.AmbientLight(0xffffff,0.75));
+const key=new THREE.DirectionalLight(0xffe6c8,0.6); key.position.set(3,5,4); scene.add(key);
+
+// drifting printing-press dust
+const dustGeo=new THREE.BufferGeometry(); const N=500; const dp=new Float32Array(N*3);
+for(let i=0;i<N;i++){dp[i*3]=(Math.random()-.5)*60;dp[i*3+1]=(Math.random()-.5)*40;dp[i*3+2]=-Math.random()*80;}
+dustGeo.setAttribute('position',new THREE.BufferAttribute(dp,3));
+const dust=new THREE.Points(dustGeo,new THREE.PointsMaterial({color:0xefe9dc,size:0.08,transparent:true,opacity:.5}));
+scene.add(dust);
+
+// floor grid of ruled columns
+const grid=new THREE.GridHelper(200,80,0x2a3044,0x1b2030); grid.position.y=-9; scene.add(grid);
+
+function resize(){const w=innerWidth,h=innerHeight;renderer.setSize(w,h,false);camera.aspect=w/h;camera.updateProjectionMatrix();}
+addEventListener('resize',resize); resize();
+
+/* ---- headline slip textures ---- */
+const SEV_PAPER=['#efe9dc','#efe9dc','#ece2cc','#ecd8b8','#f0c9a8','#f2b6a0'];
+function wrap(ctx,text,maxW){const words=text.split(' ');const lines=[];let line='';
+  for(const w of words){const t=line?line+' '+w:w; if(ctx.measureText(t).width>maxW&&line){lines.push(line);line=w;}else line=t;} if(line)lines.push(line); return lines;}
+function drawSlip(item,hp){
+  const c=item.canvas||(item.canvas=document.createElement('canvas')); c.width=1024;c.height=320;
+  const g=c.getContext('2d'); const sev=item.sev;
+  g.fillStyle=SEV_PAPER[sev-1]; g.fillRect(0,0,1024,320);
+  // torn edge
+  g.fillStyle='#10131c'; g.beginPath(); g.moveTo(0,320);
+  for(let x=0;x<=1024;x+=16) g.lineTo(x,312+((x*7919)%9)); g.lineTo(1024,320); g.fill();
+  // masthead band
+  g.fillStyle=sev>=5?'#e2342b':'#10131c'; g.fillRect(0,0,1024,44);
+  g.fillStyle='#efe9dc'; g.font='600 24px "IBM Plex Mono", monospace'; g.textBaseline='middle';
+  const tag=sev>=5?'BREAKING':sev>=3?'NEWS':'AND FINALLY';
+  g.fillText(item.source?item.source.toUpperCase()+'  ·  '+tag:tag, 24, 23);
+  // hit pips
+  for(let i=0;i<item.maxHp;i++){ g.beginPath(); g.arc(1000-i*30,22,10,0,Math.PI*2);
+    g.fillStyle=i<hp?(sev>=5?'#efe9dc':'#f2b134'):'rgba(239,233,220,.25)'; g.fill(); }
+  // headline
+  let size=64; g.fillStyle='#10131c'; let lines;
+  do{ g.font=`900 ${size}px "Libre Franklin", Arial, sans-serif`; lines=wrap(g,item.text,964); size-=4;}while(lines.length*size*1.08>240&&size>30);
+  const lh=size*1.12; const top=44+(268-lines.length*lh)/2+lh/2;
+  lines.forEach((l,i)=>g.fillText(l,30,top+i*lh));
+  // damage scratches
+  const dmg=item.maxHp-hp; g.strokeStyle='rgba(226,52,43,.85)'; g.lineWidth=10;
+  for(let i=0;i<dmg;i++){ const y=80+((i*97)%200); g.beginPath(); g.moveTo(20+(i*131)%300,y); g.lineTo(700+(i*53)%300,y+((i%2)?30:-30)); g.stroke(); }
+  if(item.tex) item.tex.needsUpdate=true;
+}
+
+/* ---- game state ---- */
+let state='menu', items=[], parts=[], t=0, spawnT=0, health=100, score=0, killer='', lastPick=-1, shake=0;
+const raycaster=new THREE.Raycaster(); const ptr=new THREE.Vector2();
+const slipGeo=new THREE.PlaneGeometry(4.8,1.5);
+
+function pick(){ let i; do{ i=Math.floor(Math.random()*pool.length);}while(pool.length>1&&i===lastPick); lastPick=i; return pool[i]; }
+function spawn(){
+  const src=pick(); const item={text:src.text,source:src.source,sev:src.sev,maxHp:src.sev,hp:src.sev,wob:Math.random()*6};
+  drawSlip(item,item.hp);
+  item.tex=new THREE.CanvasTexture(item.canvas); item.tex.anisotropy=4;
+  const m=new THREE.Mesh(slipGeo,new THREE.MeshLambertMaterial({map:item.tex,side:THREE.DoubleSide,transparent:true}));
+  const z=-62; const halfH=Math.tan(THREE.MathUtils.degToRad(30))*-z; const halfW=halfH*camera.aspect;
+  m.position.set((Math.random()-.5)*halfW*1.2,(Math.random()-.5)*halfH*0.9,z);
+  // aim at a point near the player's face
+  item.target=new THREE.Vector3((Math.random()-.5)*2.2*Math.min(1,camera.aspect),(Math.random()-.5)*1.4,0);
+  m.rotation.z=(Math.random()-.5)*.3; m.userData.item=item; item.mesh=m; scene.add(m); items.push(item);
+}
+function speed(){ return Math.min(24, 5.5 + t*0.22); }
+function interval(){ return Math.max(0.5, 3.4 - t*0.042); }
+function edition(){ return 1+Math.floor(t/20); }
+
+function burst(pos,color,n){
+  for(let i=0;i<n;i++){
+    const p=new THREE.Mesh(new THREE.PlaneGeometry(.25,.18),new THREE.MeshBasicMaterial({color,side:THREE.DoubleSide,transparent:true}));
+    p.position.copy(pos); p.userData.v=new THREE.Vector3((Math.random()-.5)*9,(Math.random()-.2)*9,(Math.random()-.5)*6);
+    p.userData.r=new THREE.Vector3(Math.random()*8,Math.random()*8,0); p.userData.life=1; scene.add(p); parts.push(p);
+  }
+}
+function remove(item){ scene.remove(item.mesh); item.mesh.material.dispose(); item.tex.dispose(); items.splice(items.indexOf(item),1); }
+
+function onTap(e){
+  if(state!=='play') return;
+  const r=renderer.domElement.getBoundingClientRect();
+  ptr.x=((e.clientX-r.left)/r.width)*2-1; ptr.y=-((e.clientY-r.top)/r.height)*2+1;
+  raycaster.setFromCamera(ptr,camera);
+  const hits=raycaster.intersectObjects(items.map(i=>i.mesh));
+  if(!hits.length) return;
+  const item=hits[0].object.userData.item;
+  item.hp--; item.mesh.position.z-=1.2; item.mesh.scale.setScalar(.92); item.flash=.15;
+  if(item.hp<=0){
+    burst(item.mesh.position,item.sev>=5?0xe2342b:0xefe9dc,10+item.sev*4);
+    score++; $('score').textContent=score;
+    $('ticker').textContent='SPIKED'+(item.source?' ('+item.source+')':'')+': '+item.text; remove(item);
+  } else drawSlip(item,item.hp);
+}
+renderer.domElement.addEventListener('pointerdown',onTap);
+
+function hitPlayer(item){
+  const dmg=8+item.sev*6; health=Math.max(0,health-dmg); killer=item.text;
+  $('barFill').style.width=health+'%'; $('bar').classList.toggle('low',health<35);
+  $('flash').classList.add('on'); requestAnimationFrame(()=>requestAnimationFrame(()=>$('flash').classList.remove('on')));
+  shake=.35+item.sev*.05; $('ticker').textContent='IT GOT THROUGH: '+item.text;
+  try{navigator.vibrate&&navigator.vibrate(40+item.sev*20)}catch(e){}
+  remove(item);
+  if(health<=0) gameOver();
+}
+
+function start(){
+  items.slice().forEach(remove); t=0; spawnT=1.2; health=100; score=0; killer='';
+  $('score').textContent='0'; $('lvl').textContent='1'; $('barFill').style.width='100%'; $('bar').classList.remove('low');
+  ['startScreen','overScreen','pasteScreen'].forEach(id=>$(id).hidden=true); $('hud').hidden=false;
+  $('ticker').textContent='Tap the headlines before they reach you'; state='play';
+}
+function gameOver(){
+  state='over'; $('hud').hidden=true;
+  const best=Math.max(score,+(store.get('ktn-best')||0)); store.set('ktn-best',best);
+  $('finalScore').textContent=score; $('finalTime').textContent=Math.floor(t)+'s'; $('killer').textContent=killer;
+  $('bestNote').textContent=score>=best&&score>0?'New best edition.':`Best: ${best} spiked.`;
+  $('overScreen').hidden=false;
+}
+
+$('playBtn').onclick=start; $('againBtn').onclick=start;
+$('menuBtn').onclick=()=>{$('overScreen').hidden=true;$('startScreen').hidden=false;items.slice().forEach(remove);state='menu';};
+$('pasteBtn').onclick=()=>{$('pasteBox').value=usingCustom?pool.map(p=>p.text).join('\n'):'';$('startScreen').hidden=true;$('pasteScreen').hidden=false;};
+$('useBtn').onclick=()=>{const lines=$('pasteBox').value.split('\n').filter(l=>l.trim().length>3);
+  if(lines.length){setPool(lines,'custom');store.set('ktn-headlines',lines.join('\n'));}
+  $('pasteScreen').hidden=true;$('startScreen').hidden=false;};
+$('resetBtn').onclick=()=>{useLive();try{localStorage.removeItem('ktn-headlines')}catch(e){}$('pasteScreen').hidden=true;$('startScreen').hidden=false;};
+
+/* ---- loop ---- */
+const clock=new THREE.Clock(); const tmp=new THREE.Vector3();
+const reduce=matchMedia('(prefers-reduced-motion: reduce)').matches;
+function loop(){
+  const dt=Math.min(clock.getDelta(),0.05);
+  const pa=dustGeo.attributes.position.array;
+  for(let i=0;i<N;i++){ pa[i*3+2]+=dt*(state==='play'?speed()*.4:1.5); if(pa[i*3+2]>2) pa[i*3+2]=-80; }
+  dustGeo.attributes.position.needsUpdate=true;
+
+  if(state==='play'){
+    t+=dt; spawnT-=dt; $('lvl').textContent=edition();
+    if(spawnT<=0){ spawn(); if(t>45&&Math.random()<Math.min(.5,(t-45)/120)) spawn(); spawnT=interval()*(0.7+Math.random()*0.6); }
+    const sp=speed();
+    for(const it of items.slice()){
+      const m=it.mesh; const z=m.position.z; const k=(z+62)/62; // 0 far → 1 near
+      // heavier stories move a touch slower
+      const v=sp*(1.08-it.sev*0.04);
+      m.position.z+=v*dt;
+      tmp.set(it.target.x,it.target.y,m.position.z);
+      m.position.x+= (tmp.x-m.position.x)*dt*0.6*k;
+      m.position.y+= (tmp.y-m.position.y)*dt*0.6*k + Math.sin(t*2+it.wob)*dt*0.3;
+      m.rotation.y=Math.sin(t*1.3+it.wob)*0.18; m.rotation.x=Math.sin(t*0.9+it.wob)*0.1;
+      m.scale.lerp(tmp.set(1,1,1),dt*10);
+      if(it.flash>0){it.flash-=dt; m.material.emissive&&m.material.emissive.setHex(0x661111);} else m.material.emissive&&m.material.emissive.setHex(0);
+      if(m.position.z>-1.6) hitPlayer(it);
+    }
+  }
+  for(const p of parts.slice()){
+    p.userData.life-=dt*1.4; p.position.addScaledVector(p.userData.v,dt); p.userData.v.y-=12*dt;
+    p.rotation.x+=p.userData.r.x*dt; p.rotation.y+=p.userData.r.y*dt; p.material.opacity=Math.max(0,p.userData.life);
+    if(p.userData.life<=0){scene.remove(p);p.geometry.dispose();p.material.dispose();parts.splice(parts.indexOf(p),1);}
+  }
+  if(shake>0&&!reduce){ shake-=dt; camera.position.set((Math.random()-.5)*shake,(Math.random()-.5)*shake,0);} else camera.position.set(0,0,0);
+  renderer.render(scene,camera); requestAnimationFrame(loop);
+}
+loop();
+})();
+</script>
+</body>
+</html>
