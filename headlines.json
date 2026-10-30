@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-30T15:15:25.799Z",
+ "updated": "2026-10-30T20:04:46.791Z",
  "headlines": [
+  {
+   "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
   {
    "text": "What we know about Binance's $6.3bn hack",
    "source": "BBC",
@@ -9,6 +15,12 @@
   },
   {
    "text": "Driver guilty of hitting cyclist and dragging him to death under car",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
    "source": "BBC",
    "sev": 4,
    "good": false
@@ -26,15 +38,21 @@
    "good": false
   },
   {
-   "text": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+   "text": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
    "source": "BBC",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Watch: Iconic moments from the career of Sir Patrick Stewart, who has died aged 86",
+   "text": "Prominent Russian newspaper shuts down under pressure from authorities",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -50,43 +68,19 @@
    "good": false
   },
   {
-   "text": "Prominent Russian newspaper shuts down under pressure from authorities",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Streeting denies 'kicking can down the road' in defence spending row",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "US tech stocks see sharp falls over AI cost concerns",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+   "text": "Democrats in the US have an identity crisis - it won't be an easy fix",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "From watching Star Trek to knighthood - Sir Patrick Stewart on the BBC",
+   "text": "Set up to fail? Where England's World Cup campaign went wrong",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The acting legend defined by Yorkshire who 'loved it to the end'",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Democrats in the US have an identity crisis - it won't be an easy fix",
+   "text": "How a passenger's confession helped convict her cousin of murder",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -104,33 +98,33 @@
    "good": false
   },
   {
-   "text": "What's at stake for Trump in the US midterms?",
+   "text": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Weekly quiz: What was wrong with the Spotify listing of Dolly Parton's Jolene?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "I didn't know I was lacking in vitamin D until I collapsed at work",
+   "text": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+   "text": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Ex-football chief admits offences linked to woman's drugging and rape by husband",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "'I made the wrong decision,' Hyrox athlete who soiled herself in race tells BBC",
+   "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
    "source": "BBC",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -140,37 +134,37 @@
    "good": false
   },
   {
-   "text": "Pope Leo XIV becomes first pontiff to vote in a US election",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Gruffalo illustrator considering legal action against AI firms",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Footage of Seoul crush to be removed from Call of Duty after backlash",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Biggest fibre boost could be scraps in your bin, experts say",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
    "text": "Download now",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What Howe could bring to Man Utd - and what are the challenges?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Leclerc fastest in Mexico City Grand Prix first practice",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "South Africa-Australia set for classic finale – what does history suggest could happen?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -182,10 +176,16 @@
    "good": false
   },
   {
-   "text": "Reader Q&A: How can we radically change the way we live? Ask Aditya Chakrabortty",
+   "text": "The Celebrity Traitors finale – LIVE",
    "source": "Guardian",
    "sev": 1,
    "good": false
+  },
+  {
+   "text": "‘Ceilidh renaissance’ lures gen Z offline in search of real-life joy",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "The White House Farm massacre phone calls: could a single disputed digit set Jeremy Bamber free?",
@@ -194,7 +194,7 @@
    "good": false
   },
   {
-   "text": "‘Patrick Stewart brought virile star power to the stage, from clowns to kings to wounded lions’",
+   "text": "This is the hard lesson from Israel’s election: to stop national populists, you can’t play by gentlemen’s rules | Jonathan Freedland",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -212,15 +212,15 @@
    "good": false
   },
   {
-   "text": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
+   "text": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "FBI working with Binance after crypto exchange hit by $6.3bn heist – business live",
+   "text": "Canada and EU announce new alliance open to like-minded countries",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -230,37 +230,7 @@
    "good": false
   },
   {
-   "text": "Man who ran over cyclist and dragged him under car for a mile convicted of murder",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – UK politics live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Andreas Malm condemns UK travel ban as ‘drift into authoritarianism’",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Christa Pike makes first public comments since failed execution: ‘There is pain in my mind and in my soul’",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Police watchdog to investigate Met’s handling of Meghan warning letter",
+   "text": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
    "source": "Guardian",
    "sev": 3,
    "good": false
@@ -272,19 +242,37 @@
    "good": false
   },
   {
-   "text": "‘Ceilidh renaissance’ lures gen Z offline in search of real-life joy",
+   "text": "Russell Brand trial: accusers have ‘nothing to gain’ and were not led by media, court told",
    "source": "Guardian",
-   "sev": 1,
-   "good": true
+   "sev": 3,
+   "good": false
   },
   {
-   "text": "‘You can see the water going down’: residents on edge as one of England’s worst-hit reservoirs dries up",
+   "text": "Man accused of sexually assaulting woman drugged by husband says he thought it was ‘their kink’",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Final countdown to the make-or-break midterms – podcast",
+   "text": "Shakespeare to Star Trek: Patrick Stewart’s extraordinary life - The Latest",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Poundland in peril: how rampant inflation and price wars left £1 stores exposed",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -296,7 +284,7 @@
    "good": false
   },
   {
-   "text": "Game-breaking blunders, killer yawns … and a puddle of vomit: it’s the top 10 Celebrity Traitors moments",
+   "text": "Sky-high ratings – for a lacklustre series: The Celebrity Traitors has become too nice for its own good",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -308,15 +296,27 @@
    "good": false
   },
   {
-   "text": "Raccoons at the ready! 20 Halloween costumes for 2026 – from Erling Haaland to Kate in Widow’s Bay",
+   "text": "I wrote a book about death. Here’s what people really think about dying",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "‘It really was the idiots in charge’: inside the TV sketch show that launched a generation of stars",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Everyone is thin and we’re not allowed to say so: the toxic legacy of body positivity",
+   "text": "‘I left shellshocked’: writers on their scariest non-horror movies",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Why M&S director Kathryn Turner is the ultimate ‘Gay Halloween’ costume idea",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -326,10 +326,10 @@
    "good": false
   },
   {
-   "text": "Could 2026 be the year that democracy fought back? | David Van Reybrouck",
+   "text": "How do you bounce back from Liz Truss-level public failure? Don’t be shameless; do show remorse | Gaby Hinsliff",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "To baldly go: Patrick Stewart was an icon for bald men everywhere",
@@ -344,21 +344,93 @@
    "good": false
   },
   {
-   "text": "The hill I will die on: Dumplings are the ultimate proof of our common humanity | Joseph de Weck",
+   "text": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Could 2026 be the year that democracy fought back? | David Van Reybrouck",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The world needs the United Nations more than ever. It needs a new lease on life | Alex Rondos and Mark Medish",
-   "source": "Guardian",
+   "text": "Murderer Christa Pike issues first statement since surviving two botched execution attempts and says she has been in constant, severe pain ever since",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
+   "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "I’m a gen Z voter. Content creators have far less power than politicians think | Alex Bronzini-Vender",
-   "source": "Guardian",
+   "text": "Norway hilariously mocks Trump again for his 's***house' criticism of the country with some clever toilet humour…",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Pictured: Killer driver who mowed down headteacher and dragged him under car for a mile - as he is convicted of murder",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Moment ram raid gang smash their way into West End's Bottega Veneta before stealing £40,000 worth of designer goods - as duo jailed for seven years",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Kuwaiti migrant who raped woman he met in historic market town is also wanted in Europe over terrorism offences",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Man accused of sexually assaulting wife of Tory councillor told police he 'did not know' she'd been drugged by husband, court hears",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Police watchdog confirms it WILL investigate Met over letter passed to Meghan Markle about her father Thomas in 2019",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'No trick or treat' posters issued by councils and police after warning it goes against 'religious beliefs' - as residents urged not to carve Halloween pumpkins because it 'wastes veg scraps'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "BBC licence fee will soar above £200 in the next five years after 500,000 homes stopped paying it last year",
+   "source": "Mail",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'I'll kill you!': Migrant armed with a knife boards boat to Britain after threatening another man on board",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Fire destroys hotel near Everest base camp in Nepal: Brits caught in drama say 'no-one can come to rescue us'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Chicago-born Pope Leo becomes first pontiff to vote in US election after blasting Trump over Iran war and president's treatment of migrants",
+   "source": "Mail",
+   "sev": 5,
    "good": false
   },
   {
@@ -380,12 +452,6 @@
    "good": false
   },
   {
-   "text": "Inside the 'never-ending cruise' that dumped its passengers in Cambodia: 'It got worse and worse. Crew begged us for money. We gave them $450k after they pressured us'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Founder of 'endless cruise' that dumped its passengers in Cambodia 'says \"I'm the villain\" but blames Trump's Iran war'",
    "source": "Mail",
    "sev": 4,
@@ -404,45 +470,9 @@
    "good": false
   },
   {
-   "text": "Killer driver who mowed down 'uniquely talented' headteacher in two-ton SUV and dragged him for over a mile convicted of his murder",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Murderer Christa Pike issues first statement since surviving two botched execution attempts and says she has been in constant, severe pain ever since",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "'No trick or treat' posters issued by councils and police after warning it goes against 'religious beliefs' - as residents urged not to carve Halloween pumpkins because it 'wastes veg scraps'",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Anyone need advice on hiking taxes? Rachel Reeves signs up with agencies to join corporate speaking circuit",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "BBC licence fee will soar above £200 in the next five years after 500,000 homes stopped paying it last year",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Kuwaiti migrant who raped woman he met in historic market town is also wanted in Europe over terrorism offences",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Norway hilariously mocks Trump again for his 's***house' criticism of the country with some clever toilet humour…",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
@@ -455,12 +485,6 @@
    "text": "Facebook owner Meta under investigation by UK competition watchdog over plans to 'steal' publishers' content to train its AI models by imposing 'exploitative terms' on publishers",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'I'll kill you!': Migrant armed with a knife boards boat to Britain after threatening another man on board",
-   "source": "Mail",
-   "sev": 4,
    "good": false
   },
   {
@@ -482,12 +506,6 @@
    "good": false
   },
   {
-   "text": "Moment MP hurls chair as punches are thrown in brawl inside Armenia's parliament",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "QUENTIN LETTS: We are urged to consider John Healey a sober presence. Yet there he was in the pub sinking a pint of beer in one go",
    "source": "Mail",
    "sev": 1,
@@ -506,12 +524,6 @@
    "good": false
   },
   {
-   "text": "Police watchdog confirms it WILL investigate Met over letter passed to Meghan Markle about her father Thomas in 2019",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Sarah Ferguson is back in the limelight after a year in hiding... and her return suggests an extraordinary possibility, reveals RICHARD KAY",
    "source": "Mail",
    "sev": 1,
@@ -519,24 +531,6 @@
   },
   {
    "text": "NatWest boss urges Burnham to show some 'ambition' to turbocharge economy after Budget",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Student, 19, drowned in a drainage ditch on Christmas Eve after overdosing on opioids he ordered online, inquest hears",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Humiliation for Healey: Chancellor is forced into screeching U-turn just hours after promising to cut welfare bill before next election",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The PM's a canny Bayeux: Burnham pays to keep bracelet given to his wife by the Macrons during tapestry visit... at a £140 discount",
    "source": "Mail",
    "sev": 2,
    "good": false
