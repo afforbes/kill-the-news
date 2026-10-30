@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-30T20:04:46.791Z",
+ "updated": "2026-10-30T23:38:32.046Z",
  "headlines": [
+  {
+   "text": "US approves sale of 500 Patriot missiles to Ukraine",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
   {
    "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "source": "BBC",
@@ -14,9 +20,15 @@
    "good": false
   },
   {
-   "text": "Driver guilty of hitting cyclist and dragging him to death under car",
+   "text": "Celebrity Traitors comes to a climax in nail-biting final",
    "source": "BBC",
-   "sev": 4,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Police deployed during stand-off over control of top Poland court",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -26,9 +38,15 @@
    "good": false
   },
   {
-   "text": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
+   "text": "Driver guilty of hitting cyclist and dragging him to death under car",
    "source": "BBC",
-   "sev": 2,
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -38,33 +56,21 @@
    "good": false
   },
   {
-   "text": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+   "text": "King visits Guyanese slave rebellion site on Caribbean tour",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Prominent Russian newspaper shuts down under pressure from authorities",
+   "text": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
    "text": "US tech stocks see sharp falls as AI spending nears $1tn",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Police watchdog to investigate Met over letter about Meghan's father",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "source": "BBC",
-   "sev": 3,
    "good": false
   },
   {
@@ -110,6 +116,24 @@
    "good": false
   },
   {
+   "text": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russell Brand accusers 'haunted' for years by alleged crimes, court hears",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Police watchdog to investigate Met over letter about Meghan's father",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
    "source": "BBC",
    "sev": 2,
@@ -122,25 +146,13 @@
    "good": false
   },
   {
-   "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Wettest week for two years but still not enough rain to get out of drought",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Gruffalo illustrator considering legal action against AI firms",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Download now",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Villa to sue Carragher over 'unacceptable insults'",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -152,7 +164,7 @@
    "good": false
   },
   {
-   "text": "Leclerc fastest in Mexico City Grand Prix first practice",
+   "text": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -170,13 +182,7 @@
    "good": false
   },
   {
-   "text": "Britain's first £100m man facing defining moment",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Celebrity Traitors finale – LIVE",
+   "text": "The Celebrity Traitors final review – more muted but still thrilling to the last",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -186,6 +192,12 @@
    "source": "Guardian",
    "sev": 1,
    "good": true
+  },
+  {
+   "text": "How can playing for Manchester City fit into Marc Guéhi’s moral universe? | Barney Ronay",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "The White House Farm massacre phone calls: could a single disputed digit set Jeremy Bamber free?",
@@ -206,13 +218,7 @@
    "good": false
   },
   {
-   "text": "‘I saw the script and went: oooh!’ Olivia Colman and Alexander Skårsgard on their steamy folk-horror movie Wicker",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+   "text": "Andy Burnham open to calls for formal apology for Britain’s role in slave trade",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -224,27 +230,27 @@
    "good": false
   },
   {
+   "text": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Police Scotland investigate Jeffrey Epstein and Ghislaine Maxwell’s visit to Balmoral",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Evacuation of civilians begins in besieged Ukrainian city of Oleshky",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Russell Brand trial: accusers have ‘nothing to gain’ and were not led by media, court told",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -257,6 +263,12 @@
    "text": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘His honesty gave courage to survivors’: domestic abuse charities praise Patrick Stewart’s legacy",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -278,13 +290,13 @@
    "good": false
   },
   {
-   "text": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
+   "text": "Sky-high ratings – for a lacklustre series: The Celebrity Traitors has become too nice for its own good",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Sky-high ratings – for a lacklustre series: The Celebrity Traitors has become too nice for its own good",
+   "text": "‘I felt bad for my exes’: Awkwafina on making deeply personal TV – with her grandma",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -308,12 +320,6 @@
    "good": false
   },
   {
-   "text": "‘I left shellshocked’: writers on their scariest non-horror movies",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Why M&S director Kathryn Turner is the ultimate ‘Gay Halloween’ costume idea",
    "source": "Guardian",
    "sev": 1,
@@ -326,19 +332,25 @@
    "good": false
   },
   {
+   "text": "British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history | Andy Burnham",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "How do you bounce back from Liz Truss-level public failure? Don’t be shameless; do show remorse | Gaby Hinsliff",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "To baldly go: Patrick Stewart was an icon for bald men everywhere",
+   "text": "Digested week: The Traitors suddenly feels tired – time for a politicians version? | John Crace",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Digested week: The Traitors suddenly feels tired – time for a politicians version? | John Crace",
+   "text": "To baldly go: Patrick Stewart was an icon for bald men everywhere",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -350,8 +362,20 @@
    "good": false
   },
   {
-   "text": "Could 2026 be the year that democracy fought back? | David Van Reybrouck",
-   "source": "Guardian",
+   "text": "Founder of 'endless cruise' that dumped its passengers in Cambodia 'says \"I'm the villain\" but blames Trump's Iran war'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Russell Brand rape trial: Follow every twist from Southwark Crown Court with the Daily Mail's award-winning Trial podcast",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
+   "source": "Mail",
    "sev": 1,
    "good": false
   },
@@ -359,12 +383,6 @@
    "text": "Murderer Christa Pike issues first statement since surviving two botched execution attempts and says she has been in constant, severe pain ever since",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
@@ -452,12 +470,6 @@
    "good": false
   },
   {
-   "text": "Founder of 'endless cruise' that dumped its passengers in Cambodia 'says \"I'm the villain\" but blames Trump's Iran war'",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "Crufts champion breeder's £1.1m fortune at the centre of bitter legal battle between her son and kennel hand",
    "source": "Mail",
    "sev": 1,
@@ -527,12 +539,6 @@
    "text": "Sarah Ferguson is back in the limelight after a year in hiding... and her return suggests an extraordinary possibility, reveals RICHARD KAY",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "NatWest boss urges Burnham to show some 'ambition' to turbocharge economy after Budget",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   }
  ]
