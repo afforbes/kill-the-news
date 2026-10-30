@@ -1,22 +1,10 @@
 {
- "updated": "2026-10-29T21:57:23.152Z",
+ "updated": "2026-10-30T01:50:16.550Z",
  "headlines": [
   {
-   "text": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+   "text": "Watch: Life and career of iconic actor Sir Patrick Stewart",
    "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-   "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -26,19 +14,91 @@
    "good": false
   },
   {
-   "text": "Met refers itself to police watchdog over letter about Meghan's father",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
+   "text": "Google value plunges by $500bn as AI fears rattle Wall Street",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
+   "text": "Crypto worth billions frozen after suspected Binance hack",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Bombshell confession in The Traitors as faithfuls finally turn the screw",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What are the government's options for reducing welfare spending?",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Hyrox athlete who soiled herself in race tells BBC she put others at risk but says backlash was traumatic",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Student-backed election winners demand sweeping resignations in Serbia",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Biggest fibre boost could be scraps in your bin, experts say",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Young athlete and former minister among victims of Spain train crash",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "We went on holiday with our neighbours and swapped families - it tore us apart",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'No welfare cuts before election' and 'Police probe Epstein's Balmoral stay'",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Weekly quiz: What was wrong with the Spotify listing of Dolly Parton's Jolene?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Many Cubans voted for Trump - now they're turning on Republican immigration policies",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -50,87 +110,9 @@
    "good": false
   },
   {
-   "text": "Grealish dropped by Everton after 'breach of club discipline'",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "What are the government's options for reducing welfare spending?",
+   "text": "Jury shown CCTV of Huntingdon train staff using frying pan in defence",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "What the Budget means for your money",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Faisal Islam: This Budget was micro and that was deliberate",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Bereaved families will not face tax bill over pension delays under new rules",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Sir Patrick Stewart: Actor who moved effortlessly between Star Trek and Shakespeare",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Shock of rail tragedy gives way to sorrow and outrage in politically divided Spain",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "'The internet's a less whimsical place' - YouTuber Jacksepticeye branches out",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Europe's youth is on the march - but does anything actually unite them?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "We love how we look but AI tried to 'fix' our visible differences",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'I live with a ghost': The people saving money by moving into Japan's haunted houses",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-   "source": "BBC",
-   "sev": 4,
    "good": false
   },
   {
@@ -140,31 +122,25 @@
    "good": false
   },
   {
-   "text": "MI5 false evidence in neo-Nazi spy case a serious failing, says intelligence watchdog",
+   "text": "Met refers itself to police watchdog over letter about Meghan's father",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'Painful' years ahead, think tanks warn, as living standards set to fall",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "George Michael's Faith guitar sells for £180k after auction row",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "More than 43 million ballots cast so far in midterms early voting surge",
+   "text": "King Charles arrives in Guyana as Bahamas visit declared 'diplomatic success'",
    "source": "BBC",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Offshore workers turn to weight-loss jabs to meet helicopter weight rules",
+   "text": "Grealish dropped over 'breach of club discipline' - what now?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -177,6 +153,30 @@
   },
   {
    "text": "Is the double drop from the Premier League becoming more common?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Careless dismissals give Australia route to series win in South Africa",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Zverev seals world number one spot after win",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Duckett and Dawson deliver in England's consolation win",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "PSG score late to hold struggling Man City",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -224,13 +224,13 @@
    "good": false
   },
   {
-   "text": "Healey backs away from cutting welfare cost despite warnings of public finance shortfall",
+   "text": "Healey backs away from cutting welfare cost amid warnings of public finance shortfall",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Israeli leader Netanyahu accused of using ‘ugly’ smear tactics to cling to power",
+   "text": "Netanyahu accused of smearing Arab voters to hold on to power",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -242,21 +242,27 @@
    "good": false
   },
   {
-   "text": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Spain begins mourning period as search continues for train crash victims",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Russell Brand’s wife tells court he is ‘amazingly attentive husband’",
+   "text": "Met refers itself to police watchdog over Meghan warning letter",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Trump again calls for prosecution of Mary Peltola as turmoil grows over Alaska campaign investigation – live",
    "source": "Guardian",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Manosphere and online misogyny should be treated as public health issues, say UK experts",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -266,21 +272,21 @@
    "good": false
   },
   {
-   "text": "Visit Norway makes shithouses ‘great again’ after Trump insult",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
+   "text": "Why is North Korea fortifying its border with South Korea?",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
    "text": "Survivors shell-shocked after deadly Spain train crash - The Latest",
    "source": "Guardian",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Patrick Stewart: the commanding Shakespearian thespian who conquered superhero pop culture",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -296,19 +302,13 @@
    "good": false
   },
   {
-   "text": "Metro-themed shirts, ‘We love public transport’ signs and a kiss at Bankstown: Sydney’s newest train line opens",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "What is it like to work when your co-workers are AI agents?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Middlemarch review – World’s Greatest Novel hurtles from costume drama to jolting marital tragedy",
+   "text": "Middlemarch review – World’s Greatest Novel hurtles from deathbed panto to jolting marital tragedy",
    "source": "Guardian",
    "sev": 3,
    "good": false
@@ -344,20 +344,26 @@
    "good": false
   },
   {
-   "text": "Is this play-safe budget a sign that the prime minister is planning an early election? | Larry Elliott",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "A simple pub sign led me down a very disturbing rabbit hole",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
+   "text": "Is this play-safe budget a sign that the prime minister is planning an early election? | Larry Elliott",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Trump’s plea – ‘pretend I’m on the ballot’ – deserves to backfire | Margaret Sullivan",
    "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Healey faces bingo backlash as Budget tax raid puts 77 sites and 1,200 jobs at risk",
+   "source": "Mail",
    "sev": 2,
    "good": false
   },
@@ -467,12 +473,6 @@
    "text": "'Dishonest' homeowner who won £225,000 Thames Water payment claiming her house was 'unsellable' after floods must pay cash back because she'd sold it a month earlier for £780,000",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Healey faces bingo backlash as Budget tax raid puts 77 sites and 1,200 jobs at risk",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
