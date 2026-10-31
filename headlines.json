@@ -1,38 +1,50 @@
 {
- "updated": "2026-10-31T16:16:44.514Z",
+ "updated": "2026-10-31T20:13:56.510Z",
  "headlines": [
   {
-   "text": "Burnham 'open' to calls for slavery apology but not reparations",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+   "text": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "text": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Clashes erupt between police and protesters in Paris",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Celebrity Traitors comes to a climax in nail-biting final",
+   "text": "'The necktie is dead': How US midterm candidates are dressing for votes",
    "source": "BBC",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Watch: Traitor or faithful? Celebrities reveal their allegiances",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "After 28 years and 36,000 miles, Karl Bushby is almost home",
+   "text": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -44,15 +56,9 @@
    "good": false
   },
   {
-   "text": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+   "text": "The fight to save Canadian town threatened by Trump's tariffs",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'The necktie is dead': How US midterm candidates are dressing for votes",
-   "source": "BBC",
-   "sev": 4,
+   "sev": 3,
    "good": false
   },
   {
@@ -62,19 +68,19 @@
    "good": false
   },
   {
-   "text": "The fight to save Canadian town threatened by Trump's tariffs",
+   "text": "Burnham 'open' to calls for slavery apology but not reparations",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+   "text": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
+   "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
    "source": "BBC",
    "sev": 4,
    "good": false
@@ -86,9 +92,9 @@
    "good": false
   },
   {
-   "text": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+   "text": "Everton striker's relief family not home during burglary",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -104,10 +110,16 @@
    "good": false
   },
   {
-   "text": "When a wedding fell apart, 11 strangers helped create something unforgettable",
+   "text": "'I live with a ghost': The people saving money by moving into Japan's haunted houses",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
+  },
+  {
+   "text": "Author's camping trip inspired Hollywood film Wicker",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "'They don't bother me at all': The man who chooses to sleep with bedbugs for science",
@@ -122,19 +134,19 @@
    "good": false
   },
   {
-   "text": "Author's camping trip inspired Hollywood film Wicker",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Californian whose pumpkin patch dream took root in Scotland",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Download now",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Maresca's big test is to address mounting Man City issues",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -146,13 +158,7 @@
    "good": true
   },
   {
-   "text": "A 3/10 that might be generous - player ratings for Chelsea v Man Utd",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Carragher apologises to Villa for 'wrong' language",
+   "text": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -170,6 +176,12 @@
    "good": false
   },
   {
+   "text": "The moment I knew: He loved to travel, I had a fear of flying. I expected him to skol his beer and wish me well",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Is AI your new wingman? How chatbots are transforming dating",
    "source": "Guardian",
    "sev": 1,
@@ -177,12 +189,6 @@
   },
   {
    "text": "‘The sexy stuff has got to be coming to an end, right?’: Rivals star Aidan Turner on beards, ballroom dancing and putting Poldark to bed",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Being hated is very bracing’: Helen Garner on surviving three marriages and being called a ‘rotten feminist’",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -200,21 +206,21 @@
    "good": false
   },
   {
-   "text": "Starmer says UK must get closer to Europe as US relationship changes",
+   "text": "Police clash with masked rioters after largely peaceful protests across France",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
+   "text": "Starmer says UK must get closer to Europe as US relationship changes",
    "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
-   "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -224,25 +230,25 @@
    "good": false
   },
   {
-   "text": "More than 100 protest against Palestine Action ban outside US embassy in London",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Andy Burnham open to calls for formal apology for Britain’s role in slave trade",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "UK charity shop profits plummet amid shift in secondhand clothes market",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Fallon Sherrock pulls off shock defeat of world darts No 1 Luke Littler in live TV battle",
+   "text": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Strictly Come Dancing Halloween special – live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Spurs see off Crystal Palace after Mateta’s early red to pile pressure on Sage",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -338,6 +344,12 @@
    "good": false
   },
   {
+   "text": "Forget three days! Scientist tells Brits to stockpile enough for two WEEKS - here's exactly what you should be buying",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
    "source": "Mail",
    "sev": 1,
@@ -371,12 +383,6 @@
    "text": "How more than 200 unaccompanied migrant children arrive by boat in Dover EVERY MONTH...and they'll cost Britain millions: SUE REID",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Forget three days! Scientist tells Brits to stockpile enough for two WEEKS - here's exactly what you should be buying",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
