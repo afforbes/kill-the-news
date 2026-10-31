@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:08:52.015Z",
+ "updated": "2026-10-31T16:16:44.514Z",
  "headlines": [
   {
    "text": "Burnham 'open' to calls for slavery apology but not reparations",
@@ -8,9 +8,9 @@
    "good": false
   },
   {
-   "text": "US approves sale of 500 Patriot missiles to Ukraine",
+   "text": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
    "source": "BBC",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
@@ -32,13 +32,7 @@
    "good": false
   },
   {
-   "text": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+   "text": "After 28 years and 36,000 miles, Karl Bushby is almost home",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -68,25 +62,37 @@
    "good": false
   },
   {
-   "text": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+   "text": "The fight to save Canadian town threatened by Trump's tariffs",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "G20 'family photo' cancelled after protests over presence of Russian minister",
+   "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
    "source": "BBC",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
+   "text": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
    "source": "BBC",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "UK could see 10 days without rain after 'wettest week in two years'",
+   "text": "US approves sale of 500 Patriot missiles to Ukraine",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Mahmood expected to announce changes to rules around indefinite leave to remain",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -98,22 +104,10 @@
    "good": false
   },
   {
-   "text": "UK has 'no authority' over death of woman shot in US",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
    "text": "When a wedding fell apart, 11 strangers helped create something unforgettable",
    "source": "BBC",
    "sev": 1,
    "good": true
-  },
-  {
-   "text": "Global nature talks reach deal but money remains an issue",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
   },
   {
    "text": "'They don't bother me at all': The man who chooses to sleep with bedbugs for science",
@@ -146,37 +140,19 @@
    "good": false
   },
   {
-   "text": "Shearer on trials of MOTD & the manager's job that never was",
+   "text": "'Un-Australian' - Warner tears into former side after SA charge to win",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "A 3/10 that might be generous - player ratings for Chelsea v Man Utd",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Sherrock happy to overcome 'hate' in beating Littler for £501,000",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Villa to sue Carragher over 'unacceptable insults'",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Verstappen and Lawson given grid penalties for Mexico practice collision",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "What Howe could bring to Man Utd - and what are the challenges?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "AC Milan v Inter and the tale of an iconic image",
+   "text": "Carragher apologises to Villa for 'wrong' language",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -188,33 +164,69 @@
    "good": false
   },
   {
+   "text": "‘We freed Patrick Stewart!’ Star Trek’s Marina Sirtis on breaking in her beloved but very serious co-star",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Is AI your new wingman? How chatbots are transforming dating",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘The sexy stuff has got to be coming to an end, right?’: Rivals star Aidan Turner on beards, ballroom dancing and putting Poldark to bed",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Being hated is very bracing’: Helen Garner on surviving three marriages and being called a ‘rotten feminist’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Never big enough’: inside the booming penis enlargement industry",
+   "text": "UK police should not have let US force take over airbase trial, MoD documents show",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Nigel’s ‘chiselled cheekbones’ make the news – Reform’s the Reformer, digested by John Crace",
+   "text": "Starmer says UK must get closer to Europe as US relationship changes",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Florid language and long silences: five things we learned from week three of Russell Brand’s rape trial",
+   "text": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "‘Apologies for any confusion!’: how to write the perfect passive-aggressive email",
+   "text": "Manchester United crisis deepens with Chelsea defeat and Martínez red card",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "More than 100 protest against Palestine Action ban outside US embassy in London",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -224,7 +236,7 @@
    "good": false
   },
   {
-   "text": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
+   "text": "UK charity shop profits plummet amid shift in secondhand clothes market",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -236,55 +248,31 @@
    "good": false
   },
   {
-   "text": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+   "text": "‘Was I not enough?’: care worker barred from meeting home secretary",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The secret behind Lula’s win in Brazil may be an ‘army’ – of social media creators",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "It’s closer to Beijing than Washington – and residents of this Alaskan outpost are reeling from Trump’s policies",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘The last fortress’: historic Athens cafe closes as countercultural area gentrifies",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Is time up for backyard fireworks? UK ministers weigh partial ban over noise concerns",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "‘Plantation tourism’: court victory signals hope in Jamaica’s fight to keep beaches public",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Selma Blair says she is ‘so sorry’ to those she alarmed following alleged air incident",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘We’re looking at a 30-year run’: UK pair aim to complete world’s most complex board game",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "As Trump fans the flames of a world on fire, can diplomacy take back control?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How ‘sin bin’ for red light jumpers saves cyclists from being saddled with a fine",
+   "text": "Ads accusing Republican candidates of protecting Epstein fill airwaves in final midterm push",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -296,49 +284,31 @@
    "good": false
   },
   {
-   "text": "Election integrity, extremism and Pete Hegseth: nine voters on the US midterm election",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Top Democrats are fighting a billionaire tax in California. Their voters are on the other side |",
+   "text": "Days away from a national verdict on Trump 2.0, we check in with nine voters across the political spectrum",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Can Democrats win Maha voters after Trump let them down?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Blind date: ‘He said: “If heaven is real, you’ll definitely be going there”, which might be the nicest thing anyone’s ever said to me’",
+   "text": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘We were mortgage-free at 45, here’s how you can do it too’",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Don’t make sugar a treat –or hide the broccoli: top chefs on how to make your kids happy eaters",
+   "text": "How ‘sin bin’ for red light jumpers saves cyclists from being saddled with a fine",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+   "text": "‘Dark green dust’: the best (and worst) supermarket green teabags, tested and rated",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "The Celebrity Traitors final review – more muted but still thrilling to the last",
+   "text": "‘Never big enough’: inside the booming penis enlargement industry",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -362,7 +332,49 @@
    "good": false
   },
   {
-   "text": "Pippa Middleton and hedge fund manager husband forced to dig up 'unsightly' car park built on their £15.5m estate without permission",
+   "text": "From This City Is Ours to Macklemore’s Free Palestine tour: the week in rave reviews",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Thomas Markle seen in Florida after child pornography was found in his storage unit by Daily Mail... as FBI begins investigation and his one non-estranged child sticks by his side",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trump is forced to pause rally as he struggles to keep his eye open... before slamming rumors about his health",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Boy, 14, stabbed by Huntingdon train attacker while trick or treating with friend said defendant stared at him with his 'eyes wide open', court told",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Is this what you had in mind, mayor? Sadiq Khan's Oxford Street revolution descends into chaos as cyclists turn 'pedestrian-only' zone into 'highway' - and cab drivers warn journeys are taking longer",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "How more than 200 unaccompanied migrant children arrive by boat in Dover EVERY MONTH...and they'll cost Britain millions: SUE REID",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Forget three days! Scientist tells Brits to stockpile enough for two WEEKS - here's exactly what you should be buying",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -374,7 +386,19 @@
    "good": false
   },
   {
-   "text": "Forget three days! Scientist tells Brits to stockpile enough for two WEEKS - here's exactly what you should be buying",
+   "text": "The state school boy who can protect the world from AI: How a tech billionaire born and bred in Brighton could hold the power to save humanity... but still spends his time watching Dr Who and making sausage rolls",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The £71bn stealth tax bonanza: 13 million workers dragged into paying more as income thresholds stay frozen in brazen Labour cash grab",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Pippa Middleton and hedge fund manager husband forced to dig up 'unsightly' car park built on their £15.5m estate without permission",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -392,24 +416,6 @@
    "good": false
   },
   {
-   "text": "Trump is forced to pause rally as he struggles to keep his eye open... before slamming rumors about his health",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The £71bn stealth tax bonanza: 13 million workers dragged into paying more as income thresholds stay frozen in brazen Labour cash grab",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Thomas Markle seen in Florida after child pornography was found in his storage unit by Daily Mail... as FBI begins investigation and his one non-estranged child sticks by his side",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Voyeur father-of-two is jailed for four years for prowling streets in balaclava and taking hundreds of videos and pictures of women in their own homes",
    "source": "Mail",
    "sev": 2,
@@ -422,18 +428,6 @@
    "good": false
   },
   {
-   "text": "How more than 200 unaccompanied migrant children arrive by boat in Dover EVERY MONTH...and they'll cost Britain millions: SUE REID",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The state school boy who can protect the world from AI: How a tech billionaire born and bred in Brighton could hold the power to save humanity... but still spends his time watching Dr Who and making sausage rolls",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Builders who wolf whistle will be forced to take 'respectful behaviour' training under Labour workers' rights laws",
    "source": "Mail",
    "sev": 2,
@@ -443,12 +437,6 @@
    "text": "The brutal forging of a Labour star: Energy Secretary Miatta Fahnbulleh's Marxist father was global envoy for a blood-stained African regime that executed its political rivals and later cannibalised its enemies",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
@@ -471,12 +459,6 @@
   },
   {
    "text": "Russell Brand rape trial: Follow every twist from Southwark Crown Court with the Daily Mail's award-winning Trial podcast",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Boy, 14, stabbed by Huntingdon train attacker while trick or treating with friend said defendant stared at him with his 'eyes wide open', court told",
    "source": "Mail",
    "sev": 4,
    "good": false
@@ -533,12 +515,6 @@
    "text": "'I'll kill you!': Migrant armed with a knife boards boat to Britain after threatening another man on board",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Chicago-born Pope Leo becomes first pontiff to vote in US election after blasting Trump over Iran war and president's treatment of migrants",
-   "source": "Mail",
-   "sev": 5,
    "good": false
   }
  ]
