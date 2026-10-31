@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T23:38:32.046Z",
+ "updated": "2026-10-31T05:19:37.184Z",
  "headlines": [
   {
    "text": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -8,13 +8,19 @@
    "good": false
   },
   {
-   "text": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "text": "Burnham 'open' to calls for slavery apology but not reparations",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "What we know about Binance's $6.3bn hack",
+   "text": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Mahmood expected to announce changes to rules around indefinite leave to remain",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -32,15 +38,9 @@
    "good": false
   },
   {
-   "text": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+   "text": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
    "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Driver guilty of hitting cyclist and dragging him to death under car",
-   "source": "BBC",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
@@ -50,13 +50,13 @@
    "good": false
   },
   {
-   "text": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
+   "text": "Why MPs keep talking about an early election despite Burnham's denials",
    "source": "BBC",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "King visits Guyanese slave rebellion site on Caribbean tour",
+   "text": "Global nature talks reach deal but money remains an issue",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -74,19 +74,31 @@
    "good": false
   },
   {
-   "text": "Democrats in the US have an identity crisis - it won't be an easy fix",
+   "text": "Responsible or panicked? Meet the people around the world already preparing for crisis",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Set up to fail? Where England's World Cup campaign went wrong",
+   "text": "'The necktie is dead': How US midterm candidates are dressing for votes",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'Rush to recover stolen $6bn' and 'War on wind farms'",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How a passenger's confession helped convict her cousin of murder",
+   "text": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -98,7 +110,13 @@
    "good": false
   },
   {
-   "text": "We went on holiday with our neighbours and swapped families - it tore us apart",
+   "text": "When a wedding fell apart, 11 strangers helped create something unforgettable",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "UK could see 10 days without rain after 'wettest week in two years'",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -140,19 +158,7 @@
    "good": false
   },
   {
-   "text": "Ex-football chief admits offences linked to woman's drugging and rape by husband",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Download now",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Villa to sue Carragher over 'unacceptable insults'",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -164,19 +170,13 @@
    "good": false
   },
   {
-   "text": "Leclerc sets pace in Friday practice at Mexico City Grand Prix",
+   "text": "Villa to sue Carragher over 'unacceptable insults'",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "South Africa-Australia set for classic finale – what does history suggest could happen?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
+   "text": "Sherrock upsets Littler to claim £501,000 prize",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -230,19 +230,19 @@
    "good": false
   },
   {
-   "text": "Suspicious bets returning £149,000 for predicting Ballon d’Or under investigation",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Police Scotland investigate Jeffrey Epstein and Ghislaine Maxwell’s visit to Balmoral",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Russell Brand trial: accusers have ‘nothing to gain’ and were not led by media, court told",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Ukraine’s Zelenskyy praises US over $2.1bn Patriot missile deal but warns it could take years",
+   "source": "Guardian",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Riot police deployed to Poland’s constitutional court after judge suspended",
    "source": "Guardian",
    "sev": 3,
    "good": false
@@ -260,9 +260,9 @@
    "good": false
   },
   {
-   "text": "Perfume bottle and child’s necklace among treasures found in Pompeii wardrobe",
+   "text": "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -272,7 +272,19 @@
    "good": false
   },
   {
-   "text": "Shakespeare to Star Trek: Patrick Stewart’s extraordinary life - The Latest",
+   "text": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘You need the power of all your votes’: Bedouin women secure success for Arab parties in Israeli election",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Don’t worry about the leopard. It’s a man you don’t want to run into’: Delhi women reclaim the outdoors",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -284,9 +296,9 @@
    "good": false
   },
   {
-   "text": "‘Amateur morons’: Flávio Bolsonaro’s short-lived ‘president-elect’ claim met with mockery",
+   "text": "‘We’re not freaks’: police raid sparks concern for Taiwan’s LGBT-friendly image",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -332,33 +344,27 @@
    "good": false
   },
   {
-   "text": "British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history | Andy Burnham",
+   "text": "Arteta can take inspiration from George Graham to expunge painful Anfield memories",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How do you bounce back from Liz Truss-level public failure? Don’t be shameless; do show remorse | Gaby Hinsliff",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Digested week: The Traitors suddenly feels tired – time for a politicians version? | John Crace",
+   "text": "Carrick tells players ‘hard truth’ in attempt to turn Manchester United’s season around",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "To baldly go: Patrick Stewart was an icon for bald men everywhere",
+   "text": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Opening the EU debate again is clearly a political minefield. But we have to do it | Simon Jenkins",
-   "source": "Guardian",
-   "sev": 2,
+   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
+   "source": "Mail",
+   "sev": 1,
    "good": false
   },
   {
@@ -371,12 +377,6 @@
    "text": "Russell Brand rape trial: Follow every twist from Southwark Crown Court with the Daily Mail's award-winning Trial podcast",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Daily Mail finds child pornography in Thomas Markle's Mexico storage unit: Explicit images and pedophilia magazines uncovered as we report him to the FBI",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
