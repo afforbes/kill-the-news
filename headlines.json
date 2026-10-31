@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T20:13:56.510Z",
+ "updated": "2026-10-31T23:37:23.305Z",
  "headlines": [
   {
-   "text": "'We came back from hell', say Ukrainians after years in Russia-occupied frontline city",
+   "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -14,9 +14,15 @@
    "good": false
   },
   {
-   "text": "Clashes erupt between police and protesters in Paris",
+   "text": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Thousands demonstrate in Paris as protests spread across Europe",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -32,9 +38,9 @@
    "good": false
   },
   {
-   "text": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
+   "text": "Why did this Korean content creator throw a divorce ceremony?",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -62,15 +68,9 @@
    "good": false
   },
   {
-   "text": "Why MPs keep talking about an early election despite Burnham's denials",
+   "text": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Burnham 'open' to calls for slavery apology but not reparations",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -140,7 +140,7 @@
    "good": false
   },
   {
-   "text": "Maresca's big test is to address mounting Man City issues",
+   "text": "Watch: Match of the Day",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -152,16 +152,28 @@
    "good": false
   },
   {
+   "text": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Are De Zerbi's Spurs finding elusive consistency?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Maresca's big test is to address mounting Man City issues",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "'Un-Australian' - Warner tears into former side after SA charge to win",
    "source": "BBC",
    "sev": 1,
    "good": true
-  },
-  {
-   "text": "Usyk eyes 'final chapter' at cruiserweight against Benavidez",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
   },
   {
    "text": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
@@ -212,13 +224,25 @@
    "good": false
   },
   {
-   "text": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+   "text": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Tusk defends overhaul of Poland’s constitutional court despite protests",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Man in Belfast charged with possessing explosives and firearms",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Starmer says UK must get closer to Europe as US relationship changes",
+   "text": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -239,18 +263,6 @@
    "text": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
    "source": "Guardian",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Strictly Come Dancing Halloween special – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Spurs see off Crystal Palace after Mateta’s early red to pile pressure on Sage",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
@@ -296,6 +308,12 @@
    "good": false
   },
   {
+   "text": "Yaga review – this erotic witchy thriller starring Hudson Williams is a total head-messer",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
    "source": "Guardian",
    "sev": 1,
@@ -338,8 +356,8 @@
    "good": false
   },
   {
-   "text": "From This City Is Ours to Macklemore’s Free Palestine tour: the week in rave reviews",
-   "source": "Guardian",
+   "text": "Heirbnb! How you can live like a King in rental properties on royal estates including Sandringham, Balmoral and Queen Victoria's seaside escape",
+   "source": "Mail",
    "sev": 1,
    "good": false
   },
@@ -405,12 +423,6 @@
   },
   {
    "text": "Pippa Middleton and hedge fund manager husband forced to dig up 'unsightly' car park built on their £15.5m estate without permission",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Heirbnb! How you can live like a King in rental properties on royal estates including Sandringham, Balmoral and Queen Victoria's seaside escape",
    "source": "Mail",
    "sev": 1,
    "good": false
