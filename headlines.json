@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-01T18:30:39.776Z",
+ "updated": "2026-11-01T22:17:36.513Z",
  "headlines": [
   {
-   "text": "Shops looted as German cost-of-living protests turn violent",
+   "text": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
    "source": "BBC",
-   "sev": 2,
+   "sev": 4,
    "good": false
   },
   {
@@ -14,9 +14,9 @@
    "good": false
   },
   {
-   "text": "University of Cambridge scientist among those who died in Spanish train crash",
+   "text": "Thousands of jobs at Virgin Media O2 to be cut",
    "source": "BBC",
-   "sev": 5,
+   "sev": 1,
    "good": false
   },
   {
@@ -32,33 +32,33 @@
    "good": false
   },
   {
+   "text": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Nine killed in 'horrific' Florida jet crash",
+   "source": "BBC",
+   "sev": 6,
+   "good": false
+  },
+  {
    "text": "After a 28-year trek around the world, homebound Karl Bushby crosses the Humber Bridge",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Thousands of jobs at Virgin Media O2 to be cut",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Israeli strikes in Gaza kill eight including child, hospitals say",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Lindsay Clancy is back in court - where will her case go next?",
+   "text": "Peaceful protests in Germany spiral into violence and looting",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Tributes to 'inspirational' Olympian Ciara Mageean after death at 34",
+   "text": "Armed police start patrols in Sydney after Bondi Beach attack",
    "source": "BBC",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
@@ -74,6 +74,12 @@
    "good": false
   },
   {
+   "text": "Lindsay Clancy is back in court - where will her case go next?",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "No more washing up: Airbnb's new house rules divide hosts and guests",
    "source": "BBC",
    "sev": 1,
@@ -81,12 +87,6 @@
   },
   {
    "text": "I've been stuck on a tiny Pacific island for years because of visa rules",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -104,9 +104,27 @@
    "good": false
   },
   {
+   "text": "University of Cambridge scientist among those who died in Spanish train crash",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
    "text": "Healey risks breaking minimum wage promise for younger workers",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Police probe video of officer hitting youth with handcuffs",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Israeli strikes in Gaza kill eight including child, hospitals say",
+   "source": "BBC",
+   "sev": 6,
    "good": false
   },
   {
@@ -116,28 +134,10 @@
    "good": false
   },
   {
-   "text": "Green Party at 'crossroads' after Zionism vote, says former co-leader",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Seven arrested after Birmingham city centre firework disorder",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Cate McHugh wins The Voice UK after being mentored by Sir Tom Jones",
    "source": "BBC",
    "sev": 1,
    "good": true
-  },
-  {
-   "text": "Northern Lights dance across UK sky on Halloween night",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
   },
   {
    "text": "Download now",
@@ -152,26 +152,38 @@
    "good": false
   },
   {
+   "text": "I'll tell my players to dive in future - Iraola",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Arsenal move clear at the top with a rare win at Liverpool",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
    "text": "Are Celtic club in regression amid run of six defeats in 10?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Referee accidentally fractures college football player's leg",
+   "text": "Boy, 14, hands himself in to police over Bradley Lowery video",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "How Dart revived career with help of Wimbledon champion",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Defeat for London City against Man City - but is Europe a real possibility?",
-   "source": "BBC",
+   "text": "Blue Planet III review – David Attenborough makes another absolute corker",
+   "source": "Guardian",
    "sev": 1,
    "good": false
   },
@@ -182,7 +194,13 @@
    "good": false
   },
   {
-   "text": "I’m sick of smug celebrities on the podcast circuit. No wonder there’s a fuss when someone speaks the truth | Imogen West-Knights",
+   "text": "The truth about testicles: are we facing spermageddon?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What does Olivia Colman's hot sex with a basket tell us about heteropessimism? | Emma Beddington",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -194,19 +212,7 @@
    "good": false
   },
   {
-   "text": "How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "‘We freed Patrick Stewart!’ Star Trek’s Marina Sirtis on breaking in her beloved but very serious co-star",
+   "text": "Jess Cartner-Morley’s November style essentials: fancy flats, sexy knits and a Christmassy pigeon",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -218,33 +224,9 @@
    "good": false
   },
   {
-   "text": "Police detain 325 people at pro-Palestine Action protest at US embassy in London",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
-   "source": "Guardian",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Britain should not issue apology over slave trade, says Kemi Badenoch",
+   "text": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
    "source": "Guardian",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Liverpool v Arsenal: Premier League – live",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
@@ -254,19 +236,43 @@
    "good": false
   },
   {
-   "text": "Five teenagers hurt in stabbing at Halloween party in Hampshire",
+   "text": "Police detain 325 people at pro-Palestine Action protest at US embassy in London",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "National Grid to site biggest substation on Teesside, near planned AI datacentre",
+   "text": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Tributes paid to ‘inspiring’ Cambridge scientist who died in Spain train crash",
+   "source": "Guardian",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Juan Atkins, pioneer of Detroit techno sound, dies aged 64",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Mexican Formula One Grand Prix: Kimi Antonelli aims to seal title – live",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How Rachel Reeves has mapped out economic agenda for Andy Burnham’s government",
+   "text": "Teenage violinist wins BBC Young Musician 2026, after first all-female final",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -284,16 +290,22 @@
    "good": false
   },
   {
+   "text": "‘He’s a force’: Obama answers call to boost Democrats – and rattle Trump",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
    "text": "Democrat Haley Stevens endorses Abdul El-Sayed’s Republican rival Mike Rogers",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘He’s a force’: Obama answers call to boost Democrats – and rattle Trump",
+   "text": "Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses",
    "source": "Guardian",
-   "sev": 1,
-   "good": true
+   "sev": 2,
+   "good": false
   },
   {
    "text": "‘Dark money made darker’: funding labyrinth conceals donors to Republican campaigns",
@@ -302,7 +314,7 @@
    "good": false
   },
   {
-   "text": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+   "text": "‘I can’t afford to lose £3,000’: the ‘gameshow’ that made contestants gamble their own money",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -311,12 +323,6 @@
    "text": "‘Let’s take Alexa out into the garden and smash it with a shoe’: Charlie Brooker and Diane Morgan take aim at Hollywood, AI ... and each other",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’",
-   "source": "Guardian",
-   "sev": 2,
    "good": false
   },
   {
@@ -332,27 +338,27 @@
    "good": false
   },
   {
-   "text": "The truth about testicles: are we facing spermageddon?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Jess Cartner-Morley’s November style essentials: fancy flats, sexy knits and a Christmassy pigeon",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Some photos imprint upon us’: How our Saturday magazine puts together special issues about world-changing photographs",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Five Great Reads: Elections, eugenics and high school reunions",
    "source": "Guardian",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "From Wicker to Zelda: Ocarina of Time: your complete entertainment guide to the week ahead",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Antonelli set for F1 title, Premier League, and NFL action – follow with us",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From This City Is Ours to Macklemore’s Free Palestine tour: the week in rave reviews",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
