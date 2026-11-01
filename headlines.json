@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T05:48:00.666Z",
+ "updated": "2026-11-01T13:09:20.535Z",
  "headlines": [
   {
    "text": "Shops looted as German cost of living protests turn violent",
@@ -8,21 +8,27 @@
    "good": false
   },
   {
-   "text": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+   "text": "Healey risks breaking minimum wage promise for younger workers",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "text": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
    "text": "Reeves says UK's future should be inside the EU",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "University of Cambridge scientist among those who died in Spanish train crash",
+   "source": "BBC",
+   "sev": 5,
    "good": false
   },
   {
@@ -38,19 +44,19 @@
    "good": false
   },
   {
-   "text": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+   "text": "No more washing up: Airbnb's new house rules divide hosts and guests",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+   "text": "I've been stuck on a tiny Pacific island for years because of visa rules",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "text": "A severed hand and The Shining twins: The best celebrity Halloween costumes",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -62,21 +68,21 @@
    "good": false
   },
   {
-   "text": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Thick fog to create hazardous driving conditions into next week",
+   "text": "Northern Lights dance across UK sky on Halloween night",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+   "text": "Former European champion and two-time Olympian Ciara Mageean dies aged 34",
    "source": "BBC",
-   "sev": 1,
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Hospital admits full responsibility for 24 failures that led to toddler's death",
+   "source": "BBC",
+   "sev": 4,
    "good": false
   },
   {
@@ -86,19 +92,7 @@
    "good": false
   },
   {
-   "text": "Why did this Korean content creator throw a divorce ceremony?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "text": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -110,28 +104,64 @@
    "good": false
   },
   {
-   "text": "'I live with a ghost': The people saving money by moving into Japan's haunted houses",
+   "text": "India's opposition holds mega rally seeking election chief's resignation",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "'The necktie is dead': How candidates are dressing for votes",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "A simple guide to the midterms",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Author's camping trip inspired Hollywood film Wicker",
+   "text": "Who will win? How the US elections will be won and lost",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Watch: How US mail-in votes are secured and counted",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'They don't bother me at all': The man who chooses to sleep with bedbugs for science",
+   "text": "Adventurer completes 400-mile expedition after losing contact with team",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Tiny zebra-striped bee sighting a 'huge surprise'",
+   "text": "'Albinism means you are never invisible'",
    "source": "BBC",
    "sev": 1,
    "good": false
+  },
+  {
+   "text": "Chippy owner honoured with painting by royal artist",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "Download now",
@@ -140,51 +170,39 @@
    "good": false
   },
   {
-   "text": "Are Manchester United really at risk of a relegation scrap?",
+   "text": "The Fight For The Future Of The Green Party",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "On 'tense' Antonelli's big weekend, this was Hamilton's day",
+   "text": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
    "source": "BBC",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "Are De Zerbi's Spurs finding elusive consistency?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Maresca's big test is to address mounting Man City issues",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Un-Australian' - Warner tears into former side after SA charge to win",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Brighton pick up first away league victory over Man City",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "I’m sick of smug celebrities on the podcast circuit. No wonder there’s a fuss when someone speaks the truth | Imogen West-Knights",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘The term is becoming unrecognisable’: have the experts who believed in a single autism spectrum changed their minds?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How to improve your memory: 10 easy, enjoyable expert tips – from reading a book to getting more sleep",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -200,40 +218,28 @@
    "good": false
   },
   {
-   "text": "The moment I knew: He loved to travel, I had a fear of flying. I expected him to skol his beer and wish me well",
+   "text": "Rachel Reeves says UK’s future is in EU as she backs Andy Burnham on Brexit",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Is AI your new wingman? How chatbots are transforming dating",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘The sexy stuff has got to be coming to an end, right?’: Rivals star Aidan Turner on beards, ballroom dancing and putting Poldark to bed",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "UK police should not have let US force take over airbase trial, MoD documents show",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Judge dismisses Trump lawsuit against Wall Street Journal over Epstein birthday letter",
+   "text": "John Healey says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
    "source": "Guardian",
    "sev": 1,
    "good": true
+  },
+  {
+   "text": "Binance resumes customer withdrawals after record $6.3bn hack",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "Police clash with masked rioters after largely peaceful protests across France",
@@ -242,51 +248,45 @@
    "good": false
   },
   {
-   "text": "Tusk defends overhaul of Poland’s constitutional court despite protests",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Man in Belfast charged with possessing explosives and firearms",
+   "text": "‘What’s our crime?’: A Palestinian family’s fight to get care for son injured by Hamas rocket",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
+   "text": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "UK charity shop profits plummet amid shift in secondhand clothes market",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "A world-first focus on long-term outcomes could transform UK government – or create new spending fights",
+   "text": "Sadiq Khan calls for cap on numbers of robotaxis on London streets",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Rare beetle that oozes substance from its knees when attacked rediscovered in Wales",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Tommy Robinson conviction leaves far right with leadership void",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "English children’s homes are in crisis. Does Denmark hold the answers?",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -314,19 +314,43 @@
    "good": false
   },
   {
-   "text": "Yaga review – this erotic witchy thriller starring Hudson Williams is a total head-messer",
+   "text": "‘Let’s take Alexa out into the garden and smash it with a shoe’: Charlie Brooker and Diane Morgan take aim at Hollywood, AI ... and each other",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "A-listers and AI stylists: how high-street brands are staging a fashion comeback",
+   "text": "Dining across the divide: ‘My family are all Trumpian, so I’ve had a lot of practice talking to people who are far right’",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Like many authors, I’m bombarded by scam fan mail. I wasn’t prepared for what would happen when I wrote back",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Never big enough’: inside the booming penis enlargement industry",
+   "text": "My wife and I are in our late 70s and don’t have any children. Who can help us in our old age? | Annalisa Barbieri",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "This is how we do it: ‘We don’t have penetration – but it’s by far the best sex I’ve ever had’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Romeo + Juliet at 30: how Baz Luhrmann made teens fall in love with Shakespeare",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Progress takes time’: Stonewall CEO on turning down the heat on the trans debate",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -335,30 +359,6 @@
    "text": "Five Great Reads: Elections, eugenics and high school reunions",
    "source": "Guardian",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "From Wicker to Zelda: Ocarina of Time: your complete entertainment guide to the week ahead",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Antonelli set for F1 title, Premier League, and NFL action – follow with us",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From This City Is Ours to Macklemore’s Free Palestine tour: the week in rave reviews",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
