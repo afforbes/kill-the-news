@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-31T23:37:23.305Z",
+ "updated": "2026-11-01T05:48:00.666Z",
  "headlines": [
   {
-   "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "text": "Shops looted as German cost of living protests turn violent",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -14,27 +14,75 @@
    "good": false
   },
   {
+   "text": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Reeves says UK's future should be inside the EU",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Who are the real winners of Celebrity Traitors?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'PM lets down the King' and 'Kenny's secret night at Maya's'",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Thick fog to create hazardous driving conditions into next week",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Thousands demonstrate in Paris as protests spread across Europe",
+   "text": "These firms you've never heard of are feeding fears the AI bubble could burst",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'It's been killing me!' Celebrity Traitors winners relieved the secret is out",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -44,69 +92,21 @@
    "good": false
   },
   {
-   "text": "'The necktie is dead': How US midterm candidates are dressing for votes",
+   "text": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
    "source": "BBC",
-   "sev": 4,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+   "text": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Responsible or panicked? Meet the people around the world already preparing for crisis",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The fight to save Canadian town threatened by Trump's tariffs",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Europe can no longer rely on US to 'bankroll' its defence, Starmer says",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "UK police cannot 'intervene' over woman killed by father in US, despite 'unlawful' ruling",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "US approves sale of 500 Patriot missiles to Ukraine",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Everton striker's relief family not home during burglary",
+   "text": "Second night of drone disruption at Jersey Airport",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Mahmood expected to announce changes to rules around indefinite leave to remain",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Spain train disaster clouds Sánchez chances of re-election",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -140,19 +140,13 @@
    "good": false
   },
   {
-   "text": "Watch: Match of the Day",
+   "text": "Are Manchester United really at risk of a relegation scrap?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Hamilton takes first pole for Ferrari at Mexico City Grand Prix",
+   "text": "On 'tense' Antonelli's big weekend, this was Hamilton's day",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -176,10 +170,28 @@
    "good": true
   },
   {
-   "text": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
-   "source": "Guardian",
+   "text": "Chelsea beat 10-man Man Utd to pile more pressure on Carrick",
+   "source": "BBC",
    "sev": 1,
    "good": false
+  },
+  {
+   "text": "Brighton pick up first away league victory over Man City",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Are the US midterms going to see a blue wave of Democrats winning seats – or a blue flood?",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Japan’s Jimi Halloween, a celebration of all things mundane – in pictures",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "‘We freed Patrick Stewart!’ Star Trek’s Marina Sirtis on breaking in her beloved but very serious co-star",
@@ -206,19 +218,13 @@
    "good": false
   },
   {
-   "text": "From gold rush to cosmic questions: a South Dakota mine and the search for the secrets of the universe",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "UK police should not have let US force take over airbase trial, MoD documents show",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Police clash with masked rioters after largely peaceful protests across France",
+   "text": "Binance says 90% of losses from $6.3bn hack covered as FBI says North Korea behind attack",
    "source": "Guardian",
    "sev": 3,
    "good": false
@@ -230,6 +236,12 @@
    "good": true
   },
   {
+   "text": "Police clash with masked rioters after largely peaceful protests across France",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Tusk defends overhaul of Poland’s constitutional court despite protests",
    "source": "Guardian",
    "sev": 3,
@@ -237,12 +249,6 @@
   },
   {
    "text": "Man in Belfast charged with possessing explosives and firearms",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -266,9 +272,15 @@
    "good": false
   },
   {
-   "text": "‘Was I not enough?’: care worker barred from meeting home secretary",
+   "text": "Piles of rubbish, power cuts and potholes: anger grows over Johannesburg’s run-down infrastructure",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Hitler’s Eagle’s Nest retreat was torched in an arson attack. Should it be rebuilt?",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -276,12 +288,6 @@
    "source": "Guardian",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "The secret behind Lula’s win in Brazil may be an ‘army’ – of social media creators",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "It’s closer to Beijing than Washington – and residents of this Alaskan outpost are reeling from Trump’s policies",
@@ -320,18 +326,6 @@
    "good": false
   },
   {
-   "text": "How ‘sin bin’ for red light jumpers saves cyclists from being saddled with a fine",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Dark green dust’: the best (and worst) supermarket green teabags, tested and rated",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "‘Never big enough’: inside the booming penis enlargement industry",
    "source": "Guardian",
    "sev": 1,
@@ -351,6 +345,18 @@
   },
   {
    "text": "Antonelli set for F1 title, Premier League, and NFL action – follow with us",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From This City Is Ours to Macklemore’s Free Palestine tour: the week in rave reviews",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Manchester United’s capitulation at Chelsea paints picture of a club that barely exists | Barney Ronay",
    "source": "Guardian",
    "sev": 1,
    "good": false
