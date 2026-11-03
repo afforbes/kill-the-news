@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-02T19:43:57.941Z",
+ "updated": "2026-11-03T02:11:08.481Z",
  "headlines": [
+  {
+   "text": "Mahmood scraps settlement plans for migrant care workers",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
   {
    "text": "Shop freezers in seven European countries hit by cyber-attack",
    "source": "BBC",
@@ -8,55 +14,67 @@
    "good": false
   },
   {
-   "text": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+   "text": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
+   "text": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Jewellery sold as sterling silver on Amazon and Temu found to contain toxic chemicals",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+   "text": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "What Florida jet audio and flight data tells us about its final moments",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
    "source": "BBC",
    "sev": 5,
    "good": false
   },
   {
-   "text": "Mother told to book appointment to give birth to her baby who had died",
+   "text": "North Korea denies being behind record $6.3bn Binance hack",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "MP Carla Lockhart quits DUP in Drumcree row",
+   "text": "Apple unsure when more foldable iPhones will be available after selling out",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+   "text": "'Mogging' is Collins' word of the year... but do you know what it means?",
    "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Man who drugged and raped wife with strangers 'led double life'",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
-   "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
    "text": "A simple guide to the midterms",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "US midterms campaign 'shattering' spending records to be most expensive ever",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -74,21 +92,21 @@
    "good": false
   },
   {
-   "text": "North Carolina voters weigh up Trump's track record on cost of living",
+   "text": "Indonesia's toxic haze is giving its neighbours a political headache",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+   "text": "The Papers: Mahmood's 'Duty of care' or 'climbdown' and 'The new cold war'",
    "source": "BBC",
-   "sev": 5,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "What Americans are voting for in this election",
+   "text": "'We grew up around this historic Delhi mosque - now we have been forced out'",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -98,39 +116,51 @@
    "good": false
   },
   {
-   "text": "Jamal Edwards' sister on celebrating SBTV's 20-year legacy and hopes of discovering new talent",
+   "text": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
    "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "What are the planned changes to immigration rules?",
-   "source": "BBC",
-   "sev": 1,
+   "sev": 5,
    "good": false
   },
   {
-   "text": "Iran killed her teenage daughter - now she is facing up to the regime",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Drugs, cash and weapons found in raids as e-bikes 'blight' communities",
+   "text": "Labour MPs pull their punches on immigration changes",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "King's role is not policy making, says Palace in slavery apology row",
+   "text": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Prosecutors hint at retrial for Lindsay Clancy on murder charges",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Legal challenge to Australia's social media ban to start in High Court",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Two boys arrested after Halloween party stabbings",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Channel 4 documentary and journalists 'poisoned the well' against Russell Brand, court hears",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat",
+   "text": "MP Carla Lockhart quits DUP in Drumcree row",
    "source": "BBC",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
@@ -140,27 +170,9 @@
    "good": false
   },
   {
-   "text": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Driver who dragged head teacher to his death jailed for life",
+   "text": "Wizz Air flight from Luton makes emergency landing with fighter jet escort after bomb threat",
    "source": "BBC",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "No10 defends flight to Manchester to collect Andy Burnham",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Huntingdon train attacker said 'I am the baddest', trial hears",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -170,19 +182,19 @@
    "good": false
   },
   {
-   "text": "Why Is Andy Burnham Saying He's Open To A Slavery Apology?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The iconic 2005 Oasis concert from the City of Manchester Stadium",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "A global youthquake is happening. Promises we made young people have been broken – and they know it | Gordon Brown",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Gilded Age review – what did we do to deserve such a terrible stinker?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Half-witted at best, a people-pleaser at worst: step forward, Chris Philp | John Crace",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -200,21 +212,9 @@
    "good": false
   },
   {
-   "text": "A decade of magical thinking since Brexit has taught me that it’s always OK to hope for better | Zoe Williams",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
    "text": "Tomb Raider’s creators on how the game changed their lives: ‘Skint staff were suddenly pulling up in sports cars’",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘We both know how we feel about death and dying’: Rhys Ifans and Laura Linney on their brutally honest Parkinson’s drama",
-   "source": "Guardian",
-   "sev": 4,
    "good": false
   },
   {
@@ -224,27 +224,33 @@
    "good": false
   },
   {
-   "text": "Newcastle hospital told woman whose unborn baby had died to go home and ‘book a slot to give birth’",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "EHRC raises concern with Reform about ‘racial and sexual remarks’ in documentary",
+   "text": "PM to ask countries affected by UK’s role in slavery to help shape formal apology",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Abdul El-Sayed’s campaign reports record fundraising day as Haley Stevens faces backlash for endorsing his opponent – live",
+   "text": "AI-powered malware ‘highly likely’ to be used to hack UK infrastructure by 2028",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Trial of nine men accused of abusing woman drugged and raped by husband begins",
+   "text": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request – live",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Russian bombing of Ukrainian aid centre kills at least 26, Kyiv says",
+   "source": "Guardian",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "John Lewis Christmas ad stars Kristin Scott Thomas as glamorous granny on a gift hunt",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -254,16 +260,10 @@
    "good": false
   },
   {
-   "text": "Control of Britain’s 39m smart meters passes to non-profit startup",
+   "text": "EHRC raises concern with Reform about ‘racial and sexual remarks’ in documentary",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
-  },
-  {
-   "text": "‘It’s been a while’: hero’s welcome for UK man after 28-year walk across the world",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "‘It’s really, really unusual’: tender bond between male donkey and bull baffles scientists",
@@ -272,15 +272,21 @@
    "good": false
   },
   {
-   "text": "Why did a Democrat endorse a rival Republican in Michigan? - The Latest",
+   "text": "‘Men know they won’t face consequences’: rise of street sex work in Tokyo is fuelling calls for change",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "Greenpeace activists create ‘boulder barrier’ in North Sea to deter industrial fishing",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trump’s DoJ charges six more people in ‘voter fraud’ crackdown in California",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -294,12 +300,6 @@
    "source": "Guardian",
    "sev": 1,
    "good": true
-  },
-  {
-   "text": "Kamala Harris returns to campaign trail – as focus turns to 2028 presidential race",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
   },
   {
    "text": "‘It’s far too late for me to go to the gym every 10 minutes’: Jo Brand on ageing, raging, fitness and grief",
@@ -320,10 +320,10 @@
    "good": false
   },
   {
-   "text": "The pet I’ll never forget: the tiny horse with a big personality – who helps psychiatric patients",
+   "text": "British Airways lost my father’s vital life-saving machine",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "‘It still preys on my mind’: readers on their scariest non-horror movies",
@@ -338,10 +338,10 @@
    "good": false
   },
   {
-   "text": "Half-witted at best, a people-pleaser at worst: step forward, Chris Philp",
+   "text": "A decade of magical thinking since Brexit has taught me that it’s always OK to hope for better | Zoe Williams",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "Rachel Reeves and the Starmerites are back – and they’re pointing out how little has changed | Gaby Hinsliff",
@@ -362,6 +362,12 @@
    "good": false
   },
   {
+   "text": "Revealed: Driver killed respected headteacher after dodging prison for emergency worker attack",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
    "text": "Doomed Learjet appeared to start breaking up before it crashed, NTSB says, as 20-year-old female co-pilot's final text to boyfriend before fireball that killed her and eight others is revealed",
    "source": "Mail",
    "sev": 4,
@@ -377,12 +383,6 @@
    "text": "Beware of the cyclists: Oxford Street's £150million 'pedestrian-only' zone lauded by Sadiq Khan as a 'greener, safer, world-class destination' is now swamped with reckless riders one week on - as shoppers call for fines",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Revealed, the appalling driving record of callous murderer who dragged respected headteacher to his death as he is jailed for a minimum of 25 years",
-   "source": "Mail",
-   "sev": 4,
    "good": false
   },
   {
