@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-03T23:12:14.932Z",
+ "updated": "2026-11-04T03:09:20.208Z",
  "headlines": [
   {
-   "text": "A simple guide to the midterms",
+   "text": "Anthony Zurcher: Democrats eye sweeping gains and reshaping of political map",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Democratic rising star Ossoff projected to hold Georgia seat",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "US voters name economy and state of democracy as top issues, poll says",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -14,19 +26,13 @@
    "good": false
   },
   {
-   "text": "How the US midterm results could unfold - as millions of Americans head to the polls",
+   "text": "Miliband says slavery apology will not bring cost for UK taxpayers",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The key US Senate races to watch",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The elections that could define Trump's closing chapter",
+   "text": "'Multi-cancer' blood tests coming to some GP surgeries soon",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -38,27 +44,15 @@
    "good": false
   },
   {
-   "text": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Seven flights across Europe targeted by suspected bomb threats",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "Celebrity loses injunction bid but will stay anonymous pending appeal",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+   "text": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -68,39 +62,81 @@
    "good": false
   },
   {
+   "text": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Scammers using AI-generated images of missing pets to demand reward money",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Poundland supplier 'will lose millions' if retailer collapses",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Code cracked for shipwreck padlock solving 400-year-old mystery",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "ANC under pressure to reverse South Africa decline",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "How 'mogging' went from toxic term to mainstream",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'Quiet quitting' could be hitting the economy - here's why",
+   "text": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Chill to grip Bonfire Night as temperatures dip into single digits",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "James Blunt on Traitors: I tried - and failed - to get banished",
+   "text": "Young NYC Marathon runner collapses and dies two miles from finish line",
    "source": "BBC",
-   "sev": 1,
+   "sev": 5,
    "good": false
   },
   {
-   "text": "Scientists detect signals from the zeptoverse - the smallest scale of nature ever explored",
+   "text": "Housing targets threaten ancient woods, campaigners warn",
    "source": "BBC",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "The people saving hundreds of pounds by dumpster diving",
+   "text": "Seven flights across Europe targeted by suspected bomb threats",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How sporting events are being impacted by Middle East conflict",
-   "source": "BBC",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
@@ -110,37 +146,7 @@
    "good": false
   },
   {
-   "text": "Reform UK councillor charged with rape and sexual assault",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Lorry driver electrocuted after vehicle hit overhead power line",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Spanish footballer dies after collision with goalkeeper during match",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Mahmood refuses to put cost on care worker settlement climbdown",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Girl who rescued injured boy from bonfire acted 'on instinct'",
+   "text": "Killer who escaped Tennessee prison captured after week-long manhunt",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -158,28 +164,34 @@
    "good": false
   },
   {
-   "text": "'We don't need to save anyone's job,' says Man Utd captain Fernandes",
+   "text": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "England's Mitchell ruled out of Nations Championship",
+   "text": "Fernandes critical of media 'lies' about Carrick relationship",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Death threats for Briton Burrage on WTA Tour return",
-   "source": "BBC",
-   "sev": 4,
+   "text": "The night-sky image so incredible the NZ man behind it has been accused of using AI",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Tenerife striker De Miguel dies after on-field collision",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
+   "text": "Constantinople to Istanbul review – you won’t want to leave this lavish celebration of double imperial splendour",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "As King Charles visits the Caribbean, is the reparations movement approaching a tipping point?",
@@ -200,28 +212,28 @@
    "good": false
   },
   {
-   "text": "‘His voice was too queer – so they silenced him’: how Spain’s national poet Lorca finally became a gay icon",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "All aboard with Kaptain Kemi, lost at sea on the good ship amnesia",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The candidates who will decide the US midterm elections",
+   "text": "US midterm elections 2026 live updates: Democrats win key Senate and House races in battle for control of Congress",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "US midterm elections 2026 live updates: key House and Senate races to determine control of Congress for remainder of Trump’s term",
+   "text": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
@@ -230,13 +242,7 @@
    "good": false
   },
   {
-   "text": "US voters share why they cast their ballots – from frustration with Trump to affordability concerns",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Midterm elections 2026: how are votes counted and when will we know the results?",
+   "text": "The candidates who will decide the US midterm elections",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -266,9 +272,9 @@
    "good": false
   },
   {
-   "text": "British lawyer Dapo Akande elected to UN top court in big diplomatic win",
+   "text": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -278,27 +284,27 @@
    "good": false
   },
   {
-   "text": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Why are fridges being hacked and what could be next? - The Latest",
+   "text": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
    "text": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Tall Tales and Murder review – this Irish version of The Wire makes for mile-a-minute TV",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -324,12 +330,6 @@
    "source": "Guardian",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "‘A trailblazer in the truest sense’: poet Grace Nichols wins £10,000 Pioneer prize",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "‘The output of a lunatic asylum’: what the Bloomsbury group can tell us about mental health",
@@ -362,6 +362,30 @@
    "good": false
   },
   {
+   "text": "Tory revival gathers pace as poll shows Kemi Badenoch's party closing in on Labour",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Lamborghini driver who killed friend in 143mph fireball crash then skipped sentencing in plan to 'avoid justice' is jailed for 10 years",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "It's the end of Walliams World! Alton Towers axes attraction dedicated to comedian's books just five years after its multimillion-pound launch",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Pilot of doomed Florida private jet is pictured as it's revealed plane was heading to Bahamas for tech tycoon's birthday celebration before horror crash",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Sudanese 'migrant' arrested after allegedly trying to steal Channel trawler to 'go and collect his family from France'",
    "source": "Mail",
    "sev": 3,
@@ -374,21 +398,9 @@
    "good": false
   },
   {
-   "text": "It's the end of Walliams World! Alton Towers axes attraction dedicated to comedian's books just five years after its multimillion-pound launch",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "EDEN CONFIDENTIAL: Harry and Meghan move into new Cotswolds home",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Pilot of doomed Florida private jet is pictured as it's revealed plane was heading to Bahamas for tech tycoon's birthday celebration before horror crash",
-   "source": "Mail",
-   "sev": 3,
    "good": false
   },
   {
@@ -434,12 +446,6 @@
    "good": false
   },
   {
-   "text": "Lamborghini driver who killed friend in 143mph fireball crash then skipped sentencing in plan to 'avoid justice' is jailed for 10 years",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
    "text": "Long-serving inmate Charles Bronson is filmed crooning song for his mother as he makes ninth bid for parole after decades behind bars",
    "source": "Mail",
    "sev": 1,
@@ -449,12 +455,6 @@
    "text": "Is Heinz tomato soup healthy? Dietitians reveal the surprising benefits of canned soups - and the best pick for a filling, fibre-packed dinner",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Tory revival gathers pace as poll shows Kemi Badenoch's party closing in on Labour",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
