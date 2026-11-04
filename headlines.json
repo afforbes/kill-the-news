@@ -1,28 +1,40 @@
 {
- "updated": "2026-11-04T03:09:20.208Z",
+ "updated": "2026-11-04T11:28:48.262Z",
  "headlines": [
   {
-   "text": "Anthony Zurcher: Democrats eye sweeping gains and reshaping of political map",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Democratic rising star Ossoff projected to hold Georgia seat",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US voters name economy and state of democracy as top issues, poll says",
+   "text": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "When will we know the results?",
+   "text": "Trump takes aim at Republicans but says Democrats did a 'good job'",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "How America voted in maps and charts",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Democrat Abdul El-Sayed wins Michigan to become first Muslim senator in US history",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Standout moments from a night of midterm election firsts",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'Multi-cancer' blood tests coming to some GP surgeries in England",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -32,21 +44,9 @@
    "good": false
   },
   {
-   "text": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+   "text": "Celebrity hairstylist John Frieda dies aged 75",
    "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Spanish transport minister resigns days after deadly train crash",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Celebrity loses injunction bid but will stay anonymous pending appeal",
-   "source": "BBC",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -56,13 +56,13 @@
    "good": false
   },
   {
-   "text": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+   "text": "Scottish government needs to act faster on grooming gang inquiry, says survivor",
    "source": "BBC",
-   "sev": 6,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Andrew Mountbatten-Windsor called to give evidence in fraud trial in December",
+   "text": "Poundland supplier 'will lose millions' if retailer collapses",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -80,7 +80,7 @@
    "good": false
   },
   {
-   "text": "Poundland supplier 'will lose millions' if retailer collapses",
+   "text": "Football world mourns Tenerife striker Jesus de Miguel",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -92,21 +92,15 @@
    "good": false
   },
   {
-   "text": "The Papers: King calls slavery 'monstrous' and 'Celeb loses gag bid'",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "ANC under pressure to reverse South Africa decline",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "How 'mogging' went from toxic term to mainstream",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Graduates are managing AI - but are they learning much else?",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -116,37 +110,37 @@
    "good": false
   },
   {
-   "text": "Chill to grip Bonfire Night as temperatures dip into single digits",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Young NYC Marathon runner collapses and dies two miles from finish line",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Housing targets threaten ancient woods, campaigners warn",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Seven flights across Europe targeted by suspected bomb threats",
+   "text": "Iran's chief negotiator says Americans voted 'no to war'",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
+   "text": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "West Ham confirm former midfielder Scott Parker as new head coach",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Killer who escaped Tennessee prison captured after week-long manhunt",
+   "text": "Man fighting for custody of badger he nursed back from starvation",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Runner walks final London Marathon mile six months on after cardiac arrest",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -164,21 +158,39 @@
    "good": false
   },
   {
-   "text": "A half-time speech, a retaken penalty - and a win to save Carrick's job?",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Emery takes positives, but Villa 'have work to do' to reach Barca level",
+   "text": "West Ham confirm Parker as boss",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Fernandes critical of media 'lies' about Carrick relationship",
+   "text": "GB's Stojsavljevic, 17, claims first WTA Tour win despite short notice",
    "source": "BBC",
    "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Real Madrid confident of signing Man Utd's Gabriel",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Why rugby league needs Tonga-Samoa World Cup final",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The death knell of Trumpism has finally sounded | Moira Donegan",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Why tradwives are fleeing the movement: ‘I can’t undo my past – but I can warn other women’",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
@@ -188,61 +200,73 @@
    "good": false
   },
   {
+   "text": "In Kyiv, hackers sent fake alerts about a nuclear apocalypse. We hardly noticed | Diana Berg",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Constantinople to Istanbul review – you won’t want to leave this lavish celebration of double imperial splendour",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "As King Charles visits the Caribbean, is the reparations movement approaching a tipping point?",
+   "text": "Our house purchase is at risk from a frozen Revolut account",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘The nipple touch of doom’: what is sad nipple syndrome and what causes it?",
+   "text": "US midterm elections 2026 live updates: Democrats win control of Congress as voters punish Trump",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Even if US democracy can be salvaged from Trump, Europe is moving on | Rafael Behr",
+   "text": "US voters rebuke Trump as Democrats win control of Congress in ‘blue wave’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Progressive Abdul El-Sayed wins Michigan Senate race to become first Muslim US senator",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Democrats’ blue wave and a bad night for Trump: key US midterms takeaways",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "All aboard with Kaptain Kemi, lost at sea on the good ship amnesia",
+   "text": "Resounding wins for Democrats a wholesale rebuke of Trump’s Maga movement",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "A blue tsunami wipes out Republicans – podcast",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "What can Democrats actually do now they have won Congress?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "‘Democrats need to not blow it’: our panel reacts to the historic midterms | Panel",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "US midterm elections 2026 live updates: Democrats win key Senate and House races in battle for control of Congress",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Jon Ossoff wins Georgia Senate race over Republican Mike Collins",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Democrat Chris Pappas wins New Hampshire Senate race to become first out gay senator",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The candidates who will decide the US midterm elections",
+   "text": "Miliband criticises Blair’s slavery statement and defends Burnham’s plan for proper apology – UK politics live",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -254,7 +278,7 @@
    "good": false
   },
   {
-   "text": "King Charles addresses summit as demands for slavery apology grow",
+   "text": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -266,7 +290,13 @@
    "good": false
   },
   {
-   "text": "Trump claims US will end military aid to Israel by end of this year",
+   "text": "Funding to help poorer countries cope with climate crisis has stalled, says UN",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Britain’s housing market unlikely to recover until 2028, says Savills",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -278,151 +308,85 @@
    "good": false
   },
   {
-   "text": "Manchester United produce comeback for the ages as Cunha double floors Roma",
+   "text": "UK apologises to Ukrainian child refugees who were told to study Russian",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "‘The point was to dehumanise’: London Holocaust archive examines world’s first ‘viral’ antisemitism scandal",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘We are a threat to Putin’: the small Norwegian news outlet with half its staff on Russia’s wanted list",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Why pharma firms are going to Earth’s orbit in search of new cancer drugs",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘Every family has silences’: Kathryn Hunter on despair, desire, dislodgeable limbs – and her acting genius",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+   "text": "‘May every data centre crumble to dust!’ How can we stop the tech bros, tyrants and tycoons? With quilts!",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Canada joins coalition refusing to play ice hockey against Russia over Ukraine war",
+   "text": "‘A true icon of the hair industry’: celebrity hairstylist John Frieda dies aged 75",
    "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "A moment that changed me: I was terrified of my own body – until a surprising 20-mile bike ride",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Greatest review – Amazon’s sturdy Muhammad Ali series is a tale told too many times",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trump 'paralyzed' by fury as he hides in private residence and refuses to see anyone: Explosive fly-on-wall account as 'panicking' aides walk out of White House and brace for 'purge'... with 'delusional' Susie Wiles and Rubio at top of list",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "My neighbour's bonfires set off my asthma, can I force him to stop? DEAN DUNHAM replies",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trump suffers crushing midterms defeat as Democrats seize control of the House and Senate in historic blue tsunami as President's closest allies are warned it's time to 'lawyer up'",
+   "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "China’s first AI-generated film is a flop. Some still see it as the future of cinema",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Tall Tales and Murder review – this Irish version of The Wire makes for mile-a-minute TV",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Faux fur, funnel necks and timeless wool: the 47 best women’s coats for autumn and winter",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "They fell in love on The Simpsons and married in real life. Meet the French Homer and Marge",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Music is the most powerful way of connecting to what’s happening’: can this album change your mind about the climate crisis?",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "The art prescription: how 60 minutes in a gallery each month could transform your life",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘The output of a lunatic asylum’: what the Bloomsbury group can tell us about mental health",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Autumn colours and ghostly mist – readers’ best photographs",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘I perfected deception’: My secret life as a relapsed alcoholic | Meghan O'Gieblyn",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "I’d all but forgotten my ‘altercation’ with Nigel Farage. But since he mentions it, here’s what happened | Caroline Voaden",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "British people don’t need to apologise for slavery – but the government does | Olivette Otele",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Tory revival gathers pace as poll shows Kemi Badenoch's party closing in on Labour",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Lamborghini driver who killed friend in 143mph fireball crash then skipped sentencing in plan to 'avoid justice' is jailed for 10 years",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "It's the end of Walliams World! Alton Towers axes attraction dedicated to comedian's books just five years after its multimillion-pound launch",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Pilot of doomed Florida private jet is pictured as it's revealed plane was heading to Bahamas for tech tycoon's birthday celebration before horror crash",
+   "text": "Russian scientist who invented Novichok nerve agent dies after accusing Moscow of 'state-level' hit in Britain",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Sudanese 'migrant' arrested after allegedly trying to steal Channel trawler to 'go and collect his family from France'",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "King Charles says 'shameful' transatlantic slave trade 'fills my heart with horror' - but insists 'we cannot change the past' in speech to Commonwealth leaders in Antigua",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "EDEN CONFIDENTIAL: Harry and Meghan move into new Cotswolds home",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Husband of Olympian Ciara Mageean who died aged just 34 after bowel cancer battle carries her coffin at funeral weeks after their wedding as hundreds gather to pay respects",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "'Arrogant' developer who blocked homeowner's sea view with illegal brick wall finally tears it down after being ordered to demolish it",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Burnham's 'surrender' deal with EU 'is done': UK to accept Brussels' rules on food, allow youth 'free movement' and slash fees for European students",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Brigitte Bardot letter to her husband saying he 'destroyed' her 'day after day for 30 years' is revealed as he battles her family over her will",
+   "text": "Britain had a leading role in ending the slave trade, says Charles: King hails Royal Navy's heroics after PM opened door to apology for slavery",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -434,111 +398,147 @@
    "good": false
   },
   {
-   "text": "Supply teacher called pupils 'Ching and Chong' and told African student 'back when he was younger he wouldn't be allowed in the classroom'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Russell Brand rape trial: Follow every twist from Southwark Crown Court with the Daily Mail's award-winning Trial podcast",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Long-serving inmate Charles Bronson is filmed crooning song for his mother as he makes ninth bid for parole after decades behind bars",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Is Heinz tomato soup healthy? Dietitians reveal the surprising benefits of canned soups - and the best pick for a filling, fibre-packed dinner",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Husband who drugged and raped wife 'asked co-defendant to send sedatives to his dead mother-in-law's home', court hears",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Homicide police launch investigation into on-pitch collision that killed Spanish footballer - after goalkeeper clashed with fans shouting 'murderer' at him",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Moment police raid SIM farm hiding in terraced house as they make 'largest haul of stolen credit card details ever recovered'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Head of the Army apologises to grieving family of soldier killed by faulty vehicle declaring: 'We failed him and those who loved him'",
+   "text": "British grandmother, 69, who died saving her granddaughter from the sea in Spain is pictured as grieving son says lack of beach safety measures were to blame in heartbreaking letter",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Doomed Learjet appeared to start breaking up before it crashed, NTSB says, as 20-year-old female co-pilot's final text to boyfriend before fireball that killed her and eight others is revealed",
+   "text": "King Charles jokes about 'umbrella-gate' as he hosts final dinner for Commonwealth leaders and brings an end to his Caribbean trip",
    "source": "Mail",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Millionaire Harry Styles slammed as he calls out 'out of control' coffee prices and tipping culture in America",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Third teen arrested after 'uninvited group' stabbed five boys at Halloween party after jumping fence in garden: Boy, 17, fighting for life",
+   "text": "Andrew Mountbatten-Windsor served summons to give evidence in High Court fraud case after gifts up to £750,000 were received from an elderly Turkish woman",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Michael Jackson's daughter Paris demands $600million from his estate and accuses trustee of cutting off kids' inheritance",
+   "text": "Filipino police find child abuse images at flat where Thomas Markle lived 'and formal charges are very close'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Far-left Abdul El-Sayed becomes first Muslim Senator in history after winning vicious Michigan race: Democrat sends message to Trump after defying mutiny to take seat",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Woman who stabbed and killed 'stupid' Macedonian sheepdog she adopted avoids jail by blaming PTSD",
+   "text": "Texas turns blue as James Talarico humiliates scandal-plagued Ken Paxton in historic Senate upset",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Moment M&S worker is mowed down while trying to stop suspected thief on an e-bike",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Councillor uses an AirTag to catch thief stealing 300-year-old stones from an ancient wall",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "I came out of retirement to get paid travelling the world: Our seven-step plan to switch careers in later life",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Family in agony after mom and daughter killed in apparent grizzly bear attack while on 'casual walk'",
    "source": "Mail",
    "sev": 5,
    "good": false
   },
   {
-   "text": "Bungalow where Ann Widdecombe was murdered goes on the market for £900,000",
+   "text": "NS&I is falling short but that's good news for your Premium Bonds, says SYLVIA MORRIS",
    "source": "Mail",
-   "sev": 4,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "Nathalia Gadelha Filgueiras: The doomed Palm Beach co-pilot who got her license at 17 after learning to fly from dad - as crash sparks debate about young pilots",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Jeremy Clarkson's 1996 Ferrari he described as 'the greatest car in the world, ever' set to sell for £250,000",
+   "text": "British Gas owes me £1,264 credit - I've been waiting 18 months for the money: SALLY SORTS IT",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Nine men who abused wife who was drugged and raped were snared after one million images found on her husband's phone, court hears",
+   "text": "What happens if YOUR savings vanish into thin air: After last week's £4.7bn crypto heist, experts warn our money guru that no bank is totally safe from attack. You must protect your money NOW",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Mystery Met royal bodyguard who told Meghan 'not to go public' after handing her letter containing Thomas Markle child sex abuse claims 'may never be identified', insiders say",
+   "text": "Rachel Rickard Straus: Five reasons why our efforts to budget fail and my tips to fix them",
    "source": "Mail",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "House prices will fall next year before climbing £56,500 on average by 2031, Savills predicts",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Debris from doomed Learjet scattered for miles across Palm Beach as plane fell apart in downward spiral before final impact",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "X Factor comeback is cancelled by ITV as show boss Simon Cowell remains 'incredibly keen' to reboot show",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Prince William and Prince George cut frustrated figures in the directors' box as they watch their beloved Aston Villa lose 3-0 to Barcelona on rain-soaked night in Spain",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "When to be alarmed about swollen hands: As the King's puffy digits spark concern in the Caribbean, GP reveals the causes - and signs you should seek help for 'sausage fingers'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Celebrity hair stylist John Frieda, Lulu's ex-husband, who became a millionaire with shampoo range that carried his name, dies aged 75",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "SARAH VINE: Sorry, but the John Lewis festive ad is full of wokery and entitlement - though there is one thing I do like",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Midterm results in full: See all the maps and charts behind the Democrats' demolition of the Republicans",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Jon Ossoff humiliates Trump-backed Mike Collins in Georgia Senate rout as Democrat's crushing victory fuels 2028 speculation",
+   "source": "Mail",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Passenger jet bomb threat chaos spreads across Europe as multiple flights including three from UK forced to make emergency landings",
+   "source": "Mail",
+   "sev": 5,
    "good": false
   }
  ]
