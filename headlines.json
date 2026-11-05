@@ -1,16 +1,40 @@
 {
- "updated": "2026-11-05T15:45:34.912Z",
+ "updated": "2026-11-05T21:54:29.963Z",
  "headlines": [
   {
-   "text": "Russell Brand is being investigated over two new rape complaints, police say",
+   "text": "Russell Brand found guilty of rape and sexual assault",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Watch: How rapist Brand was never far from controversy",
+   "text": "Watch: Met Police release Brand interview footage",
    "source": "BBC",
-   "sev": 3,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Hoax bomb threats target European airlines and airports for second time in a week",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Messages reveal how hoax threat was passed on by air traffic control",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "California governor commutes sentences for state's 548 death row inmates",
+   "source": "BBC",
+   "sev": 4,
    "good": false
   },
   {
@@ -20,57 +44,33 @@
    "good": false
   },
   {
+   "text": "UK doctor infected with Ebola being treated at London hospital",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "More Mandelson papers set to be published before Christmas",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Married at First Sight UK cancelled after BBC revealed rape allegations",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Could this be the last Bonfire Night for noisy fireworks at home?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Football fan tried to stop Huntingdon train attack, jury hears",
+   "text": "Russell Brand is being investigated over two new rape complaints, police say",
    "source": "BBC",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Vance walks Trump tightrope after blaming Iran war for election defeat",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Anthony Zurcher: Trump is weakened but still wields power for now",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -80,7 +80,19 @@
    "good": false
   },
   {
-   "text": "Three ways the interest rate rise could affect you",
+   "text": "Watch: How rapist Brand was never far from controversy",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Who could be behind hoax bomb threats to European air travel?",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Faisal Islam: How high will interest rates go?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -92,67 +104,67 @@
    "good": false
   },
   {
+   "text": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
    "text": "India's costliest film retells a beloved Hindu epic - but divides critics",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'Burning with fever': How strongest El Niño is supercharging typhoons in East Asia",
+   "text": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Why a US-funded vaccine trial on babies was cancelled in Guinea-Bissau",
+   "text": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Pound rises to its highest level since the Brexit referendum",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Altar Stone mystery continues as Stonehenge theory overturned",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Two more arrests after Halloween party stabbings",
+   "text": "'Flawed' training contributed to officer's death",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "'You've had a wonderful life Tommy, but it's over' - Sir Tom feared he was dying",
+   "text": "Could this be the last Bonfire Night for noisy fireworks at home?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "text": "Zimmer frame thrown at train attacker, jury hears",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Team-mates carry coffin at funeral of Tenerife striker Jesus de Miguel",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "New £200m fleet of publicly funded trains in Wales barely used after three years",
+   "text": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -170,15 +182,21 @@
    "good": true
   },
   {
-   "text": "A bitter end for Ronaldo - the icon who transformed Portugal",
-   "source": "BBC",
-   "sev": 1,
+   "text": "Flashbulbs, lies and victim blaming: how Russell Brand’s trial unfolded",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Family thankful for support as De Miguel funeral held",
-   "source": "BBC",
-   "sev": 3,
+   "text": "Why have more than 30 European flights been hit by bomb threats this week?",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -188,112 +206,82 @@
    "good": false
   },
   {
-   "text": "You be the judge: should my wife keep out of our neighbours’ disputes?",
+   "text": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Black Doves review – Ben Whishaw, Keira Knightley and Sarah Lancashire are spine-tinglingly good",
+   "text": "Will the UK finally pay slavery reparations? – The Latest",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "No amount of sliding in the polls can shake Kemi Badenoch’s self-belief – or alter her party’s direction | Andy Beckett",
+   "text": "Russell Brand faces ‘significant’ prison term for rape and sexual assault",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Henry Nowak’s killer has sentence extended by court of appeal",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Was one of the great novels of the Enlightenment written by a man who thought he was a werewolf?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Lab-grown meat was supposed to save the world. What happened?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Russell Brand found guilty of rape and sexual assault",
+   "text": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "US elections 2026 live: Republicans blast their party’s midterms collapse, blaming Iran war and affordability crisis",
-   "source": "Guardian",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends, Bank of England warns – business live",
+   "text": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
    "source": "Guardian",
    "sev": 5,
    "good": false
   },
   {
-   "text": "Henry Nowak’s killer should have had longer sentence, court of appeal hears",
+   "text": "EU presses UK to guarantee discounted university tuition fees for European students",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Russia agreed to supply Iran with 90 helicopter missile launchers",
+   "text": "British Ebola patient evacuated from DR Congo arrives at London hospital",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Police chiefs divided on proposal to axe England’s 39 forces to create ‘super forces’",
+   "text": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "UK and US condemn ‘cruel’ second jail term handed to Hong Kong activist Joshua Wong",
+   "text": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Origin of Stonehenge’s altar remains enigma as north-east Scotland theory ruled out",
+   "text": "‘Revenge of the nerds’: US midterms deliver a win for science – and a rebuke of Maha",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The downfall of Russell Brand: from Big Brother and Hollywood to convicted rapist",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "How Milei is using economic warfare against the Falklands – explainer",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "What can Britain learn from backlash to Dutch slavery apology?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Was Elon Musk the US midterms' biggest loser? – Stateside with Kai and Carter",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "What can Andy Burnham learn from the ‘blue wave’ in the US? – podcast",
@@ -302,27 +290,15 @@
    "good": false
   },
   {
-   "text": "Abdul El-Sayed’s victory has laid bare a truth about America's view on Israel | Peter Beinart",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
    "text": "How did Republicans lose a Senate seat in fireball-red South Carolina?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Europe’s far right has a Trump problem after Republican US midterms wipeout",
+   "text": "Tracking the blue wave: how our visual and data journalists helped you navigate the US midterm elections",
    "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
-   "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -356,8 +332,62 @@
    "good": false
   },
   {
-   "text": "How irrational are Labour’s plans for migrant workers? To find out, read the small print | Frances Ryan",
+   "text": "Was one of the great novels of the Enlightenment written by a man who thought he was a werewolf?",
    "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Lab-grown meat was supposed to save the world. What happened?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Russell Brand verdict is a landmark victory for the understanding of consent | Gaby Hinsliff",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "I know the dangers a wounded Trump presents – this is how the UK should deal with him now | Kim Darroch",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Failing Grayling double reports for duty as Reform’s armed forces spokesperson | John Crace",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Revealed: Sienna Miller's dream new £10million London home",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The wife who stood by Russell Brand's side: How 'mummy blogger' Laura Gallacher - and her golfer father Bernard - supported comedian during rape trial",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "The rise of America's far left: Warnings rage over new wave of radical socialists... now insiders say: Prepare for a Democrat civil war",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Harry and Meghan's £10million Cotswolds move raises questions over whether they'll fit in as sleepy region battles tourist hordes",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Rape cases now take a record 386 days to work through the courts, new figures show, as Labour continues to dither on clearing justice system backlog",
+   "source": "Mail",
    "sev": 3,
    "good": false
   },
@@ -374,9 +404,15 @@
    "good": false
   },
   {
-   "text": "The wife who stood by Russell Brand's side: How 'mummy blogger' Laura Gallacher - and her golfer father Bernard - supported comedian during rape trial",
+   "text": "Russell Brand rape trial: Follow every twist from Southwark Crown Court with the Daily Mail's award-winning Trial podcast",
    "source": "Mail",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Rory Kinnear reflects on the impact of his actor father's death after a film stunt went wrong and says he's still moved to tears 40 years on",
+   "source": "Mail",
+   "sev": 3,
    "good": false
   },
   {
@@ -386,13 +422,37 @@
    "good": false
   },
   {
-   "text": "Wife 'raped in her home by husband and other men was given potentially fatal cocktail of drugs including morphine and ketamine to sedate her'",
+   "text": "Six people dead and seven injured after inferno rips through Brooklyn apartment building in middle of the night",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Manager who was 'distraught' and took two weeks off because her office furniture had been moved wins £5,000 payout",
+   "source": "Mail",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Tragic Spanish footballer Jesus de Miguel's family say they have an 'impossible void to fill' as his dad is comforted with devastated loved ones arriving at his funeral",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Beverly Hills, 90210 actress Kimmarie Johnson dead at 50 after sudden 'heart event'",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Revealed: Sienna Miller's dream new £10million London home",
+   "text": "Man, 65, 'who murdered \"soulmate\" and hid her dismembered body in freezer with her pet guinea pigs for three years' came up with 'fantasies' about her whereabouts, court hears",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Wife smeared her own faeces in husband's mouth at their £1million farmhouse during argument about 'not standing up for her' at the pub",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -404,13 +464,31 @@
    "good": false
   },
   {
-   "text": "Married at First Sight UK won't return to Channel 4 as it axes show and confirms it won't air already-filmed sixth season after sexual assault allegations",
+   "text": "'Drunk' builder, 48, who 'celebrated' bringing busy airport to a standstill at cost of £188,000 after being refused boarding for 'peeing himself' faces up to ten years in jail",
    "source": "Mail",
-   "sev": 3,
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Inside team Trump's 'ill-prepared' midterm strategy and missed red flags before blue tsunami.. as aides scrambled and president focused on ballroom",
+   "source": "Mail",
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Harry and Meghan's £10million Cotswolds move raises questions over whether they'll fit in as sleepy region battles tourist hordes",
+   "text": "Terrifying moment clueless Ford Fiesta driver takes to supersized cycle lane after mistaking it for a ROAD",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "John Frieda's bond with his three children including Lulu's actor-turned-restaurateur son and Fiat heiress stepdaughter who labelled him 'best man to ever exist'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Homeowner could be forced to rip up his driveway after losing legal battle with neighbours over who owns 4.5ft wide strip of land",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -422,33 +500,9 @@
    "good": false
   },
   {
-   "text": "'Woke' Christian who took Texas: Fury of religious Right after state picks ex-teacher who believes in a 'non-binary God'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Karoline Leavitt says Trump was crushed because Americans 'forgot about his good policy and listened to the lying media'",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Love Island VIP star is convicted of raping contestant he was paired with on German TV show",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Manager who was 'distraught' and took two weeks off because her office furniture had been moved wins £5,000 payout",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "FBI 'to search Thomas Markle's newly uncovered LA lock-ups for possible THIRD stash of child abuse images among Meghan mementos' after tip-off from his son",
-   "source": "Mail",
-   "sev": 3,
    "good": false
   },
   {
@@ -464,45 +518,15 @@
    "good": false
   },
   {
-   "text": "She makes AOC look sensible! Hyperwoke NYC Democrat who wants to abolish police, prisons and protect migrant criminals and who called white women 'ugly' is elected to Congress",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Trump's dark night 'paralyzed' by fury as he hid in private residence and refused to see anyone: Explosive fly-on-wall account as aides walk out of White House, bracing for 'purge'... with 'delusional' Susie Wiles and Rubio at top of list",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "JD Vance hits out at Trump's war in Iran in stunning rebuke as he fights for his political future after the midterms",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "ANDREW DOYLE: We should all be alarmed by the Labour Bill that will turn loving parents into criminals",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Trump downplays midterms horror show in first public appearance focused on his White House vanity projects",
+   "text": "Lawyer up! That's the warning to Trump as Democrats prepare to take on what they call 'the most corrupt family ever to occupy the White House'",
    "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Trump's SON Don Jr joins JD Vance in attacking his father's Iran war after midterms disaster",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Mountains of fly-tipped waste dumped at £10million Welsh business park after '50 caravans' set up camp on empty site",
-   "source": "Mail",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -515,30 +539,6 @@
    "text": "The sinister ghostly groan as the power in my house died is a sound that will soon be familiar to us all - thanks to Net Zero: PETER HITCHENS",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "How our marriage has survived the alcohol gap: I can sink a bottle of wine a night but my husband barely drinks and hates how booze changes me: ANNABEL FENWICK ELLIOTT",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Hunt crime syndicate gangster 'The Dread' avoids jail due to prison overcrowding: One of UK's most feared criminals was found with stash of knives in raid on his £1m home",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Albanian illegal migrant who was jailed over £1.5m cannabis plot wins right to fight deportation 'because his crime didn't cause serious harm'",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Mick Jagger, 83, enjoys a rare public outing with fiancée Melanie Hamrick, 39, as they attend Alan Cumming's charity event",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   }
  ]
