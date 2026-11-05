@@ -1,23 +1,17 @@
 {
- "updated": "2026-11-04T18:49:08.061Z",
+ "updated": "2026-11-05T00:17:51.109Z",
  "headlines": [
+  {
+   "text": "Five reasons why Republicans lost so badly",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
   {
    "text": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
    "source": "BBC",
    "sev": 2,
    "good": false
-  },
-  {
-   "text": "Everything you need to know from the US midterm elections",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Democrats won Congress in a blue wave. Now comes the hard part.",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "How America voted in maps and charts",
@@ -26,15 +20,15 @@
    "good": false
   },
   {
-   "text": "The last time a Kansas Democrat was in the Senate, the Wizard of Oz was in cinemas",
+   "text": "What Democrats can and can't do with their new power after taking Congress",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Huntingdon train attack passengers thought stabbing was a 'joke'",
+   "text": "How voter shifts in Texas helped elect a Democratic senator and governor",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -44,13 +38,25 @@
    "good": false
   },
   {
-   "text": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
+   "text": "Chris Mason: The US elections will change Trump – how will Burnham react?",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "World must 'unite' to ease cost of living pressure, PM Burnham says after US midterms",
+   "text": "Pound rises to its highest level since the Brexit referendum",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The NHS is relying more on charities - and that might be creating problems for patients",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -62,19 +68,49 @@
    "good": false
   },
   {
-   "text": "'Most difficult days of my life,' says goalkeeper Owono after Tenerife player's death",
+   "text": "Interest rates expected to rise for first time in over three years",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Brigitte Bardot inheritance row deepens after private letter to partner leaked",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "LIV Golf to wind down after backers withdraw support",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Mother and daughter die after suspected grizzly bear attack in Canada",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
+   "text": "Police in Scotland to escort fire crews in latest crackdown on Bonfire Night disorder",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "World record 51 red cards shown in Brazilian youth game",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "An island in mourning: Tenerife processes death of De Miguel",
    "source": "BBC",
    "sev": 5,
    "good": false
   },
   {
-   "text": "Why Kim Kardashian came back to 'the worst TV drama ever'",
+   "text": "Surreal moment Tarantino and Kylie Minogue came to my hometown to star in my new film",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -86,19 +122,19 @@
    "good": false
   },
   {
-   "text": "Scottish government needs to act faster on grooming gang inquiry, says survivor",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Code cracked for shipwreck padlock solving 400-year-old mystery",
+   "text": "Why Kim Kardashian came back to 'the worst TV drama ever'",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Graduates are managing AI - but are they learning much else?",
+   "text": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "£200m taxpayer-funded trains sit barely used for three years",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -110,39 +146,21 @@
    "good": false
   },
   {
-   "text": "Israel's president begins consultations with parties after election deadlock",
+   "text": "Palestine Action ban undermined confidence in anti-terror laws, Supreme Court told",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "UK government to outlaw new North Sea drilling",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+   "text": "Tributes paid to drummer with dozens of number ones",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "French blood storage impacted by freezer hacks as theories swirl about culprits",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Mugabe's son arrested over 'assault' during luxury car smuggling probe",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Secret police files released in Hungary, 37 years after fall of communism",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -158,27 +176,9 @@
    "good": false
   },
   {
-   "text": "'Most difficult days of my life' for Owono after De Miguel death",
+   "text": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
    "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Why Man Utd's Roma comeback has echoes of Mourinho and Solskjaer",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Real Madrid reach verbal agreement to sign Gabriel",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Zverev annoyed by reaction to becoming world number one",
-   "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -194,16 +194,16 @@
    "good": false
   },
   {
-   "text": "The best Christmas gifts in the UK for mums, grannies, aunties and friends",
+   "text": "Alexander: God, King, Man by Edmund Richardson review – a dazzling, dizzying adventure",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Jimi Horsedrix brought me so much joy’: the comic drawing a horse a day – and day 69’s is unsuitable for children",
+   "text": "The best Christmas gifts in the UK for mums, grannies, aunties and friends",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
    "text": "‘He lent me his RSC Oberon cape for my school play’: Patrick Stewart remembered by readers",
@@ -218,15 +218,9 @@
    "good": false
   },
   {
-   "text": "US midterm elections 2026 live updates: Trump defiant about brutal Republican losses and acknowledges Iran war’s unpopularity",
+   "text": "US midterm elections 2026 live: Democratic lead grows in Mississippi Senate race as Republican blame game begins",
    "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "JD Vance says US war on Iran is ‘real reason’ Republicans lost midterm elections",
-   "source": "Guardian",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
@@ -236,22 +230,28 @@
    "good": false
   },
   {
-   "text": "Midterms: how the blue wave took Congress in three minutes – video",
+   "text": "How Abdul El-Sayed defeated Maga in Michigan – video",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
+   "text": "Get ready habibis, Abdul El-Sayed’s ‘shawarma law’ is coming to the US | Arwa Mahdawi",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "‘Thrilled, scared but hopeful’: readers react to historic Democratic victory in US midterms",
+   "text": "The great sleeping giant of America has awakened | Robert Reich",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
+  },
+  {
+   "text": "What the downfall of near three-decade senator Susan Collins says about Republican unpopularity",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
@@ -260,9 +260,9 @@
    "good": false
   },
   {
-   "text": "‘A historic beatdown’: Americans take back their country in rebuke to Trump",
+   "text": "UK and Caribbean to begin ‘dialogue’ in next year after slavery reparations call",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -284,15 +284,9 @@
    "good": false
   },
   {
-   "text": "French blood banks hacked in latest cyber-attack on Europe",
+   "text": "Swapping from dairy to plant-based milk, cheese and yoghurt ‘could lead to micronutrient deficiencies’",
    "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Cambridge asks Post Office inquiry barrister to lead review into death of Jason Arday",
-   "source": "Guardian",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
@@ -302,22 +296,22 @@
    "good": false
   },
   {
-   "text": "Fenerbahce v Liverpool: Champions League – live",
+   "text": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "Palestine Action activists used similar tactics to the suffragettes, court told",
+   "text": "UK government considers smart glasses ban over secret filming concerns",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Police say explosive devices found in Belfast are linked to ‘rightwing terrorism’",
+   "text": "‘Blockbuster’ history of Alexander the Great wins £50,000 Baillie Gifford prize",
    "source": "Guardian",
-   "sev": 4,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
    "text": "Kemi Badenoch says Africans should apologise for slavery. She should read a history book",
@@ -350,27 +344,39 @@
    "good": false
   },
   {
-   "text": "All’s Fair season two review – am I delirious … or is this getting good?",
+   "text": "A Dog’s Perfect Christmas review: Netflix kicks off holiday movie season with a whimper",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The next global pandemic could be brewing on a mink farm in Utah – and little is being done to stop it | George Monbiot",
+   "text": "Trump’s billionaire-blue collar coalition has been smashed by class politics | Aditya Chakrabortty",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "The REAL winners and losers of the midterms: Bitter humiliation for Trump with Hegseth in danger from bloodthirsty Democrats... who may have found their new leader",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Pro-trans activists descend on Oxford Street for opening of UK's largest Harry Potter flagship store to voice anger at JK Rowling's gender-critical views",
-   "source": "Mail",
+   "text": "Both sides of the Atlantic sense more hope: voters are drawn to the ‘politics of love’ | Alexander Hurst",
+   "source": "Guardian",
    "sev": 1,
+   "good": true
+  },
+  {
+   "text": "The REAL winners and losers of the midterms: Bitter humiliation for Trump with Hegseth in danger from bloodthirsty Democrats... who may have found their new leade",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Far-left Abdul El-Sayed becomes first Muslim Senator in history after winning vicious Michigan race: Democrat sends message to Trump after defying mutiny to take seat",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Sudanese 'migrant' arrested after allegedly trying to steal Channel trawler to 'go and collect his family from France'",
+   "source": "Mail",
+   "sev": 3,
    "good": false
   },
   {
@@ -380,9 +386,9 @@
    "good": false
   },
   {
-   "text": "Sudanese 'migrant' arrested after allegedly trying to steal Channel trawler to 'go and collect his family from France'",
+   "text": "Pro-trans activists descend on Oxford Street for opening of UK's largest Harry Potter flagship store to voice anger at JK Rowling's gender-critical views",
    "source": "Mail",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -533,12 +539,6 @@
    "text": "British Gas owes me £1,264 credit - I've been waiting 18 months for the money: SALLY SORTS IT",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Trump suffers crushing midterms defeat as Democrats seize control of the House and Senate in historic blue tsunami as President's closest allies are warned it's time to 'lawyer up'",
-   "source": "Mail",
-   "sev": 4,
    "good": false
   }
  ]
