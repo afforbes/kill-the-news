@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T21:54:29.963Z",
+ "updated": "2026-11-06T02:13:07.754Z",
  "headlines": [
   {
    "text": "Russell Brand found guilty of rape and sexual assault",
@@ -8,27 +8,21 @@
    "good": false
   },
   {
-   "text": "Watch: Met Police release Brand interview footage",
+   "text": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Henry Nowak’s killer has minimum term increased to 25 years by Court of Appeal",
+   "text": "Met chief warns policing 'heading for failure' without reform",
    "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Hoax bomb threats target European airlines and airports for second time in a week",
+   "text": "Firms told to publish salaries in job adverts ahead of new law",
    "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Messages reveal how hoax threat was passed on by air traffic control",
-   "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -38,7 +32,31 @@
    "good": false
   },
   {
-   "text": "Interest rates hiked to 4% in first increase in over three years",
+   "text": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "King relishes 'politically charged' deployments, Palace aide says",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Messages reveal how hoax threat was passed on by air traffic control",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -50,19 +68,13 @@
    "good": false
   },
   {
-   "text": "Major tech and AI stocks plummet as Nasdaq loses $2.5tn in value",
+   "text": "Trump signs order preventing future presidents from changing Oval Office",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "More Mandelson papers set to be published before Christmas",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+   "text": "Watch: Met Police release Brand interview footage",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -80,9 +92,9 @@
    "good": false
   },
   {
-   "text": "Watch: How rapist Brand was never far from controversy",
+   "text": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -92,39 +104,63 @@
    "good": false
   },
   {
-   "text": "Faisal Islam: How high will interest rates go?",
+   "text": "Tempted by snacks before bed? Here's why - and what you can do about it",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Would you take a test to see if your life will be cut short? I did - and it changed me",
+   "text": "'I was asked if I was a crier': Your worst job interviews revealed",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "A bitter end for Ronaldo - the icon who transformed Portugal announces international retirement",
+   "text": "The Papers: 'Justice' and 'Predatory' Brand faces jail",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "India's costliest film retells a beloved Hindu epic - but divides critics",
+   "text": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Watch: Was an Italian chef really fired over refusal to put pineapple on pizza?",
+   "text": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Could the earliest weakening of the polar vortex on record bring UK snow?",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Police car set alight in Glasgow amid Bonfire Night trouble",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "More Mandelson papers set to be published before Christmas",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -140,46 +176,10 @@
    "good": false
   },
   {
-   "text": "Could this be the last Bonfire Night for noisy fireworks at home?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Zimmer frame thrown at train attacker, jury hears",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Team-mates carry coffin at funeral of Tenerife striker Jesus de Miguel",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Download now",
    "source": "BBC",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "Trump Blamed As Democrats Win Big In The US Midterms",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Flashbulbs, lies and victim blaming: how Russell Brand’s trial unfolded",
@@ -242,7 +242,7 @@
    "good": false
   },
   {
-   "text": "EU presses UK to guarantee discounted university tuition fees for European students",
+   "text": "Slashing number of police forces in England and Wales is only option, says Met chief",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -254,16 +254,10 @@
    "good": false
   },
   {
-   "text": "US elections 2026 live: Democrats hold nearly 100 more House seats than Republicans as blue wave continues to grow",
+   "text": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
    "source": "Guardian",
    "sev": 2,
    "good": false
-  },
-  {
-   "text": "Nasdaq sees worst day in 18 months as investors bet on AI slowdown after Democrats’ election triumph",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
@@ -272,9 +266,15 @@
    "good": false
   },
   {
-   "text": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
+   "text": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Putin envoy thanks Melania Trump for brokering ceasefire – video",
+   "source": "Guardian",
+   "sev": 4,
    "good": false
   },
   {
@@ -299,6 +299,12 @@
    "text": "Tracking the blue wave: how our visual and data journalists helped you navigate the US midterm elections",
    "source": "Guardian",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Rise of the Rockstar Chef review – Gordon Ramsay and Marco Pierre White serve up the most sizzling TV of the year",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -332,12 +338,6 @@
    "good": false
   },
   {
-   "text": "Was one of the great novels of the Enlightenment written by a man who thought he was a werewolf?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Lab-grown meat was supposed to save the world. What happened?",
    "source": "Guardian",
    "sev": 1,
@@ -362,6 +362,18 @@
    "good": false
   },
   {
+   "text": "The Met's night of Halloween horrors: Robbery gangs, machete fights, a rape arrest and drug-drivers... in just one chaotic night in London",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Harry and Meghan's £10million Cotswolds move raises questions over whether they'll fit in as sleepy region battles tourist hordes",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Revealed: Sienna Miller's dream new £10million London home",
    "source": "Mail",
    "sev": 1,
@@ -377,12 +389,6 @@
    "text": "The rise of America's far left: Warnings rage over new wave of radical socialists... now insiders say: Prepare for a Democrat civil war",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Harry and Meghan's £10million Cotswolds move raises questions over whether they'll fit in as sleepy region battles tourist hordes",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
@@ -533,12 +539,6 @@
    "text": "French presidential hopeful says UK's 'shocking' immigration policies are to blame for small boats crisis and says situation is 'absurd'",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "The sinister ghostly groan as the power in my house died is a sound that will soon be familiar to us all - thanks to Net Zero: PETER HITCHENS",
-   "source": "Mail",
-   "sev": 3,
    "good": false
   }
  ]
