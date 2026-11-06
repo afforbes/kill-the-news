@@ -1,16 +1,10 @@
 {
- "updated": "2026-11-06T02:13:07.754Z",
+ "updated": "2026-11-06T09:45:40.658Z",
  "headlines": [
   {
-   "text": "Russell Brand found guilty of rape and sexual assault",
+   "text": "Did a data centre revolt affect the US mid-term election results?",
    "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-   "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -20,115 +14,13 @@
    "good": false
   },
   {
-   "text": "Firms told to publish salaries in job adverts ahead of new law",
+   "text": "'Misleading' student loans information left out examples of higher-salary repayments",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "California governor commutes sentences for state's 548 death row inmates",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Thatcher's Right to Buy split my estate. Now its days could be numbered",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "King relishes 'politically charged' deployments, Palace aide says",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Messages reveal how hoax threat was passed on by air traffic control",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "UK doctor infected with Ebola being treated at London hospital",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Trump signs order preventing future presidents from changing Oval Office",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
    "text": "Watch: Met Police release Brand interview footage",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Russell Brand is being investigated over two new rape complaints, police say",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "The Russell Brand I saw in court was not the flamboyant character most people will know",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Who could be behind hoax bomb threats to European air travel?",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Tempted by snacks before bed? Here's why - and what you can do about it",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'I was asked if I was a crier': Your worst job interviews revealed",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Papers: 'Justice' and 'Predatory' Brand faces jail",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -140,39 +32,123 @@
    "good": false
   },
   {
-   "text": "Police car set alight in Glasgow amid Bonfire Night trouble",
+   "text": "Firms should publish salaries in job adverts ahead of new law, says PM",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "More Mandelson papers set to be published before Christmas",
+   "text": "Thatcher's Right to Buy split my council estate. Now its days could be numbered",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+   "text": "Home Office investigating after BBC catches lawyer offering to make fines go away",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+   "text": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'Flawed' training contributed to officer's death",
+   "text": "Two boys charged over Halloween party stabbings",
    "source": "BBC",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Trump signs order to preserve Oval Office as national monument",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "British families ‘disgusted’ as Spain wildfire inquiry blocked",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Tempted by snacks before bed? Here's why - and what you can do about it",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Major construction ongoing near Iran missile bases, satellite images suggest",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'Justice' and 'Predatory' Brand faces jail",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'I was asked if I was a crier': Your worst job interviews revealed",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Weekly quiz: How did Rice Krispies lose their snap, crackle and pop?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russell Brand being investigated over rape allegations from two more women, police say",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Seven arrested and police van set alight during Bonfire Night violence in Scotland",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'Several victims' after school bus crashes in France, officials say",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Andrew received up to £2,000 per month from sub-letting, watchdog reports",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Police officers reunite with baby they helped deliver in back of car",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'Major milestone' as beavers released into Loch Ness area",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -182,67 +158,85 @@
    "good": false
   },
   {
-   "text": "Flashbulbs, lies and victim blaming: how Russell Brand’s trial unfolded",
+   "text": "Trump Blamed As Democrats Win Big In The US Midterms",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "A bitter end for Ronaldo - the icon who transformed Portugal",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'Putting his doubters in their place' - Rooney lands pundit of year award",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "The Jeremy Bamber files: three crucial questions about the White House Farm massacre",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Why have more than 30 European flights been hit by bomb threats this week?",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "The best Christmas gifts in the UK for dads, grandads, uncles and friends – tested for 2026",
+   "text": "‘It’s a new world. It’s a little fascistic. And it needs a different response’: U2 on 50 years together – and their undimmed faith in humanity",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘George Lucas told me off for wearing lipstick’: Celia Imrie on Traitors, Star Wars and treating the lens like a lover",
+   "text": "This extraordinary new Hamlet turns Shakespeare inside out with infinite jest – and cuddly toys",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Cristiano Ronaldo merely the latest example of a great player who couldn’t let go | Jonathan Wilson",
+   "text": "Experience: I helped jail the teacher who groomed me",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Will the UK finally pay slavery reparations? – The Latest",
+   "text": "Dear Andy Burnham: the full story of enslavement has to move beyond comforting stories",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Russell Brand faces ‘significant’ prison term for rape and sexual assault",
+   "text": "Awkwafina: The Unlikely Cook review – the heir to a legendary eatery … who sets soup on fire",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Henry Nowak’s killer has sentence extended by court of appeal",
+   "text": "Global stocks tumble as AI panic grips markets after Democrats’ midterm success – business live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Met police chief urges potential victims of Russell Brand to come forward",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "UK house prices fall at steepest rate in more than three years",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
-   "source": "Guardian",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Slashing number of police forces in England and Wales is only option, says Met chief",
+   "text": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -254,27 +248,33 @@
    "good": false
   },
   {
-   "text": "US elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+   "text": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Putin envoy thanks Melania Trump for brokering ceasefire – video",
+   "text": "Police turn to charities for help with teenagers caught up in online child abuse",
    "source": "Guardian",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "M&S takes on John Lewis in Christmas ad battle with topless ‘shredded Santa’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Every day, someone loses a hand or a leg’: the brutal reality of India’s textile recycling industry",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -302,43 +302,55 @@
    "good": false
   },
   {
-   "text": "Rise of the Rockstar Chef review – Gordon Ramsay and Marco Pierre White serve up the most sizzling TV of the year",
+   "text": "‘Too many stories exist only to make you think you’re on the right side’: Cristian Mungiu on Fjord, the Cannes winner that divided Europe",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Is that an explosion, an implosion or an orgasm? Pixies bass-player Emma Richardson’s realm-leaping life in painting",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Bassvictim: Peace + War review – like a thrillingly chaotic house party that goes on too long",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘By the time the abuse ended, I was 16, and a husk’: how Johnny Daukes survived his childhood – and fought back",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘It’s kind of a melting pot’: how one US city transformed a highway into a leafy oasis",
+   "text": "La Roux: Old Flames review – a breezy, hook-packed twist on a breakup album",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Children were wearing fake life jackets’: one Syrian family’s terrifying, 10-year journey",
+   "text": "‘Instead of scuba diving on shrinking reefs, we helped regrow them’: readers’ best conservation tourism experiences",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Lab-grown meat was supposed to save the world. What happened?",
+   "text": "The Assassin review – will anybody save Keeley Hawes from this unbearably pathetic boy?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Upside-down homes for sale in England – in pictures",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Week in wildlife: an autumnal deer, golden jackals and an oily-kneed beetle",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "This is an age of anti-vaccine unreason – and even NHS staff are not immune | Polly Toynbee",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Notre-Dame was restored in five years and under budget. But the Palace of Westminster? No chance | Simon Jenkins",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Serbia has banished the monsters from Belgrade – it was, and still is, a truly wonderful revolution | Barbi Marković",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -350,195 +362,183 @@
    "good": true
   },
   {
-   "text": "I know the dangers a wounded Trump presents – this is how the UK should deal with him now | Kim Darroch",
-   "source": "Guardian",
+   "text": "From Burnham to Miliband, how the Left prostrated themselves before Brand the seedy Messiah",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Brand seemed to age 1,000 years in three weeks. At the end he looked hollowed out, his wattage dimmed, his dandy highwayman swagger just a memory: JAN MOIR",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Revealed: The world's 50 best restaurants, from mind-bending foodie theatres to secret cheese caves - with just ONE UK entry",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The six-figure IT expert forced to become an Asda delivery driver - and the other 50-plus men who suddenly went from high-flyers to jobless despair",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Why were women who accused Russell Brand in Channel 4 documentary not involved in his rape trial? Detective Inspector Laura Nelson - who managed police team investigating 'predator' comedian - explains on exclusive Trial podcast",
+   "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Failing Grayling double reports for duty as Reform’s armed forces spokesperson | John Crace",
-   "source": "Guardian",
+   "text": "Why thousands taking the viral 'panic pill' propranolol could face serious complications: It's billed as taking 'the edge off' midlife anxieties. Now, experts lay out every risk YOU need to know",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trump erupts at 'dumocrats' after trillions of dollars incinerated in stock plunge and vows US will come back stronger 'one way or another': 'Do not fear'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The towns where a couple can still buy a home for less than two years' salary",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "T for Tart: What Russell Brand called victim in his phone contacts",
+   "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "The Met's night of Halloween horrors: Robbery gangs, machete fights, a rape arrest and drug-drivers... in just one chaotic night in London",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Harry and Meghan's £10million Cotswolds move raises questions over whether they'll fit in as sleepy region battles tourist hordes",
+   "text": "Defiant Pete Hegseth lashes out in fiery video saying impeachment 'won't work with me' as ouster chatter reaches climax",
    "source": "Mail",
    "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Charles 'is fully open' to being dethroned in the Caribbean: It's all a matter of what countries want, say aides, as Antigua's prime minister insists he is a republican",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Revealed: Sienna Miller's dream new £10million London home",
+   "text": "Downfall of Russell Brand the rapist: The swaggering sex predator fawned over by the Left is facing many years in jail, financial ruin and new charges",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Princess Diana's wedding dress designer sues Las Vegas show that tramples on memories: EDEN CONFIDENTIAL",
    "source": "Mail",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "The wife who stood by Russell Brand's side: How 'mummy blogger' Laura Gallacher - and her golfer father Bernard - supported comedian during rape trial",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "The rise of America's far left: Warnings rage over new wave of radical socialists... now insiders say: Prepare for a Democrat civil war",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Rape cases now take a record 386 days to work through the courts, new figures show, as Labour continues to dither on clearing justice system backlog",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Russell Brand is found guilty of rape and three sexual assaults - and faces further charges after being accused of raping two more women, including schoolgirl, 16",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Russell Brand's strange entourage of God-fearing misfits who attended court with him every day",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Russell Brand rape trial: Follow every twist from Southwark Crown Court with the Daily Mail's award-winning Trial podcast",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Rory Kinnear reflects on the impact of his actor father's death after a film stunt went wrong and says he's still moved to tears 40 years on",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Philippines police extend child abuse investigation to Meghan's brother Thomas Markle Jr as well as her father",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Six people dead and seven injured after inferno rips through Brooklyn apartment building in middle of the night",
+   "text": "Bondi Beach massacre death toll rises to 16: Survivor dies from complications resulting from their injuries almost eleven months later",
    "source": "Mail",
    "sev": 5,
    "good": false
   },
   {
-   "text": "Manager who was 'distraught' and took two weeks off because her office furniture had been moved wins £5,000 payout",
+   "text": "Aussie cricket star Chris Lynn's secret cocaine ban after drug binge following quarter-final victory",
    "source": "Mail",
    "sev": 1,
    "good": true
   },
   {
-   "text": "Tragic Spanish footballer Jesus de Miguel's family say they have an 'impossible void to fill' as his dad is comforted with devastated loved ones arriving at his funeral",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Beverly Hills, 90210 actress Kimmarie Johnson dead at 50 after sudden 'heart event'",
+   "text": "Paedophile teacher, 37, who posed as teenage boy on Snapchat, TikTok and Instagram to groom and rape schoolgirls is jailed for a total of 25 years",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Man, 65, 'who murdered \"soulmate\" and hid her dismembered body in freezer with her pet guinea pigs for three years' came up with 'fantasies' about her whereabouts, court hears",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Wife smeared her own faeces in husband's mouth at their £1million farmhouse during argument about 'not standing up for her' at the pub",
+   "text": "Meet the HeineKing! REBECCA ENGLISH reveals how our endlessly energetic monarch reaches the parts politicians cannot reach...",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Three British women vanish after failing to return from South Africa",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Drunk' builder, 48, who 'celebrated' bringing busy airport to a standstill at cost of £188,000 after being refused boarding for 'peeing himself' faces up to ten years in jail",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Inside team Trump's 'ill-prepared' midterm strategy and missed red flags before blue tsunami.. as aides scrambled and president focused on ballroom",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Terrifying moment clueless Ford Fiesta driver takes to supersized cycle lane after mistaking it for a ROAD",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "John Frieda's bond with his three children including Lulu's actor-turned-restaurateur son and Fiat heiress stepdaughter who labelled him 'best man to ever exist'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Homeowner could be forced to rip up his driveway after losing legal battle with neighbours over who owns 4.5ft wide strip of land",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Minister snaps 'get a life' over fears Brexit deal will spark ban on smoky bacon crisps - as PM faces demands for billions and no criminals returned at big EU summit",
+   "text": "Henry Nowak's family claim police 'hoped murderer would plead guilty so sickening arrest footage could be covered up and never become public'",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Karoline Leavitt says Trump was crushed because Americans 'forgot about his good policy and listened to the lying media'",
+   "text": "Nigel Farage blasts President Donald Trump for 'failing to keep promises'",
    "source": "Mail",
-   "sev": 2,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Andy Burnham backtracks over plans to invite Russia to next year's G20 summit in Manchester as PM says Putin WON'T be attending",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Popular British condiments from '60s, '70s and '80s that have disappeared from supermarkets and pubs - as ketchup and mayonnaise sachets risk becoming banned due to new EU laws",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "ANDREW DOYLE: We should all be alarmed by the Labour Bill that will turn loving parents into criminals",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Lawyer up! That's the warning to Trump as Democrats prepare to take on what they call 'the most corrupt family ever to occupy the White House'",
+   "text": "Katy Perry 'in the room' during one of Russell Brand's attacks",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "French presidential hopeful says UK's 'shocking' immigration policies are to blame for small boats crisis and says situation is 'absurd'",
+   "text": "Gavin Newsom spares every murderer on California's death row in one of his final acts as Governor",
    "source": "Mail",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Ex-wife of jailed paedophile author Craig Silvey breaks her silence on his child exploitation crimes and the devastating toll on her family: 'He was not the man I thought he was'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "The Morning Poll: Should Caribbean countries such as Jamaica and St Lucia keep King Charles as head of state?",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "His MAGA allies backed Trump's crazy policies like eunuchs around a vicious child emperor. They will now pay a ruinous price: DANIEL HANNAN",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Labour MP savages Burnham's 'hypocritical and pointless' ban on North Sea oil drilling",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Labour has a 'culture of capitulation'... and it will cost us amid slavery row, warns former top diplomat",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "FREDDY GRAY: From the trans activist elected in Alabama to the hard-Left New Yorker who wants a world without borders... just wait until the Americans sick of Trump realise who they've sent to Washington!",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Afghan migrant accused of raping autistic 14-year-old on a train thought she was over 16 'because she had a drink in her hand and had make-up on', court hears",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Pictured: Husband whose wife smeared her own faeces in his mouth at their £1million farmhouse after a row 'over him talking s***'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Democrats eye top Trump family members and closest allies in subpoena flurry: Here's their secret list of top targets",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   }
  ]
