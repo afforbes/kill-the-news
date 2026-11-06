@@ -1,44 +1,14 @@
 {
- "updated": "2026-11-06T17:22:36.673Z",
+ "updated": "2026-11-06T22:19:11.835Z",
  "headlines": [
   {
-   "text": "Brand's barrister refers himself to regulator after report he confronted journalist",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "AI stocks climb after trillions wiped from market values",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "New wave of bomb threats hit European airlines",
+   "text": "Meghan's father Thomas Markle appears in court over child sex abuse material",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "How unprecedented changes to the polar vortex may impact the UK's weather",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
+   "text": "Brand's barrister refers himself to regulator after report he confronted journalist",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -50,63 +20,39 @@
    "good": false
   },
   {
-   "text": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Watch: Met Police releases Brand interview footage",
+   "text": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Burnham responds to BBC question over Labour's links to Brand",
+   "text": "New wave of bomb threats hit European airlines",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Harry and five others seek to challenge Mail publisher privacy ruling",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Child, 6, dies weeks after Waterford arson attack",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Could the US midterms burst the AI bubble?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'A beautiful story' as Bellingham brothers called up",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Misleading' student loans information left out examples of higher-salary repayments",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Spate of bomb threats poses serious challenge to airline industry",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Tempted by snacks before bed? Here's why - and what you can do about it",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US midterm results spark fears in Israel over future of two countries' ties",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Major construction ongoing near Iran missile bases, satellite images suggest",
-   "source": "BBC",
-   "sev": 4,
    "good": false
   },
   {
@@ -116,9 +62,63 @@
    "good": false
   },
   {
-   "text": "Childminder who left more than 20 children alone in her home jailed",
+   "text": "AI stocks climb after trillions wiped from market values",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Burnham responds to BBC question over Labour's past links to Brand",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'A beautiful story' as Bellingham brothers called up",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Huntingdon train attack victim thought 'this is what it feels like to die', court told",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "How unprecedented changes to the polar vortex may impact the UK's weather",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Four midterms takeaways for 2028 White House race",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Spate of bomb threats poses serious challenge to airline industry",
+   "source": "BBC",
+   "sev": 4,
    "good": false
   },
   {
@@ -134,19 +134,19 @@
    "good": false
   },
   {
-   "text": "Train worker recalls repelling Huntingdon attacker with frying pan",
+   "text": "Two dead after bus crashes in France, officials say",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Clicky Ponting' cheating scandal cricketer banned from sport for two years",
-   "source": "BBC",
-   "sev": 3,
+   "sev": 6,
    "good": false
   },
   {
    "text": "Tube drivers to stage strikes in Christmas run-up",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Childminder who left more than 20 children alone in her home jailed",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -170,25 +170,31 @@
    "good": false
   },
   {
-   "text": "Is Palmer's England career over under Tuchel?",
+   "text": "Whole Australia team knew of sandpaper use - Khawaja",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Fly-half Smith fit to steer England against Wallabies",
+   "text": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "After the midterms, the global right is reeling. But the danger of Trumpism will never be gone | Jonathan Freedland",
+   "text": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "‘He’s manipulating its power’: why did Russell Brand convert to Christianity?",
+   "text": "‘I’m never going to be bloody Robert De Niro!’: Rob Brydon, the most chipper man on TV",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight | Sarah Solemani",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -200,21 +206,27 @@
    "good": false
   },
   {
+   "text": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "What causes back pain? The surprising triggers, from stress to sitting up straight – and what you can do about it",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Too many stories exist only to make you think you’re on the right side’: Cristian Mungiu on Fjord, the Cannes winner that divided Europe",
+   "text": "Russell Brand suspected to have attacked at least 10 other women",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Is ‘ferritin face’ real? Why your iron levels might be low - video",
+   "text": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
@@ -224,27 +236,21 @@
    "good": false
   },
   {
-   "text": "Russell Brand barrister reports himself to watchdog over confronting Sunday Times journalist",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "US tech stocks recovering on Wall Street after worst day in 19 months – business live",
+   "text": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Profound anger’ among black voters over Kemi Badenoch’s slavery remarks",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
+   "good": true
   },
   {
    "text": "Further bomb threats disrupt at least another 18 flights across Europe",
    "source": "Guardian",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Prince Harry and others seek to challenge ruling in Daily Mail privacy case",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -254,13 +260,7 @@
    "good": false
   },
   {
-   "text": "US midterm elections 2026 live: all eyes on last two razor-thin Senate races as Democrats vie to expand blue wave",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Martine Rose appointed creative director at Balenciaga",
+   "text": "Macklemore says that nine US arenas turned down his Free Palestine tour",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -272,55 +272,19 @@
    "good": true
   },
   {
-   "text": "Fearing AI disruption, white-collar workers are quitting their jobs",
+   "text": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘He’s manipulating its power’: why did Russell Brand convert to Christianity?",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
    "text": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "What happens after the ‘blue wave’? Our team answers your midterm election results question",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘I didn’t expect to be a main character’: Abdul El-Sayed heads to the Senate with a mandate – and a spotlight",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Oxford, Bethnal Green and the Guardian: the British sojourn of a younger Abdul El-Sayed",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Democrats start plotting as civil war breaks out among Republicans | Politics Weekly America",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘I’m never going to be bloody Robert De Niro!’: Rob Brydon, the most chipper man on TV",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "If Dune is this generation’s Star Wars, we are all in big trouble",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘I’m not shaving my legs just to not orgasm’: 14 single women on their relationship to sex",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -332,19 +296,25 @@
    "good": false
   },
   {
-   "text": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
+   "text": "‘Minimal look, maximal politics’: how the black T-shirt became a political weapon",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘I’m not shaving my legs just to not orgasm’: 14 single women on their relationship to sex",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Marilyn Monroe is a magnetic misfit in Speculations, a spicy conspiracy drama full of bombshells",
+   "text": "Fearing AI disruption, white-collar workers are quitting their jobs",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "‘It’s a new world. It’s a little fascistic. And it needs a different response’: U2 on 50 years together – and why Bono can’t work with Trump",
+   "text": "After the midterms, the global right is reeling. But the danger of Trumpism will never be gone | Jonathan Freedland",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -362,19 +332,127 @@
    "good": false
   },
   {
-   "text": "Meghan Markle's estranged dad Thomas is arrested in Florida for possessing child sex abuse material after the Daily Mail reported him to the FBI over his disturbing Mexico storage unit",
+   "text": "In jailing Joshua Wong, China is telling the world they'd crush every hope for democracy on its soil | Nathan Law",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Dear Andy Burnham: the full story of enslavement has to move beyond comforting stories",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "I have flung myself headfirst into Sarah J Maas’s romantasy universe and I find myself a changed woman | Johanna Cosgrove",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "This is an age of anti-vaccine unreason – and even NHS staff are not immune | Polly Toynbee",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The Guardian view on Russell Brand: his conviction sends a powerful message | Editorial",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Meghan Markle's estranged dad Thomas is charged after Daily Mail reported him to the FBI and new storage unit containing 'photos of him abusing girls' is found in LA",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Police will fail to tackle grooming gangs and organised crime unless 'super forces' are created, Met chief warns",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Professional fortune teller sues Vue cinema chain for £12.7million after being left with chronic pain when he was 'catapulted' from 'defective' seat while watching film",
+   "text": "Andy Burnham says Russell Brand committed 'horrifying' crimes against women as Labour faces questions about support for rapist",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Executed junkie 'sputters and twitches' after receiving lethal injection for stabbing woman, 75, to death on day of three executions",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Passengers grapple on plane after row over luggage space - before other travellers step in and body slam one of the men into empty seats",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Police investigate threat to 'murder whoever doesn't support trans rights' sent to nurses at centre of hospital changing room case",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Keir Starmer cashes in on lucrative speaking gigs after quitting No10 as he signs up with US-based agency which boasts Joe Biden, Jacinda Ardern and Kamala Harris among its clients",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'Frankenstein' Royal Navy petty officer who murdered two young sailors is jailed for a further 22 years for sexually assaulting four others in the 1990s",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Unsettling moment Russell Brand jokes with Noel Fielding about being rapists in front of Lily Allen in TV exchange she found 'really horrendous'",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Unsettling moment Russell Brand jokes with Noel Fielding about being rapists in front of Lily Allen in TV exchange she found 'really horrendous'",
+   "text": "How Russell Brand's victims could raid rapist's £20million empire for compensation",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Paedophile teacher, 37, who posed as teenage boy on Snapchat, TikTok and Instagram to groom and rape schoolgirls is jailed for a total of 25 years",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "BBC comes under fire for 'passing the buck' on Russell Brand: Comedian boasted his boss was 'incredibly tolerant' of his sexual behaviour - as he joked about raping and killing woman and having sex with children",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Five schools are locked down as armed police hunt two men after boys 'attacked with sword' near academy - as woman arrested",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Moment Good Samaritan van driver gives police officer a lift to help him catch shoplift suspect escaping on bike",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Prince Harry tells audience off for filming him on their phones as he gives surprise speech in London before heading to Europe with Meghan",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Professional fortune teller sues Vue cinema chain for £12.7million after being left with chronic pain when he was 'catapulted' from 'defective' seat while watching film",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -392,18 +470,6 @@
    "good": false
   },
   {
-   "text": "'Frankenstein' Royal Navy petty officer who murdered two young sailors is jailed for a further 22 years for sexually assaulting four others in the 1990s",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Met boss warns 'bureaucratic, top-heavy spaghetti model' of policing and 'dangerous' levels of underfunding mean forces will 'fail' to deal with organised crime and grooming gangs",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "Florida man accused of murdering British music tutor Sonia Exelby had 'photos of women being impaled on his phone'",
    "source": "Mail",
    "sev": 2,
@@ -416,55 +482,13 @@
    "good": false
   },
   {
-   "text": "Five schools are locked down as armed police hunt knifeman after boy is taken to hospital with injuries",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Husband who turned £1million rural home into a cannabis farm after he started using drug to self-medicate his cancer is jailed",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Prince Harry tells audience off for filming him on their phones as he gives surprise speech in London before heading to Europe with Meghan",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "BBC comes under fire for 'passing the buck' on Russell Brand: Comedian boasted his boss was 'incredibly tolerant' of his sexual behaviour - as he joked about raping and killing woman and having sex with children",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Andy Burnham is urged to sanction UAE figures unless Brit, 72, is freed from Dubai prison where he has been arbitrarily detained for 18 years",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Police investigate threat to 'murder whoever doesn't support trans rights' sent to nurses at centre of hospital changing room case",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Paedophile teacher, 37, who posed as teenage boy on Snapchat, TikTok and Instagram to groom and rape schoolgirls is jailed for a total of 25 years",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Andy Burnham says Russell Brand committed 'horrifying' crimes against women as Labour faces questions about support for rapist",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Keir Starmer cashes in on lucrative speaking gigs after quitting No10 as he signs up with US-based agency which boasts Joe Biden, Jacinda Ardern and Kamala Harris among its clients",
    "source": "Mail",
    "sev": 2,
    "good": false
@@ -488,24 +512,6 @@
    "good": false
   },
   {
-   "text": "How Russell Brand's victims could raid rapist's £20million empire for compensation",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Passengers grapple on plane after row over luggage space - before other travellers step in and body slam one of the men into empty seats",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Moment Good Samaritan van driver gives police officer a lift to help him catch shoplift suspect escaping on bike",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "T for Tart: What Russell Brand called victim in his phone contacts",
    "source": "Mail",
    "sev": 2,
@@ -521,12 +527,6 @@
    "text": "House prices fall at steepest rate in more than three years as buyers struggle with higher mortgage rates",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Executed junkie 'sputters and twitches' after receiving lethal injection for stabbing woman, 75, to death on day of three executions",
-   "source": "Mail",
-   "sev": 6,
    "good": false
   },
   {
