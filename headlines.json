@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-07T15:52:19.351Z",
+ "updated": "2026-11-07T20:08:03.600Z",
  "headlines": [
+  {
+   "text": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
   {
    "text": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
    "source": "BBC",
@@ -8,31 +14,25 @@
    "good": false
   },
   {
-   "text": "Victims in rape cases must not feel like they are on trial, Burnham says",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Two men arrested after boy injured in sword attack",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "No clear winner after tight New Zealand general election",
+   "text": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
+   "text": "Tens of thousands of tents flooded after heavy rains in Gaza",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -50,13 +50,37 @@
    "good": true
   },
   {
-   "text": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "text": "No clear winner after tight New Zealand general election",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+   "text": "Dolly Parton's manager drops lawsuit against her nephew",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Two men arrested after boy injured in sword attack",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Victims in rape cases must not feel like they are on trial, Burnham says",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "US offers $20m reward for information about Iran's nuclear programme",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -65,24 +89,6 @@
    "text": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
    "source": "BBC",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Baxters fish soup cans recalled over fears they could 'swell and potentially rupture'",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Knicks defend Taylor Swift after players name her 'fakest celebrity fan'",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -128,6 +134,18 @@
    "good": false
   },
   {
+   "text": "Wales labour to bonus-point win against Japan",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "In defense of feral children",
    "source": "Guardian",
    "sev": 1,
@@ -140,39 +158,33 @@
    "good": false
   },
   {
+   "text": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
    "text": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The end of Maga as we know it",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Can AI really save you money on your heating bill? I spent two years testing to find out",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Kraków shooting latest updates: five killed and more than a dozen injured, police say",
+   "text": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
    "source": "Guardian",
    "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -182,33 +194,39 @@
    "good": false
   },
   {
+   "text": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Two men arrested after boy injured in Gloucester sword attack",
+   "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Arsenal v Hull City, Fulham v Newcastle United, FA Cup and more: football – live",
+   "text": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Strictly Come Dancing week seven – live",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+   "text": "The end of Maga as we know it",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
@@ -230,19 +248,13 @@
    "good": false
   },
   {
-   "text": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
+   "text": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
    "text": "‘Mind-blowing’: dark-sky fans gather on Exmoor to see what light pollution hides",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘A wonderfully fluffy but crunchy-edged bite’: the best (and worst) supermarket crumpets, tasted and rated",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -272,12 +284,6 @@
    "good": false
   },
   {
-   "text": "Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Five Great Reads: What now for Trump, a cruise from hell, and manhood enhancements",
    "source": "Guardian",
    "sev": 2,
@@ -302,7 +308,13 @@
    "good": false
   },
   {
-   "text": "Scotland v New Zealand: Nations Championship rugby union – live",
+   "text": "São Paulo Formula One Grand Prix qualifying in Brazil – live again after a red flag",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
    "source": "Guardian",
    "sev": 1,
    "good": false
