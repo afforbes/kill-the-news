@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-06T22:19:11.835Z",
+ "updated": "2026-11-07T02:18:03.590Z",
  "headlines": [
   {
    "text": "Meghan's father Thomas Markle appears in court over child sex abuse material",
    "source": "BBC",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "With Stephen Miller pick, Trump readies for a battle",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -17,12 +23,6 @@
    "text": "How 2000s lad culture helped Russell Brand to hide in plain sight",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -44,6 +44,18 @@
    "good": false
   },
   {
+   "text": "Paraguay's president impeached after collapse of bank",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Gladiator II stuntman sues over injuries from on-set explosion",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
    "text": "Child, 6, dies weeks after Waterford arson attack",
    "source": "BBC",
    "sev": 5,
@@ -56,21 +68,9 @@
    "good": false
   },
   {
-   "text": "Judge blocks construction of Trump's massive arch after federal agency approval",
+   "text": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "AI stocks climb after trillions wiped from market values",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Spain's rail authorities face European fraud probe after Urda rail disaster",
-   "source": "BBC",
-   "sev": 3,
    "good": false
   },
   {
@@ -92,45 +92,63 @@
    "good": false
   },
   {
-   "text": "'A beautiful story' as Bellingham brothers called up",
+   "text": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Huntingdon train attack victim thought 'this is what it feels like to die', court told",
+   "text": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'Meghan's father charged' and 'Brand investigation widens'",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "This man refused life-saving treatment because of his religion - days later the rules changed",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Skepta: 'I'm what it looks like if you give an immigrant child a chance'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Man, 35, charged with murder of Carrie Mullane",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "How unprecedented changes to the polar vortex may impact the UK's weather",
+   "text": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Four midterms takeaways for 2028 White House race",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Spate of bomb threats poses serious challenge to airline industry",
-   "source": "BBC",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
    "text": "Man investigated for leaving 17-year-old on Germany's highest mountain",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Firms should publish salaries in job adverts ahead of new law, says PM",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -141,12 +159,6 @@
   },
   {
    "text": "Tube drivers to stage strikes in Christmas run-up",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Childminder who left more than 20 children alone in her home jailed",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -170,25 +182,13 @@
    "good": false
   },
   {
-   "text": "Whole Australia team knew of sandpaper use - Khawaja",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘I’m never going to be bloody Robert De Niro!’: Rob Brydon, the most chipper man on TV",
+   "text": "Eurovision is heading to Asia: here’s what to expect",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -224,13 +224,13 @@
    "good": false
   },
   {
-   "text": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
+   "text": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material",
+   "text": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
    "source": "Guardian",
    "sev": 4,
    "good": false
@@ -242,9 +242,9 @@
    "good": true
   },
   {
-   "text": "Further bomb threats disrupt at least another 18 flights across Europe",
+   "text": "Boy, six, becomes fifth member of family to die after suspected arson in Ireland",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
@@ -254,7 +254,7 @@
    "good": false
   },
   {
-   "text": "Burnham aims for ‘quite radical change’ in support for young people",
+   "text": "Eurovision’s Asia experiment gets under way in flamboyant Bangkok",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -290,6 +290,12 @@
    "good": false
   },
   {
+   "text": "‘I’m never going to be bloody Robert De Niro!’: Rob Brydon, the most chipper man on TV",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "‘He left the world in ruins’: the author who defied the Taliban and burning tyres to tell Alexander the Great’s epic story",
    "source": "Guardian",
    "sev": 1,
@@ -314,49 +320,43 @@
    "good": false
   },
   {
-   "text": "After the midterms, the global right is reeling. But the danger of Trumpism will never be gone | Jonathan Freedland",
+   "text": "Injury crises and Borthwick under scrutiny: it’s that time of year again for England rugby",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Nigel Farage's exit from the Telegraph may be cause for cheer. But there’s a sobering side to this story | Jane Martinson",
+   "text": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "Digested week: The harrowing backstory to the John Lewis Christmas ad | Emma Brockes",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "In jailing Joshua Wong, China is telling the world they'd crush every hope for democracy on its soil | Nathan Law",
+   "text": "Thierno Barry double fires Everton to comeback win against Coventry",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "Dear Andy Burnham: the full story of enslavement has to move beyond comforting stories",
+   "text": "Keenan hat-trick inspires six-try Ireland to emphatic win against Argentina",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "ECB forecasting losses of up to £50m in 2027 despite visit of Australia for the Ashes",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "I have flung myself headfirst into Sarah J Maas’s romantasy universe and I find myself a changed woman | Johanna Cosgrove",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "This is an age of anti-vaccine unreason – and even NHS staff are not immune | Polly Toynbee",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The Guardian view on Russell Brand: his conviction sends a powerful message | Editorial",
+   "text": "Hamilton v Leclerc: how can Ferrari solve problem of two number one drivers?",
    "source": "Guardian",
    "sev": 1,
    "good": false
