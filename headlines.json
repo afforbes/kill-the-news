@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-07T20:08:03.600Z",
+ "updated": "2026-11-07T23:52:03.417Z",
  "headlines": [
   {
-   "text": "What we know so far after Polish gunman in military clothing opens fire in Krakow",
+   "text": "Briton among six killed in 'far-right' shooting in Krakow",
    "source": "BBC",
-   "sev": 3,
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "What we know so far after Krakow gun attack",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Israel's president tasks opposition leader Eisenkot with forming government",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -38,7 +50,31 @@
    "good": false
   },
   {
+   "text": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "No clear winner after tight New Zealand general election",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Thousands watch elaborate carnival cart procession",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -50,25 +86,7 @@
    "good": true
   },
   {
-   "text": "No clear winner after tight New Zealand general election",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Dolly Parton's manager drops lawsuit against her nephew",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Two men arrested after boy injured in sword attack",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Victims in rape cases must not feel like they are on trial, Burnham says",
    "source": "BBC",
    "sev": 4,
    "good": false
@@ -83,12 +101,6 @@
    "text": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "source": "BBC",
-   "sev": 3,
    "good": false
   },
   {
@@ -134,10 +146,40 @@
    "good": false
   },
   {
-   "text": "Wales labour to bonus-point win against Japan",
+   "text": "Maresca's dream start turns into nightmare as title hopes hit",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Norris takes pole in rain-delayed qualifying",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
    "source": "BBC",
    "sev": 1,
    "good": true
+  },
+  {
+   "text": "Wales let themselves down despite win - Lake",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Scotland's familiar frailties brutally exposed in All Blacks schooling",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
@@ -176,7 +218,7 @@
    "good": false
   },
   {
-   "text": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+   "text": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
    "source": "Guardian",
    "sev": 6,
    "good": false
@@ -188,9 +230,9 @@
    "good": false
   },
   {
-   "text": "Russell Brand suspected to have attacked at least 10 other women",
+   "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -206,9 +248,9 @@
    "good": false
   },
   {
-   "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "text": "Russell Brand suspected to have attacked at least 10 other women",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
@@ -218,9 +260,15 @@
    "good": false
   },
   {
-   "text": "Strictly Come Dancing week seven – live",
+   "text": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -308,13 +356,7 @@
    "good": false
   },
   {
-   "text": "São Paulo Formula One Grand Prix qualifying in Brazil – live again after a red flag",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Martin Ødegaard extends Arsenal lead at top with winner to break Hull resistance",
+   "text": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
    "source": "Guardian",
    "sev": 1,
    "good": false
