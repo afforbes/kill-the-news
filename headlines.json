@@ -1,46 +1,16 @@
 {
- "updated": "2026-11-07T02:18:03.590Z",
+ "updated": "2026-11-07T09:09:50.021Z",
  "headlines": [
   {
-   "text": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+   "text": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "With Stephen Miller pick, Trump readies for a battle",
+   "text": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Brand's barrister refers himself to regulator after report he confronted journalist",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "How 2000s lad culture helped Russell Brand to hide in plain sight",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "New wave of bomb threats hit European airlines",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Harry and five others seek to challenge Mail publisher privacy ruling",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Watch: Is it the end of the road for Tesla's Cybertruck?",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -50,61 +20,25 @@
    "good": false
   },
   {
-   "text": "Gladiator II stuntman sues over injuries from on-set explosion",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Child, 6, dies weeks after Waterford arson attack",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Manhunt after boy injured by sword, sparking Gloucester school lockdowns",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Man, 41, and boy, 16, arrested after car damaged by gunshots",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Met Police boss 'wouldn't be surprised' if more allegations made about Brand",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Burnham responds to BBC question over Labour's past links to Brand",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "text": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "The Papers: 'Meghan's father charged' and 'Brand investigation widens'",
+   "text": "Pope in 'pretty good health' as he starts Latin America tour",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -122,45 +56,93 @@
    "good": false
   },
   {
+   "text": "Brand's barrister refers himself to regulator after report he confronted journalist",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Katherine Ryan says she feels 'grief and relief' after Russell Brand conviction",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Burnham responds to BBC question over Labour's past links to Brand",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "One of the year's most prolific meteor showers to light up the night sky this weekend",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "From young offender to junior doctor: 'I wrote a plan and stuck to it'",
+   "text": "Texas mayor instructs police to limit co-operation with ICE",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Whole Australia team knew of sandpaper use, Khawaja says",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Man, 35, charged with murder of Carrie Mullane",
+   "text": "Parliament restoration delays 'frustrating', says Commons Speaker",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'Meghan's father charged' and 'Brand investigation widens'",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Gladiator II stuntman sues over injuries from on-set explosion",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+   "text": "Boy, 4, dies after Range Rover crashes on country road",
    "source": "BBC",
-   "sev": 2,
+   "sev": 5,
    "good": false
   },
   {
-   "text": "Man investigated for leaving 17-year-old on Germany's highest mountain",
+   "text": "Secondary school teacher to crofter - life on the UK's most remote island",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Two dead after bus crashes in France, officials say",
+   "text": "Knitalian: Artist uses yarn to create Italian deli",
    "source": "BBC",
-   "sev": 6,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Tube drivers to stage strikes in Christmas run-up",
+   "text": "From scooters to shampoo - the people saving hundreds from dumpster diving",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "New pictures released ahead of The Other Bennet Sister Christmas special",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -182,37 +164,55 @@
    "good": false
   },
   {
+   "text": "Whole Australia team knew of sandpaper use - Khawaja",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Non-league's greatest giant-killers eye another scalp",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Not playing at Man City 'horrendous' - Trafford",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘My thought was always: he will be killed next’: Sonia Gandhi on marrying into an Indian political dynasty and her husband’s assassination",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Rise of the ‘schooligans’: how a wave of antisocial behaviour threatens non-league football",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "‘It’s the final goodbye’: Monty Don bows out with a blissful last Gardeners’ World",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Eurovision is heading to Asia: here’s what to expect",
+   "text": "Pineapple on pizza is an insult to our great Italian cuisine – and here’s why we secretly love it | Luca Cesari",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Russell Brand has finally faced justice. But other abusers in comedy are still hiding in plain sight | Sarah Solemani",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US tech stock rout: is the AI bubble bursting?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "What causes back pain? The surprising triggers, from stress to sitting up straight – and what you can do about it",
+   "text": "Can AI really save you money on your heating bill? I spent two years testing to find out",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -224,31 +224,67 @@
    "good": false
   },
   {
+   "text": "‘Super-force’ plans a real threat to local policing, English mayors say",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "TikTok accused of helping to promote sex industry to girls",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Finally there’s hope’: UK weighs up opportunities and risks after Trump’s midterms disaster",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Early release prisoners facing street homelessness, probation staff warn",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
+   "text": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+   "text": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
    "source": "Guardian",
-   "sev": 1,
-   "good": true
+   "sev": 4,
+   "good": false
   },
   {
-   "text": "Boy, six, becomes fifth member of family to die after suspected arson in Ireland",
+   "text": "The end of Maga as we know it",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Prince Harry and others seek to challenge ruling in Daily Mail privacy case",
+   "text": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -260,105 +296,75 @@
    "good": false
   },
   {
-   "text": "Macklemore says that nine US arenas turned down his Free Palestine tour",
+   "text": "Blind date: ‘I told her I don’t like the theatre. In retrospect, I can see why a playwright would be offended’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Struggling to spell ‘male chauvinist pig’? Apple’s grey list means your iPhone won’t help you",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
+   "text": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘He’s manipulating its power’: why did Russell Brand convert to Christianity?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘I’m never going to be bloody Robert De Niro!’: Rob Brydon, the most chipper man on TV",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘He left the world in ruins’: the author who defied the Taliban and burning tyres to tell Alexander the Great’s epic story",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Minimal look, maximal politics’: how the black T-shirt became a political weapon",
+   "text": "Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘I’m not shaving my legs just to not orgasm’: 14 single women on their relationship to sex",
+   "text": "The Good Daughter: Rose Byrne’s legal thriller is so full of calamity it borders on Mr Bean-like farce",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Fearing AI disruption, white-collar workers are quitting their jobs",
+   "text": "Yes, saunas are great – but have you heard of this amazing thing called a bath?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Five Great Reads: What now for Trump, a cruise from hell, and manhood enhancements",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Injury crises and Borthwick under scrutiny: it’s that time of year again for England rugby",
+   "text": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Nations Championship, Rugby League World Cup and NFL action – follow with us",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From Rise of the Rockstar Chefs to La Bola Negra: the week in rave reviews",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Arsenal and Manchester City in action, FA Cup first round news and more – matchday live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Infantino caught in the web as tide turns against Trump in midterms and leaves Fifa exposed | Barney Ronay",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Bellinghams celebrate ‘beautiful story’ as Jobe joins Jude in Tuchel’s England 2.0",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Thierno Barry double fires Everton to comeback win against Coventry",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Keenan hat-trick inspires six-try Ireland to emphatic win against Argentina",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "ECB forecasting losses of up to £50m in 2027 despite visit of Australia for the Ashes",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Hamilton v Leclerc: how can Ferrari solve problem of two number one drivers?",
-   "source": "Guardian",
-   "sev": 1,
+   "text": "Pictured: Husband whose wife smeared her own faeces in his mouth at their £1million farmhouse after a row 'over him talking s***'",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -533,12 +539,6 @@
    "text": "Russell Brand's ex who was victim of the 'Sachsgate' scandal says comedian 'needs to tell the truth'",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Anger over £100million cost of Labour's gender Bill",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   }
  ]
