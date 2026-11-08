@@ -1,8 +1,26 @@
 {
- "updated": "2026-11-08T18:27:46.072Z",
+ "updated": "2026-11-08T22:23:25.895Z",
  "headlines": [
   {
+   "text": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "King leads solemn Remembrance Sunday service at Cenotaph",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Maya Jama steps down as host of reality TV show Love Island",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -14,21 +32,21 @@
    "good": false
   },
   {
-   "text": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "text": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
    "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
-   "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
    "text": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
    "source": "BBC",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -41,12 +59,6 @@
    "text": "Government looking at banning under-16s from Vinted and eBay",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Homes and temples glow across India to mark Diwali",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -98,15 +110,33 @@
    "good": true
   },
   {
+   "text": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Secondary schools told to stop teaching GCSEs before Year 10",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Dense fog threatens Monday morning rush-hour disruption",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "We face paying £9,000 tax even though our second home is in a war zone",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Microdramas: The 'snackable' shows made for the scrolling age",
+   "text": "White House vows to keep up immigration crackdown after midterms defeat",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -140,10 +170,16 @@
    "good": false
   },
   {
-   "text": "Alcaraz takes revenge on Shelton to win first Paris Masters title",
+   "text": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
+  },
+  {
+   "text": "Feyi-Waboso burns bright as England energy endorses Borthwick",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "‘I just got AI emails rejecting my application – or no reply at all’: this is the soul-crushing reality of being a Neet | John Harris",
@@ -152,9 +188,9 @@
    "good": false
   },
   {
-   "text": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
+   "text": "Stacey Dooley’s Australia: Off the Beaten Track review – presenting this fluffy show is beyond her",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -194,13 +230,31 @@
    "good": false
   },
   {
+   "text": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Teaching GCSEs early risks turning schools into ‘exam factories’, education secretary warns",
+   "text": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -212,28 +266,10 @@
    "good": false
   },
   {
-   "text": "Half of NHS trusts in England lack funds earmarked to cover maternity leave",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
+   "text": "Cruise ship pianist rescued after nine hours treading water miles from shore",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Manchester United v Aston Villa: Premier League – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
@@ -308,201 +344,201 @@
    "good": false
   },
   {
-   "text": "São Paulo Grand Prix: Formula One 2026 – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Henry Pollock powers seven-try England to crushing victory against Australia",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "NFL week nine: Jets v Chiefs, Rams v Commanders, Broncos v Panthers and more – updates",
+   "text": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Prince Harry tells audience off for filming him on their phones as he gives surprise speech in London before heading to Europe with Meghan",
+   "text": "Dominant Lando Norris powers to victory in São Paulo F1 Grand Prix",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Farce as ex-Pentagon worker with same name as UFC boss Dana White declares mix-up amid hunt for new White House press secretary",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Pictured: Husband whose wife smeared her own faeces in his mouth at their £1million farmhouse after a row 'over him talking s***'",
+   "text": "Prince Harry quietly attends memorial service in small town while his father and brother are joined by Kate and Camilla at the Cenotaph as they lead the nation in solemn silence",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Remembrance Sunday: Kate joins Queen Camilla in paying tribute to Britain's fallen heroes as King Charles and Prince William lead the nation in emotional memorial service at the Cenotaph",
+   "source": "Mail",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Furious woke mob turns on SNL after Colin Jost's unorthodox Islamic joke about Abdul El-Sayed and Barack Obama",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Meghan Markle's estranged dad Thomas is charged after Daily Mail reported him to the FBI and new storage unit containing 'photos of him abusing girls' is found in LA",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Police will fail to tackle grooming gangs and organised crime unless 'super forces' are created, Met chief warns",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Andy Burnham says Russell Brand committed 'horrifying' crimes against women as Labour faces questions about support for rapist",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Executed junkie 'sputters and twitches' after receiving lethal injection for stabbing woman, 75, to death on day of three executions",
+   "text": "Two British tourists found dead in hotel in Morocco as probe launched into tragic discovery",
    "source": "Mail",
    "sev": 6,
    "good": false
   },
   {
-   "text": "Passengers grapple on plane after row over luggage space - before other travellers step in and body slam one of the men into empty seats",
+   "text": "Labour in Remembrance Sunday storm as minister links commemorations to Burnham's EU reset - before accusing furious critics of 'politicising' the day",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Police investigate threat to 'murder whoever doesn't support trans rights' sent to nurses at centre of hospital changing room case",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Keir Starmer cashes in on lucrative speaking gigs after quitting No10 as he signs up with US-based agency which boasts Joe Biden, Jacinda Ardern and Kamala Harris among its clients",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'Frankenstein' Royal Navy petty officer who murdered two young sailors is jailed for a further 22 years for sexually assaulting four others in the 1990s",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Unsettling moment Russell Brand jokes with Noel Fielding about being rapists in front of Lily Allen in TV exchange she found 'really horrendous'",
+   "text": "Britain's top planning barrister LOSES bitter battle over rooftop pergola at his £3m London townhouse after accusing multimillionaire financier's daughter of 'lies'",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How Russell Brand's victims could raid rapist's £20million empire for compensation",
+   "text": "Moment Russell Brand asks Vanessa Feltz if he can have sex with her 15-year-old daughter as she blasts 'chilling' rapist",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Paedophile teacher, 37, who posed as teenage boy on Snapchat, TikTok and Instagram to groom and rape schoolgirls is jailed for a total of 25 years",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "BBC comes under fire for 'passing the buck' on Russell Brand: Comedian boasted his boss was 'incredibly tolerant' of his sexual behaviour - as he joked about raping and killing woman and having sex with children",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Five schools are locked down as armed police hunt two men after boys 'attacked with sword' near academy - as woman arrested",
+   "text": "Chessington World of Adventures theme park and hotel resort evacuated after 'threat' issued",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Moment Good Samaritan van driver gives police officer a lift to help him catch shoplift suspect escaping on bike",
+   "text": "Pianist who plunged from Royal Caribbean cruise ship is found on brink of death 20 miles from coast by fishermen",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Professional fortune teller sues Vue cinema chain for £12.7million after being left with chronic pain when he was 'catapulted' from 'defective' seat while watching film",
+   "text": "Hunt launched after runner in her 20s 'hit across the head and throttled by stranger' in Windsor",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Star of cult MTV show Dirty Sanchez Mike Locke dies aged 47",
+   "text": "Is Russell Brand moving his fortune out of his victims' reach? Rapist applied to change ownership of £5million family home just SIX weeks before his conviction",
    "source": "Mail",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Tragic last videos of pregnant British mother, 40, who died in Nigeria with her unborn baby after leaving Britain to start life with her new husband",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Florida man accused of murdering British music tutor Sonia Exelby had 'photos of women being impaled on his phone'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Parliament Square poised to be next London landmark pedestrianised - but politicians voice alarm that cyclists will run riot",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Husband who turned £1million rural home into a cannabis farm after he started using drug to self-medicate his cancer is jailed",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Andy Burnham is urged to sanction UAE figures unless Brit, 72, is freed from Dubai prison where he has been arbitrarily detained for 18 years",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Breaking Bad star RJ Mitte 'hanged himself at his Texas home', report claims following tragic suicide",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "I covered every day of the Russell Brand trial... no amount of prayers were ever going to save him",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Horrific moment hotel window gives way and mom-of-two, 26, plunges to her death from seventh floor",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "T for Tart: What Russell Brand called victim in his phone contacts",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Brand seemed to age 1,000 years in three weeks. At the end he looked hollowed out, his wattage dimmed, his dandy highwayman swagger just a memory: JAN MOIR",
+   "text": "The ultimate guide to caring for a loved one with dementia - without sacrificing your own health and happiness",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "House prices fall at steepest rate in more than three years as buyers struggle with higher mortgage rates",
+   "text": "Stephen Fry was 'not looking where he was going' when he fell off stage at O2 Arena, according to High Court defence papers",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Russell Brand's ex who was victim of the 'Sachsgate' scandal says comedian 'needs to tell the truth'",
+   "text": "Revealed: Give Us A Clue showman Lionel Blair's love of the 'disco dust'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'She was totally brainwashed': Why Laura Gallacher's family are deeply concerned about her... as they reveal how she became 'besotted' with Russell Brand, and her shock at verdict",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Cocaine deaths have spiked among middle-aged men. Here are the signs your husband is hiding a secret habit - and why I fear things are about to get worse: DR MAX PEMBERTON",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Moment Russell Brand flashes card saying 'obey' to Katy Perry on Oscars red carpet after she disagrees with him - as she prepares to 'reveal secrets about her \"dark marriage\" to convicted rapist'",
    "source": "Mail",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "An A-Z of how to survive Britain in a cyber-attack: The maps you would need to get by if the UK ground to a halt - and why Gen Z can't read them",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "They fought for their country. Their reward? Euthanasia. Veterans with serious injuries or PTSD reveal they are being invited to end their lives under Canada's assisted dying system",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Moment Bonfire Night revellers are left unable to see fireworks and drones as thick fog rolls in during display",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Stunning Victorian Lake District mansion that comes with chance to acquire Lordship goes on sale for £1.95million",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Boxing world stunned by 'worst injury ever seen' as British fighter, 29, is left with gruesome swelling after nasty head collision - as fans question why bout wasn't stopped earlier",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "All you need to know about the Mail's Dementia Carers Together appeal",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "British teenager tragically drowns after going into the sea in Bali on dream family holiday with his parents",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Katy Perry will 'reveal secrets about her \"dark marriage\" to convicted rapist Russell Brand in a new book and docuseries'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Middle class couple whose marriage collapsed when the wife smeared faeces into her husband's mouth in a row over 'over him talking so much s***' want to RECONCILE - and are selling their £1.2m home to make a fresh start",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "What happened to the original ASBO kids? As Andy Burnham introduces new form of antisocial behaviour order, a reformed hoodlum who terrorised his estate aged 12 admits: 'It was a badge of honour, I was rewarded for bad behaviour'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "SARAH VINE: The unscripted moment Kemi proved to me that she really IS a woman of substance... and the only politician worthy of No10",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Our son was murdered by another NHS patient while nurses sat in the staff room with the door closed. Now his devastated family say: 'It makes you feel no one is safe'",
+   "source": "Mail",
+   "sev": 6,
    "good": false
   }
  ]
