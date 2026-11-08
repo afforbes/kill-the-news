@@ -1,44 +1,26 @@
 {
- "updated": "2026-11-08T05:48:39.487Z",
+ "updated": "2026-11-08T13:12:16.955Z",
  "headlines": [
   {
-   "text": "Briton among six killed in 'far-right' shooting in Krakow",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+   "text": "Watch: Royals and veterans reflect at Remembrance ceremony",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Veterans shouldn't sleep rough this Christmas, Burnham says",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Royal Family join veterans and families at Festival of Remembrance",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
+   "text": "Abuse in media industry probably still happening, minister warns in wake of Brand case",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+   "text": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+   "text": "Trump asks UFC boss to be White House press secretary: 'Dana, please take the job!'",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -50,19 +32,19 @@
    "good": false
   },
   {
-   "text": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+   "text": "The Trump coalition is shattered - what will Republicans do now?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+   "text": "Labubu hype seemed unstoppable, now the fluffy monster mania is fading",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Ambika Mod wants to change how South Asian women are seen on-screen",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -74,13 +56,19 @@
    "good": false
   },
   {
-   "text": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "text": "'Soap operas on steroids': Microdramas are going mainstream",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Property, football and politics: The links between Manchester and Abu Dhabi explained",
+   "text": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -92,49 +80,49 @@
    "good": false
   },
   {
-   "text": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Gaza wedding festival sees 250 couples married at the same time",
+   "text": "I won't let my daughter's killer live in my head, says Sarah Payne's mother",
    "source": "BBC",
    "sev": 1,
    "good": true
   },
   {
-   "text": "The Trump coalition is shattered - what will Republicans do now?",
+   "text": "Two seriously hurt in 30-vehicle crash on the M20 in Kent",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Thousands watch elaborate carnival cart procession",
+   "text": "I didn't throw anyone under the bus with ball-tampering revelations, says cricketer Khawaja",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Secondary school teacher to crofter - life on the UK's most remote island",
+   "text": "AirTag hidden in historic wall reveals stone thief",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How computer game Worms went from classroom to classic",
+   "text": "'I was asked if I was a crier': Your worst job interviews revealed",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Crochet novices create cascading poppy memorial",
+   "text": "Hampshire woman, 101, gets Ohio birthday card in mayoral mix-up",
    "source": "BBC",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "New pictures released ahead of The Other Bennet Sister Christmas special",
+   "text": "Angler's 52kg carp catch hailed as world record",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -158,87 +146,87 @@
    "good": false
   },
   {
-   "text": "Maresca's dream start turns into nightmare as title hopes hit",
+   "text": "Walsh-inspired Australia crush irate Samoa to reach World Cup final",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Another 1-0 for relentless Arsenal - but did Odegaard spare VAR blushes?",
+   "text": "I haven't thrown anyone under the bus - Khawaja",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
+   "text": "'I can't believe he is one of us' - inside Salah's life in Trabzon",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Hutchinson beats Buatsi to win WBC light-heavyweight title",
+   "text": "The oldest club in London making FA Cup history",
    "source": "BBC",
    "sev": 1,
-   "good": true
-  },
-  {
-   "text": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
-   "text": "In defense of feral children",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+   "text": "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘A footballing alien’: Mamadou Sangaré soars to Premier League heights",
+   "text": "There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself | Rhiannon Lucy Cosslett",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Will Pete Hegseth be the blue tsunami’s next victim? | Arwa Mahdawi",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Narrative threads: How to write a Booker-shortlisted novel, by Marlon James, Douglas Stuart, Elizabeth Strout and more",
+   "text": "The efficiency trap: why optimising everything can backfire, badly",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
+   "text": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
    "source": "Guardian",
-   "sev": 6,
+   "sev": 5,
    "good": false
   },
   {
-   "text": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+   "text": "Willie Nelson: ‘I drank too much, I smoked too much. I took too many pills’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+   "text": "Second world war veterans outnumber former PMs for possible last time on Remembrance Sunday",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Polish prosecutors open terrorism investigation into Kraków shooting",
+   "source": "Guardian",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Mother of Royal Navy sailor missing for 40 years calls for suspected killer to confess",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+   "text": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -248,27 +236,15 @@
    "good": false
   },
   {
-   "text": "Russell Brand suspected to have attacked at least 10 other women",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Delap’s Nottingham Forest stunners hand Manchester City third league defeat in a row",
+   "text": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+   "text": "Revealed: how a UK firm is spearheading growth in trade of US fracked ethane",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
@@ -278,49 +254,49 @@
    "good": false
   },
   {
-   "text": "Who won New Zealand’s photo-finish election and why special votes could change everything",
+   "text": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+   "text": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Great British Railways: new dawn for a new network but with plenty of old problems to fix",
+   "text": "Healthcare, tariffs – but not Trump impeachment: Democrats chart next two years of power",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Election results in Brazil, Serbia, Israel and US renew faith in resilience of democracy",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "How African philosophies inspired a new approach to staging film festivals in Manchester",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
+   "text": "‘No tech, no texts, just childhood’: author Liz Pichon on the secrets behind her multi-million selling Tom Gates series",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Hollywood banks on Ebenezer to bring Johnny Depp in from the cold",
+   "text": "‘What is this emotion telling me?’ How anger, fear and jealousy can point the way to a better life",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Standing in the way of slop bowls: the woman blocking food delivery robots",
+   "text": "This is how we do it: ‘Leaving our cult has made sex more intimate’",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -350,10 +326,22 @@
    "good": false
   },
   {
-   "text": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
+   "text": "Liverpool v Arsenal: Women’s Super League – live",
    "source": "Guardian",
    "sev": 1,
    "good": false
+  },
+  {
+   "text": "Reece Walsh hat-trick drives Australia past Samoa and into Rugby League World Cup final",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Abbi Church powers Australia to win over spirited Fiji as hosts reach Women’s Rugby League World Cup final",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
