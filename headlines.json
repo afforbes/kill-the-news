@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T23:52:03.417Z",
+ "updated": "2026-11-08T05:48:39.487Z",
  "headlines": [
   {
    "text": "Briton among six killed in 'far-right' shooting in Krakow",
@@ -8,31 +8,31 @@
    "good": false
   },
   {
-   "text": "What we know so far after Krakow gun attack",
+   "text": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Royal Family join veterans and families at Festival of Remembrance",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Two seriously injured after M20 crash involving more than 30 vehicles in Kent",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Tens of thousands of tents flooded after heavy rains in Gaza",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -44,7 +44,31 @@
    "good": false
   },
   {
-   "text": "What happens if all the lights go out? This is the plan for a 'Black Sky' event",
+   "text": "My parents chose to die together and I was left to grieve alone",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Ambika Mod says the 'glass ceiling is always getting higher' for South Asian actors",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The rise of microdramas: The 'snackable' shows made for the scrolling age",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Can the Zelda remake capture the magic of the original?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -56,49 +80,37 @@
    "good": false
   },
   {
-   "text": "Relief, tears and sadness: Married at First Sight UK cast react to show being axed",
+   "text": "Property, football and politics: The links between Manchester and Abu Dhabi explained",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "No clear winner after tight New Zealand general election",
+   "text": "Israel's president tasks opposition leader Eisenkot with forming government",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+   "text": "The Papers: 'Briton dies in Krakow shootings' and 'Royals honour the fallen'",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Gaza wedding festival sees 250 couples married at the same time",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "The Trump coalition is shattered - what will Republicans do now?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
    "text": "Thousands watch elaborate carnival cart procession",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "This man refused life-saving treatment because of his religion - days later the rules changed",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Two men arrested after boy injured in sword attack",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "US offers $20m reward for information about Iran's nuclear programme",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Monty Don bids 'final goodbye' to Gardeners' World after two decades",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -158,7 +170,7 @@
    "good": false
   },
   {
-   "text": "Norris takes pole in rain-delayed qualifying",
+   "text": "Qualifying conditions borderline - but Norris and Russell hoping for more rain",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -168,18 +180,6 @@
    "source": "BBC",
    "sev": 1,
    "good": true
-  },
-  {
-   "text": "Wales let themselves down despite win - Lake",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Scotland's familiar frailties brutally exposed in All Blacks schooling",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
   },
   {
    "text": "‘Life is like a heartbeat. It’s up and down, up and down’: Michelle Yeoh on casting cliches, marriage at 60 and playing a robot in Blade Runner 2099",
@@ -242,9 +242,9 @@
    "good": false
   },
   {
-   "text": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+   "text": "Trump says he asked Dana White, UFC boss, to be his new White House press secretary",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -272,13 +272,25 @@
    "good": false
   },
   {
-   "text": "The end of Maga as we know it",
+   "text": "Ukraine’s new frontier: how space has become critical to balance of the war",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Who won New Zealand’s photo-finish election and why special votes could change everything",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Thunderstruck: what does the future hold for lightning?",
+   "text": "Uyghurs facing deportation by Thailand say they will be ‘like slaves’ in China",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -296,18 +308,6 @@
    "good": false
   },
   {
-   "text": "‘People are active, they are fed up’: young voters fueled the Democratic wave",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Mind-blowing’: dark-sky fans gather on Exmoor to see what light pollution hides",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
    "source": "Guardian",
    "sev": 1,
@@ -315,12 +315,6 @@
   },
   {
    "text": "Hollywood banks on Ebenezer to bring Johnny Depp in from the cold",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Blind date: ‘I told her I don’t like the theatre. In retrospect, I can see why a playwright would be offended’",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -358,6 +352,18 @@
   {
    "text": "There are very few reasons for Unai Emery to leave Aston Villa for Manchester United | Jonathan Wilson",
    "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Enzo Maresca rues Manchester City’s lack of desire after defeat at Nottingham Forest",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Prince Harry tells audience off for filming him on their phones as he gives surprise speech in London before heading to Europe with Meghan",
+   "source": "Mail",
    "sev": 1,
    "good": false
   },
@@ -449,12 +455,6 @@
    "text": "Moment Good Samaritan van driver gives police officer a lift to help him catch shoplift suspect escaping on bike",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Prince Harry tells audience off for filming him on their phones as he gives surprise speech in London before heading to Europe with Meghan",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
