@@ -1,44 +1,8 @@
 {
- "updated": "2026-11-08T22:23:25.895Z",
+ "updated": "2026-11-09T01:54:37.275Z",
  "headlines": [
   {
-   "text": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "King leads solemn Remembrance Sunday service at Cenotaph",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Maya Jama steps down as host of reality TV show Love Island",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Seven dead and more than 100 injured after trains collide in Egypt",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+   "text": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
    "source": "BBC",
    "sev": 4,
    "good": false
@@ -50,15 +14,45 @@
    "good": false
   },
   {
-   "text": "Iran executes three men for 'armed unrest' after January protests",
+   "text": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
    "source": "BBC",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Maya Jama steps down as host of reality TV show Love Island",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Dense fog threatens Monday morning rush-hour disruption",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
    "text": "Government looking at banning under-16s from Vinted and eBay",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Society needs to act to help white working-class pupils, inquiry says",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "A glimmer of good news for Britain's sleepy dormouse",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Top House Democrat 'a hard yes' on impeaching Pete Hegseth",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -71,6 +65,12 @@
    "text": "The Trump coalition is shattered - what will Republicans do now?",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'There are more like Brand' and 'Steep cuts to EV targets'",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -98,12 +98,6 @@
    "good": false
   },
   {
-   "text": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "I won't let my daughter's killer live in my head, says Sarah Payne's mother",
    "source": "BBC",
    "sev": 1,
@@ -116,39 +110,39 @@
    "good": false
   },
   {
+   "text": "'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "King leads solemn Remembrance Sunday service at Cenotaph",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
    "text": "Secondary schools told to stop teaching GCSEs before Year 10",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Dense fog threatens Monday morning rush-hour disruption",
+   "text": "Iran executes three men for 'armed unrest' after January protests",
    "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
    "text": "We face paying £9,000 tax even though our second home is in a war zone",
    "source": "BBC",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "White House vows to keep up immigration crackdown after midterms defeat",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "School Street fines at one location exceed £1m",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "There's finally a treatment for my five-year-old's dementia - but it'll cost me £3m",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -170,7 +164,7 @@
    "good": false
   },
   {
-   "text": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+   "text": "Bizarre and thrilling theatre with Carrick's Man Utd future still in limbo",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -179,6 +173,12 @@
    "text": "Feyi-Waboso burns bright as England energy endorses Borthwick",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Norris sparkles in Sao Paulo despite firework mishap",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -224,18 +224,6 @@
    "good": false
   },
   {
-   "text": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
    "source": "Guardian",
    "sev": 2,
@@ -248,7 +236,25 @@
    "good": false
   },
   {
+   "text": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Only 6.4% of stroke survivors receive enough therapy, finds ‘damning’ report",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Gadi Eisenkot reaches out to Netanyahu allies as he strives to form government",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -260,16 +266,10 @@
    "good": false
   },
   {
-   "text": "Cop31 must deliver climate progress that people can see is real, host says",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+   "text": "Maya Jama steps down as Love Island host after nine seasons",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
    "text": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
@@ -302,9 +302,9 @@
    "good": false
   },
   {
-   "text": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+   "text": "Bluey’s Daley Pearson on how losing his brother inspired his new film: ‘He was the best thing ever to me’",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -320,51 +320,57 @@
    "good": false
   },
   {
-   "text": "Five Great Reads: What now for Trump, a cruise from hell, and manhood enhancements",
+   "text": "Donald Trump’s power is on the wane. What next for Russia, Israel – and the rest of us? | Simon Tisdall",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "From Wild Horse Nine to Kings of Leon: your complete entertainment guide for the week ahead",
+   "text": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Nations Championship, Rugby League World Cup and NFL action – follow with us",
+   "text": "Is this the most rubbish Christmas present ever? | Polly Hudson",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "From Rise of the Rockstar Chefs to La Bola Negra: the week in rave reviews",
+   "text": "My ideal man? I’ll take a carer over an adventurer, any day | Emma Beddington",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Henry Pollock powers seven-try England to crushing victory against Australia",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Dorgu rescues point for Manchester United in eight-goal thriller against Aston Villa",
+   "text": "Female sports journalists have always faced sexism. Social media has made it vicious and relentless | Anjali Doshi",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Dominant Lando Norris powers to victory in São Paulo F1 Grand Prix",
+   "text": "Zohran Mamdani has a mustache now. We cannot take this lightly | Dave Schilling",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
+  },
+  {
+   "text": "The Guardian view on a tale of two activists: Joshua Wong and Au Kam San should not be behind bars | Editorial",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Farce as ex-Pentagon worker with same name as UFC boss Dana White declares mix-up amid hunt for new White House press secretary",
    "source": "Mail",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Moment Russell Brand asks Vanessa Feltz if he can have sex with her 15-year-old daughter as she blasts 'chilling' rapist",
+   "source": "Mail",
+   "sev": 4,
    "good": false
   },
   {
@@ -401,12 +407,6 @@
    "text": "Britain's top planning barrister LOSES bitter battle over rooftop pergola at his £3m London townhouse after accusing multimillionaire financier's daughter of 'lies'",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Moment Russell Brand asks Vanessa Feltz if he can have sex with her 15-year-old daughter as she blasts 'chilling' rapist",
-   "source": "Mail",
-   "sev": 4,
    "good": false
   },
   {
