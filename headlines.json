@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:00:15.859Z",
+ "updated": "2026-11-10T02:38:53.065Z",
  "headlines": [
   {
    "text": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
@@ -8,67 +8,49 @@
    "good": false
   },
   {
-   "text": "Watch: Moment judge sentences Brand in court",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "France accuses Iran of supermarket fridge hacking",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Civil servant who secretly held five jobs found guilty of fraud",
+   "text": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Russia's leading independent newspaper closes after eviction",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
+   "text": "What happened inside court as Brand was sentenced",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Poundland unable to buy new stock as fears over collapse grow",
+   "text": "'Baffling but brilliant' post-apocalyptic novel The End of Everything wins Booker Prize",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "The superpower battle over energy – and what it means for your bills",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "text": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Krakow shooting suspect has died in hospital, police say",
+   "text": "Hundreds more offenders to leave jail on Tuesday",
    "source": "BBC",
-   "sev": 6,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Thick fog disrupts travel with further weather warning issued",
+   "text": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -80,19 +62,31 @@
    "good": false
   },
   {
-   "text": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
+   "text": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "I took Vinted to court to get my money back",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "My life as the UK's youngest lighthouse keeper",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Doing these things now will help you save money at Christmas",
+   "text": "Watch: Rare insight into France's drug gangs recruiting children to commit violence",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "What's your love language - and does it actually mean anything?",
+   "text": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -104,55 +98,49 @@
    "good": false
   },
   {
-   "text": "Find out who's in the running for this year's Booker Prize",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'I've got a band now' - Club anthem star Shygirl on why she's switching up her sound",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Drone delivers food to chimpanzee cut off by flooding",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Electrical items caused fatal fire, inquest hears",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Man jailed over racist Badenoch death threats",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Trump questions midterm elections integrity after previously accepting results",
+   "text": "The Papers: 'Brand jailed for 10 years' and 'shamed star caged'",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Woman says Al Fayed's brother drugged and sexually abused her at Highland estate",
+   "text": "Ground Force and Homes Under the Hammer star Tommy Walsh dies aged 69",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "James Bulger's killer to stay in prison after parole hearing",
+   "text": "'Cruise for life' ship seized in Singapore",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Man Utd expected to sack head coach Carrick",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Prince William wants more protection from harassment for service women",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russia's leading independent newspaper closes after eviction",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "France accuses Iran of supermarket fridge hacking",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -176,7 +164,19 @@
    "good": false
   },
   {
-   "text": "Man Utd yet to make decision on Carrick's future",
+   "text": "People don't know full story behind England exile - White",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Incident-by-incident: Was it a bad weekend for VAR?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Brady ends association with Birmingham City",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -224,51 +224,51 @@
    "good": false
   },
   {
-   "text": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Manchester United weighing up Michael Carrick sacking as Wilcox leads review",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+   "text": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Labour’s Brexit red lines ready for ‘dignified retirement’, says their co-author",
+   "text": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Iran was behind cyber-attack on French supermarket freezers, Paris says",
+   "text": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 1,
    "good": false
+  },
+  {
+   "text": "M John Harrison becomes first science fiction author to win the Booker prize",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "Reform UK councillor in Sunderland handed community order after racist ‘joke’ about Nigerians",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Paul McCartney becomes a billionaire and world’s third richest musician",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -278,9 +278,15 @@
    "good": false
   },
   {
-   "text": "Cop31: will Andy Burnham choose climate or cost of living? | Politics Weekly",
+   "text": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "High fossil fuel prices spread inflation ‘like a cancer’, UN climate chief tells Cop31",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -299,12 +305,6 @@
    "text": "Democrats to attend Cop31 climate talks boosted by midterms and eager to make up for Trump-era setbacks",
    "source": "Guardian",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Cop31 must deliver climate progress that people can see is real, host says",
-   "source": "Guardian",
-   "sev": 2,
    "good": false
   },
   {
@@ -362,18 +362,6 @@
    "good": false
   },
   {
-   "text": "'The jury is corrupt': Russell Brand's father Ron insists his son is innocent, says ten-year rape sentence is 'unfair' and claims victims 'chased and harassed' the actor",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Civil servant who duped bosses to hold down five jobs at the same time faces jail after being convicted of £280,000 fraud - with siblings now suing him over their dead mum's will",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "Ground Force star Tommy Walsh dead aged 69: TV personality passes away 'after a long illness' as tributes pour in",
    "source": "Mail",
    "sev": 2,
@@ -386,6 +374,24 @@
    "good": false
   },
   {
+   "text": "Russell Brand is jailed for ten-and-a-half years after he is found guilty of raping one of his fans and sexually assaulting three women",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'The jury is corrupt': Russell Brand's father Ron insists his son is innocent, says ten-year rape sentence is 'unfair' and claims victims 'chased and harassed' the actor",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Civil servant who duped bosses to hold down five jobs at the same time faces jail after being convicted of £280,000 fraud - with siblings now suing him over their dead mum's will",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
    "text": "Millionaire, 88, locked in court fight with mother of his three children over their £6m mansion as she claims he vowed to 'look after her forever'",
    "source": "Mail",
    "sev": 2,
@@ -395,12 +401,6 @@
    "text": "Is Russell Brand moving his fortune out of his victims' reach? Rapist applied to change ownership of £5million family home just SIX weeks before his conviction",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Russell Brand is jailed for ten-and-a-half years after he is found guilty of raping one of his fans and sexually assaulting three women",
-   "source": "Mail",
-   "sev": 3,
    "good": false
   },
   {
