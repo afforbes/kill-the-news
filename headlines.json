@@ -1,10 +1,40 @@
 {
- "updated": "2026-11-10T18:35:11.266Z",
+ "updated": "2026-11-10T23:40:40.272Z",
  "headlines": [
+  {
+   "text": "US Army soldier suspected of spying for Russia arrested in UK",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "David Walliams accused of sexual misconduct after losing injunction bid",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
   {
    "text": "Inside devastated front-line city that Russia wants Ukraine to give up",
    "source": "BBC",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Train attack driver's '10 seconds' to change line",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -14,43 +44,19 @@
    "good": false
   },
   {
-   "text": "Train attack driver had '10 seconds' to change line",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "text": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Watch: Meghan's first public appearance since father arrested",
+   "text": "Census should include black English and Asian English options, says MP",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Met Police investigating more 'potential criminal allegations' about Brand",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "More than 12 US military aircraft leave second UK base",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "First day of Ukraine peace talks constructive, Zelensky says",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "US federal authorities could have prevented Epstein crimes, report finds",
+   "text": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -62,19 +68,25 @@
    "good": false
   },
   {
+   "text": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Analysis: Hegseth fights for his political life with appeal to Trump",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "The Monaco summit that will decide the future of Carrick and Man Utd",
+   "text": "Why does Australia want Brits to swap Sydney for the outback?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "David Walliams' career and controversies including Britain's Got Talent and Little Britain",
+   "text": "The Monaco summit that will decide the future of Carrick and Man Utd",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -86,27 +98,33 @@
    "good": false
   },
   {
-   "text": "Divorced after five days: 'My sham husband made me believe he loved me'",
+   "text": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How did Mildenhall become crucial to the US Air Force?",
+   "text": "Watch: What we know about the allegations against Walliams",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+   "text": "First day of Ukraine peace talks constructive, Zelensky says",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+   "text": "More than 12 US military aircraft leave second UK base",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -116,27 +134,9 @@
    "good": false
   },
   {
-   "text": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
+   "text": "US federal authorities could have prevented Epstein crimes, report finds",
    "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Israel's new parliament sworn in as leaders compete to form government",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Anthropic set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "York man, 19, shot and injured in Krakow attack",
-   "source": "BBC",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
@@ -164,19 +164,25 @@
    "good": false
   },
   {
-   "text": "Australia doomed to live with stench of sandpapergate",
+   "text": "DeChambeau running out of options - McIlroy",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Formula 1 to finish season in Middle East",
+   "text": "Injured Feyi-Waboso is our Robinson - Sinfield",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
    "text": "The allegations against David Walliams | Investigation by the Guardian and ITV News",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Stacey & Joe: In Too Deep review – Solomon deserves better than these dismal old misogynistic tropes",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -206,12 +212,6 @@
    "good": false
   },
   {
-   "text": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
    "source": "Guardian",
    "sev": 2,
@@ -230,9 +230,21 @@
    "good": false
   },
   {
-   "text": "US evacuates aircraft from RAF Mildenhall over reported Iran threat",
+   "text": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "UN chief urges Cop31 hosts Turkey and Australia to turn fossil fuel promises into action",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -242,19 +254,13 @@
    "good": false
   },
   {
-   "text": "Pete Hegseth defiant in wake of Republican’s impeachment effort as House prepares for key vote – US politics live",
+   "text": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "US and rest of world must follow China’s lead on green energy, says John Kerry",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "UK and Argentina clash over Falklands oil project as Hamburg tribunal starts",
+   "text": "Israeli opposition hurries to seize control as new Knesset is sworn in",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -266,21 +272,15 @@
    "good": false
   },
   {
-   "text": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
+   "text": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
    "text": "UK social media ban expansion for under-16s could cover YouTube Kids",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
-   "source": "Guardian",
-   "sev": 2,
    "good": false
   },
   {
@@ -314,6 +314,12 @@
    "good": false
   },
   {
+   "text": "Jarvis Cocker on judging the Booker prize: ‘It’s just like being in a band’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Welcome Break Rotherham: is this really Britain’s best motorway service station?",
    "source": "Guardian",
    "sev": 1,
@@ -323,12 +329,6 @@
    "text": "Shower orgasms, golf carts, spread-eagled on the stairs – it’s the 10 best Rivals sex scenes so far",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why murder mysteries and cryptic crosswords go hand in hand",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
@@ -352,6 +352,18 @@
   {
    "text": "Alien menace or victim of xenophobia? The battle over Britain’s parakeets",
    "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Police officer's wife and two children died in Boxing Day house fire that probably started in living room with electrical devices plugged into power socket, inquest hears",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Election fever mounts as Labour lead grows and oil prices ease after Trump midterms battering - with fears Burnham could exploit split on the Right",
+   "source": "Mail",
    "sev": 2,
    "good": false
   },
@@ -410,12 +422,6 @@
    "good": false
   },
   {
-   "text": "Police officer's wife and two children died in Boxing Day house fire that probably started in living room with electrical devices plugged into power socket, inquest hears",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
    "text": "'It was a long time ago': Squirming Lucy Powell says she 'regrets' helping to set up Russell Brand interview with Ed Miliband in Labour's 2015 election campaign",
    "source": "Mail",
    "sev": 2,
@@ -461,12 +467,6 @@
    "text": "'Staggeringly arrogant' predator Russell Brand is being probed over new abuse claims after 'multiple reports' came in following his rape conviction: Star begins 10½-year term - and further charges could follow 'in weeks'",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Election fever mounts as Labour lead grows and oil prices ease after Trump midterms battering - with fears Burnham could exploit split on the Right",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
