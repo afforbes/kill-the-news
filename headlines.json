@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-11T21:13:56.596Z",
+ "updated": "2026-11-12T02:28:05.007Z",
  "headlines": [
+  {
+   "text": "Some under-25s should get less benefits, Milburn review to say",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
   {
    "text": "Author says there were 'real concerns' about David Walliams within publishing industry",
    "source": "BBC",
@@ -8,57 +14,21 @@
    "good": false
   },
   {
-   "text": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Clashes erupt in Barcelona as thousands join Spain general strike",
+   "text": "Clashes erupt in Barcelona after thousands join Spain general strike",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Trump says 'we won' Iran war during Veterans Day service",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Ex-parliamentary aide acquitted for spying tells BBC he was 'fall guy' but also 'naive'",
+   "text": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+   "text": "Are max strength cold and flu pills worth the money?",
    "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home",
-   "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -68,81 +38,105 @@
    "good": false
   },
   {
-   "text": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+   "text": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Mauricio Pochettino and Manchester United are a decade in the making",
+   "text": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "What is the state of our grooming laws?",
+   "text": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Sunbed firms must not downplay cancer risk, says watchdog",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Cold weather payments - what they are and who can get them",
+   "text": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
    "source": "BBC",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Vinícius Jr's message to Sudan boy who received prosthetic legs after BBC report sparked appeal",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why is Scotland's housing shortage getting worse?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Temperatures to dip to -5C as first cold health alerts of season issued",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Jailed Hull undertaker lodges bid to appeal against sentence",
+   "text": "Burnham's push for closer EU ties causes ripples in his party and others",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Richmond upon Thames is happiest place to live in Britain, survey finds",
+   "text": "'You're triggering me': How to understand your therapy-speak teen",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Police believed Huntingdon train attacker had schizophrenia, jury told",
+   "text": "How much art does your council own and is it locked away or on display?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trying Tourette's device was the best day of my life",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Papers: 'TV industry must tackle abuse' and Cameron tells PM 'Don't rejoin the EU'",
    "source": "BBC",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
    "text": "Famed ship SS United States to be sunk off coast of Florida",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "British soldier charged with rape of woman serving in Cyprus",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Lego marketplace BrickLink offline after 'unusual activity' detected",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Ex-parliamentary aide acquitted for spying tells BBC he was 'fall guy' but also 'naive'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -182,6 +176,12 @@
    "good": false
   },
   {
+   "text": "Andreeva wins 11 games in a row to thrash Sabalenka at WTA Finals",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
    "text": "‘I’d steal 10-15 times a day’: ex-offenders on the addictions driving prolific shoplifting",
    "source": "Guardian",
    "sev": 1,
@@ -218,33 +218,39 @@
    "good": false
   },
   {
-   "text": "Ministers tell showbiz industry to improve protections after Walliams allegations or face regulation",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Hoax bomb threats made to schools in Scotland, Northern Ireland and Italy",
+   "text": "TV industry must tackle abuse or face crackdown, ministers warn",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Senior Reform UK official quits as questions over vetting failures continue",
+   "text": "UK appoints world’s first special representative for climate security",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Burnham raised safety concerns about Manchester ‘monster’ warehouse, inquiry hears",
+   "text": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Senior Reform UK official quits as questions over vetting failures continue",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
@@ -254,15 +260,9 @@
    "good": false
   },
   {
-   "text": "British soldier charged with rape of army servicewoman in Cyprus",
+   "text": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
    "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Trump planning new military assault or tighter sanctions, say Iranian officials",
-   "source": "Guardian",
-   "sev": 4,
+   "sev": 3,
    "good": false
   },
   {
@@ -272,7 +272,19 @@
    "good": false
   },
   {
-   "text": "‘We were quite surprised’: Finland’s embassy in Australia goes viral with staff training day post on Instagram",
+   "text": "Bronze leg found in Scottish bog sheds new light on Roman occupation",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How Scott Colom won deep-red Mississippi with little help from Democrats",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "The bar singer, the K-pop veteran and the ‘railway track diva’: meet three Eurovision Asia 2026 hopefuls",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -284,27 +296,27 @@
    "good": false
   },
   {
+   "text": "‘My classroom was 30C. No one was learning. Then I started to feel dizzy’ – This is climate breakdown",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "SS United States to be sunk to become the world’s largest artificial reef - watch live",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+   "text": "Developing countries in limbo as rich nations delay new climate finance plans",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘I looked at the sky, something didn’t feel right. Then my buddy messaged: “I see open flame”’ – This is climate breakdown",
+   "text": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
    "source": "Guardian",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "UN chief urges Cop31 hosts Turkey and Australia to turn fossil fuel promises into action",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
@@ -314,13 +326,13 @@
    "good": true
   },
   {
-   "text": "Does M John Harrison’s Booker win mean science fiction is finally accepted by a ‘snobby’ literary establishment?",
+   "text": "Pat Cummins can end sandpaper saga with full disclosure of what players knew – not what they didn’t | Geoff Lemon",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds",
+   "text": "Hunting Alice Bell review – this conspiracy theory thriller starring Simon Pegg is a hot mess",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -345,18 +357,6 @@
   },
   {
    "text": "Why are Britain's streets still so polluted? Because the car industry dinosaurs do what they like, and politicians let them | George Monbiot",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why does Pete Hegseth call himself secretary of war? ‘Dopey but dangerous’ wouldn’t fit on a badge | Emma Brockes",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "All Kemi had at PMQs was jokes … and unfunny jokes at that | John Crace",
    "source": "Guardian",
    "sev": 1,
    "good": false
