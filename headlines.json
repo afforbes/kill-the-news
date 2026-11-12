@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-12T02:28:05.007Z",
+ "updated": "2026-11-12T10:10:31.716Z",
  "headlines": [
   {
-   "text": "Some under-25s should get less benefits, Milburn review to say",
+   "text": "Some under-25s should get fewer benefits, Milburn review to say",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Author says there were 'real concerns' about David Walliams within publishing industry",
+   "text": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
    "source": "BBC",
-   "sev": 3,
+   "sev": 6,
    "good": false
   },
   {
@@ -32,45 +32,33 @@
    "good": false
   },
   {
-   "text": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+   "text": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "text": "Media industry could be forced to improve safeguards after Walliams allegations",
    "source": "BBC",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
+   "text": "Watch: 'Life-changing moment' boy turns on Tourette syndrome device to help stop tics",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+   "text": "Cold health alerts begin as surge of Arctic air sees temperatures plummet",
    "source": "BBC",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Sunbed firms must not downplay cancer risk, says watchdog",
+   "text": "Was Delhi pollution data during Diwali misleading?",
    "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Burnham's push for closer EU ties causes ripples in his party and others",
-   "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -80,13 +68,13 @@
    "good": false
   },
   {
-   "text": "How much art does your council own and is it locked away or on display?",
+   "text": "Burnham's push for closer EU ties causes ripples in his party and others",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Trying Tourette's device was the best day of my life",
+   "text": "How much art do councils in England own and are pieces locked away or on display?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -98,21 +86,21 @@
    "good": false
   },
   {
-   "text": "Famed ship SS United States to be sunk off coast of Florida",
+   "text": "Survivor pulled from rubble of deadly building collapse in New York",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Oil spill closes 18 beaches across Kent",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "British soldier charged with rape of woman serving in Cyprus",
+   "text": "Man arrested after sexual assaults at University of Huddersfield",
    "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-   "source": "BBC",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
@@ -122,21 +110,15 @@
    "good": false
   },
   {
-   "text": "Ex-parliamentary aide acquitted for spying tells BBC he was 'fall guy' but also 'naive'",
+   "text": "Threat was to RAF Mildenhall not to the town, says MP",
    "source": "BBC",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Police helped remove Russell Brand after 'violent incident' at Jemima Goldsmith's home",
+   "text": "Australian teen missing in bush for six days rescued alive",
    "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-   "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
@@ -152,25 +134,31 @@
    "good": false
   },
   {
+   "text": "England legend Anderson, 44, joins Surrey",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Pochettino ready to accept Man Utd offer to replace Carrick",
+   "text": "Robertson set to make history but his hero Dalglish will always be King",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Nurmagomedov slaps Dvalishvili to spark hotel brawl",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Assessing the reasons for Man City's decline in form under Maresca",
+   "text": "Marsh dodges Khawaja claims as Cummins vows to 'respond properly'",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -182,93 +170,93 @@
    "good": true
   },
   {
-   "text": "‘I’d steal 10-15 times a day’: ex-offenders on the addictions driving prolific shoplifting",
+   "text": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Why did it take so long to unmask Brand and Walliams? Because noughties culture told girls like me abuse was normal | Rhiannon Lucy Cosslett",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘Young, Black and female in Brixton is hard’: ​from football to Top Boy and wordplay, the inspiring journey of UK rapper Cristale",
+   "text": "‘I trusted a lot of people, and the wrong people, and I shouldn’t have’: Charlotte Kirk on navigating Hollywood",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Asim Chaudhry, actor and writer | Comfort Eating",
+   "text": "‘Christmas is all in the preparation!’ Chefs on eight easy things to do now – so you can relax on the big day",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Hear the goals during the afterlife’: Barça fans get to inter ashes at club’s new memorial",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "What is my cat saying? I asked experts to translate",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "TV industry must tackle abuse or face crackdown, ministers warn",
+   "text": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "UK appoints world’s first special representative for climate security",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+   "text": "Even Erdoğan backs the release of Turkey’s brightest opposition leader. So why is he still in jail? | Kaya Genç",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+   "text": "I wear a feline leotard and ears to see Cats – and meet all the other theatre superfans going crazy for costumes",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+   "text": "Cop31: “No one is coming to rescue us” Greta Thunberg tells climate summit",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Years of onscreen jokes suggest Walliams’ reputation was ‘in plain sight’ within industry, insider says",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "AI helps UK economy grow at fastest pace for more than two years",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "Senior Reform UK official quits as questions over vetting failures continue",
+   "text": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Bridget Phillipson: Kemi Badenoch has ‘no interest in supporting LGBT+ people’",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+   "text": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
+   "text": "‘All-out war’: UK sports fear an uncertain future after new body created",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
@@ -284,27 +272,21 @@
    "good": true
   },
   {
-   "text": "The bar singer, the K-pop veteran and the ‘railway track diva’: meet three Eurovision Asia 2026 hopefuls",
+   "text": "Afghan women told to ‘go home’ after de facto ban on male doctors treating them",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Trump’s $10bn BBC battle goes ahead - The Latest",
+   "text": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 4,
    "good": false
   },
   {
    "text": "‘My classroom was 30C. No one was learning. Then I started to feel dizzy’ – This is climate breakdown",
    "source": "Guardian",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "SS United States to be sunk to become the world’s largest artificial reef - watch live",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
@@ -320,226 +302,238 @@
    "good": false
   },
   {
-   "text": "‘Like having your brain squeezed’: Succession’s Jesse Armstrong and more on the rollercoaster of TV writers’ rooms",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Pat Cummins can end sandpaper saga with full disclosure of what players knew – not what they didn’t | Geoff Lemon",
+   "text": "You be the judge: should my sister stop calling me when she’s on the move?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Hunting Alice Bell review – this conspiracy theory thriller starring Simon Pegg is a hot mess",
+   "text": "‘I railed against the stereotype of the humourless lesbian’: the cheeky, feminist photography of Jill Posener",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Richmond upon Thames: it is Britain’s happiest place to live – but there’s a big catch",
+   "text": "‘He’s the hottest thing right now’: how a $1 scarf seller became Seoul’s biggest attraction",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Richard Lloyd obituary",
+   "text": "Rachel Roddy’s recipe for torta tenerina, or rich chocolate cake | A kitchen in Rome",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "David Walliams: Power and Silence review – some of this footage will make your head spin",
+   "text": "You had me at LOL: some notes for the You’ve Got Mail reboot",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Why are Britain's streets still so polluted? Because the car industry dinosaurs do what they like, and politicians let them | George Monbiot",
+   "text": "Wish you were here? Retro holiday guides – in pictures",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The making of a monster - how Russell Brand's startlingly inappropriate relationship with his own father gave him obsessive need for sex",
+   "text": "The Booker prize winner described a dystopian Britain. But haven’t we been living in that since Brexit? | Zoe Williams",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Why does Pete Hegseth call himself secretary of war? ‘Dopey but dangerous’ wouldn’t fit on a badge | Emma Brockes",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Why did it take so long to unmask Brand and Walliams? Because noughties culture told girls like me abuse was normal | Rhiannon Lucy Cosslett",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Two dead and at least 17 injured, including seven children, in NYC building collapse: Desperate search launched for survivors trapped under rubble as Mamdani rushes to scene",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Victoria Beckham extends olive branch to estranged son Brooklyn as she 'transfers trademark back to his own name' after he accused her of 'attempting to bribe' him into signing away his rights in bombshell statement",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Revealed: Bomb hoax that closed schools in Scotland, Northern Ireland and Italy threatened 'genocide against your people' - after same 'Death is Near' warning was also sent to broadcasters",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Revealed: How white working class pupils have among WORST outcomes of any group in England as data reveals they are failed at every stage",
+   "text": "Labour's blueprint for getting Neets into work 'could cost £6billion a year'",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Andy Burnham hints he will back Bill to add 'black English' and 'Asian English' categories to Census",
+   "text": "Author hints at ANOTHER celebrity sex scandal as she says 'high-profile sexual predator' targeted her and she is now working with the police",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "DAN HODGES: Ten-year plan? The PM barely has a ten-week plan. Everyone in No10 can see that he doesn't know what he's doing",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "David Walliams' most disturbing BGT moments with Simon Cowell where he 'crossed the line' and left him feeling 'VERY uncomfortable' - as axed judge is accused of sexual misconduct",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Ed Miliband FINALLY says he 'deeply regrets' appearing on Russell Brand's web show",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Inside Russell Brand's first 24 HOURS in prison: Disgraced comedian isn't seeing the funny side as he faces full force of abuse from fellow inmates, sources reveal",
+   "text": "House prices will keep falling, estate agents warn as they give bleakest outlook in three years",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Husband who 'let wife be raped by strangers' shared images and messages online with men from as far afield as Texas, court hears",
+   "text": "MARK ALMOND: I fear Trump's summit with Putin and Xi next week will be like Yalta in 1945 when three leaders carved up the world",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "British woman, 72, is missing after 'falling off cruise ship in the middle of the Atlantic'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Nvidia CEO Jensen Huang caught in second affair after Chinese spy scandal as chip giant's stocks plummet",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Iceland food chain backs dementia campaign with a cool £50,000 donation",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'There is no grand plan. It's just spin': Ministers hit out as PM says his blueprint for UK will be out in weeks",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Mother of drugs mule, 20, who died in Dubai hotel room after package of cocaine burst in his stomach goes on trial for his manslaughter",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "A decade of debauchery: The Noughties were the years Russell Brand, David Walliams and their celebrity cronies were at their sleaziest. KATIE HIND witnessed it all - and had her own lucky escapes",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Warning from an unlikely source: As Burnham's sovereignty surrender begins today - Cameron tells the PM not to rejoin the EU",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Moment 'rude' Russell Brand grabs random woman's arm in Parliament and accuses fellow guest speaker of flirting with her",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The Morning Poll: Would you support Britain rejoining the EU?",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Police hit out at Labour's soft touch sentencing reforms as serial Greggs shoplifter is let back on the streets despite admitting 80 offences",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Inside story of the day Russell Brand's then-girlfriend Jemima Goldsmith hired him a £500 'full-figured' masseuse... who was later hit by a draconian gagging order",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Jenson Button's wife demands UK get 'tougher' on illegal migrants as Algerian criminal who swiped her suitcase with £250,000 of jewellery faces deportation",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Europe's most extraordinary roadside services - from a Finnish spot with a sauna to an Italian foodie hub (plus those that drivers can't stand)",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "TV bosses are told to clean up their act as minister threatens legal crackdown over the protection of girls after the Russell Brand and David Walliams scandals",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "My husband Alexander Litvinenko was murdered by Putin... then my new partner fell ill after travelling to Russia",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "The man who called out David Walliams AND Russell Brand: Sean Lock openly clashed with his fellow comedians - and said he 'feared his daughter bringing home a man like Brand'",
+   "text": "Chris Watts' gay prison sex revealed: Guards catch killer dad and fellow inmate... sordid scene is discovered in cell... and insiders leak his letters to harem of young men who 'will do anything'",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "The islands humans are yet to leave their mark on: Scientists discover two 'wild and untouched' worlds hidden in the Pacific",
+   "text": "QUENTIN LETTS: Burnham's so passive, indecisive, bland. No wonder he's got Boston Consulting to write his Ten-Year Plan",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "First Budget under Burnham 'failed credibility test' and threatens £30billion black hole",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Burnham says his 'ten-year plan' WILL come before Christmas as Labour unrest mounts over reliance on 'political slogans'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Jonathan Ross is seen for the first time since saying he was 'genuinely unaware of the conduct' of his friends David Walliams and Russell Brand",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Laughing migrant rapists who barricaded 17-year-old girl in room at Airbnb party and filmed themselves attacking and slapping her are jailed for 15 years each",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Sue Perkins hits out at 'disgusting' BBC bosses over treatment of Bake Off contestants and reveals she and co-host Mel Giedroyc threatened to quit unless format was changed",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Zelensky taunts Putin, saying the Russian leader 'is still alive... maybe we'll do something, it's really a huge problem'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Richard Osman hits out at 'talentless' 'sleaze' Russell Brand as he reflects on their time working at Endemol at the start of the disgraced comic's career",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why Nvidia's stock market pain is hurting your pension but you don't have to worry if you follow this plan: RACHEL RICKARD STRAUS",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Thomas Markle is taken into federal custody after allegedly cutting off his ankle monitor in wake of child pornography arrest",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'Russell Brand you naughty boy, we'll be seeing you, son': Murderer welcomes rapist comic to prison life",
+   "text": "Katy Perry looks jubilant at Lauren Sanchez's book launch just hours before ex-husband Russell Brand is jailed for rape and sexual assault",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Missing 11-month-old is found by his faint crying after being buried ALIVE in a dog crate",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Travellers put a stop to AI data centre: Plans for 130ft-high warehouse on hold over claims it would 'indirectly discriminate' against group living in 27 caravans next door",
+   "text": "AMANDA PLATELL: After the appalling thing Jonathan Ross said to ME, why I refuse to believe that he was 'genuinely unaware' of what Russell Brand and David Walliams were up to in the sordid Noughties",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Moment Katy Perry cracks as Russell Brand refuses to visit her on her world tour - with concerned friends noting her 'stress, frustration and doubt' as he 'controlled' her during marriage",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "David Walliams 'had inappropriate sexual relationship with intern at publisher HarperCollins and pursued another employee before he was dropped for harassing women'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "RICHARD EDEN: Gordon Ramsay leaves guests at Mayfair reception aghast after stuffing food into waiter's mouth",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Nvidia down 30% from peak in $1.7 trillion rout as Trump reveals FBI probe into boss's affair with suspected Chinese spy",
+   "text": "JOE ROBERTSON: As a Tory MP, I was told I had ADHD at 42, but I don't need benefits… and nor do most like me",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Party leaders back Mail's dementia campaign with Kemi Badenoch praising 'important lifeline to families caring for loved ones'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "ALEX BRUMMER: Why I fear the Nvidia boss's affair is a 'black swan' event that could bring down the global financial system",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The teenage girls David Walliams preyed on in public: As police urge women to come forward, how grooming comic's behaviour was so well known Jonathan Ross joked about it in a room full of stars",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Comedian Lucy Beaumont reveals she was a whistleblower on David Walliams investigation as she says she was 'really worried' one of his alleged victims would 'take her own life'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Revealed: How BGT probed claims David Walliams was taking teenagers into his dressing room six YEARS ago - and Simon Cowell's withering reaction to his old friend's downfall",
+   "text": "Lucy Powell coaxes Neets back to college by dumbing down maths and English requirements",
    "source": "Mail",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "Who should win the battle of the supermarket Christmas ads? Vote for YOUR favourite now - from Waitrose's love story with Keira Knightley to John Lewis' glamorous grandma",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
   }
  ]
 }
