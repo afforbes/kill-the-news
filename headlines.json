@@ -1,8 +1,68 @@
 {
- "updated": "2026-11-12T18:32:51.745Z",
+ "updated": "2026-11-12T23:49:59.953Z",
  "headlines": [
   {
-   "text": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+   "text": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "How AI visionary Jensen Huang was undone by his own bad decisions",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Microsoft users report outages amid tech giant 'connectivity issues'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Can Burnham avoid another Labour welfare rebellion?",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "What we know about Brooklyn building collapse that killed eight people",
+   "source": "BBC",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Military base asylum plans granted planning approval",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Duran Duran drummer quits band due to tinnitus",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -14,55 +74,13 @@
    "good": false
   },
   {
-   "text": "Some childhood offenders may no longer have to reveal convictions to employers",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Washington DC shooting leaves one dead and four injured as suspect dies after standoff",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Teenage girl admits murder in row over boy",
+   "text": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Watch: 'Life-changing moment' boy turns on Tourette syndrome device to help stop tics",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "text": "How Pochettino came on Man Utd's radar - and what sacked manager Carrick was told",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -74,7 +92,7 @@
    "good": false
   },
   {
-   "text": "How Pochettino came on Man Utd's radar - and what sacked manager Carrick was told",
+   "text": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -86,19 +104,25 @@
    "good": false
   },
   {
-   "text": "Burnham's push for closer EU ties causes ripples in his party and others",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Drugs running was like 'a paper round' for exploited son, mum says",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+   "text": "US doctor kills building manager after long-running dispute over mould, police say",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Some childhood offenders may no longer have to reveal convictions to employers",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -110,9 +134,15 @@
    "good": false
   },
   {
-   "text": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "text": "Teenage girl admits murder in row over boy",
    "source": "BBC",
-   "sev": 2,
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Man jailed for 'appalling' catalogue of coercive control and abuse against partner",
+   "source": "BBC",
+   "sev": 4,
    "good": false
   },
   {
@@ -120,30 +150,6 @@
    "source": "BBC",
    "sev": 2,
    "good": false
-  },
-  {
-   "text": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Russell Brand's social media accounts disabled by Meta",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Resident Evil Requiem sweeps Golden Joystick Awards",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Download now",
@@ -170,15 +176,15 @@
    "good": false
   },
   {
-   "text": "Palace sack Sage after 16 games with Frank in advanced talks",
+   "text": "Where does Kane rank among all-time England greats?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The chaos that took Carrick from two-year deal to sacked within 15 games",
-   "source": "BBC",
-   "sev": 3,
+   "text": "Cunk on Cinema review – Diane Morgan baffles Hollywood with some of the stupidest jokes ever told",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -191,12 +197,6 @@
    "text": "Look at the Poundland scandal and see a crisis that goes beyond Britain’s high streets | Polly Toynbee",
    "source": "Guardian",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "‘Joni Mitchell sang Both Sides, Now over the phone to me’: folk music legend Judy Collins on her 87 remarkable years",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
@@ -224,58 +224,58 @@
    "good": false
   },
   {
-   "text": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Local funds for some young people losing Pip under Milburn plans",
+   "text": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-   "source": "Guardian",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Farage was guest on Brand podcast after sexual assault investigation began",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "UK ministers have no plans to publish explosive report on climate crisis",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
+   "text": "‘Win-win’ deal with EU could be done, Andy Burnham says",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
+   "text": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Are cracks showing in the Burnham project? – podcast",
+   "text": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+   "source": "Guardian",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "UK ministers look at quick ways to limit NDAs after Walliams allegations",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Leeds woman, 18, admits knife murder of 16-year-old love rival",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "China rules out hosting Cop33 climate summit in 2028",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Mississippi makes history with Democrat Scott Colom’s Senate win - The Latest",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "‘I was home alone when the glacier collapsed. My mum called and told me to run’ – This is climate breakdown",
@@ -314,27 +314,27 @@
    "good": false
   },
   {
+   "text": "The Good Daughter review – the best thing about this legal thriller? Brendan Gleeson’s sad toilet fart",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Ebenezer review – Johnny Depp’s Scrooge tries to exorcise ghosts of business past",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Grab the wigs – we’re going to the theatre! We meet the audience superfans going crazy for cosplay",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
+   "text": "Pork fat, a heating pad and a five-storey jump: how a 74-year-old escaped house arrest in Argentina",
    "source": "Guardian",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘Joni Mitchell sang Both Sides, Now over the phone to me’: folk music legend Judy Collins on her 87 remarkable years",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -350,15 +350,21 @@
    "good": true
   },
   {
+   "text": "Spare a thought for poor Nige, clearly missing his podcast chats with Russell Brand",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Trump won't save Ukraine. But Marine Le Pen's betrayal could be worse | Mujtaba Rahman",
-   "source": "Guardian",
-   "sev": 1,
+   "text": "Sprawling £7.5m countryside mansion that caught the eye of Johnny Depp and John Terry is engulfed in bitter planning row over proposal to create 57 homes",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -449,12 +455,6 @@
    "text": "Jaguar Land Rover ordered to destroy documents seized in BYD office raid as part of 'copycat Defender' dispute",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Sprawling £7.5m countryside mansion once linked with Johnny Depp and John Terry is engulfed in bitter planning row over proposal to create 57 homes",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
