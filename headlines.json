@@ -1,8 +1,68 @@
 {
- "updated": "2026-11-12T23:49:59.953Z",
+ "updated": "2026-11-13T06:22:59.977Z",
  "headlines": [
   {
-   "text": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "text": "Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Military base asylum centre near Piddington granted planning approval",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Junior doctor burnout putting maternity patients at risk, says regulator",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The school where white working-class pupils defy the odds",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Timothée Chalamet among Hollywood stars and charity heroes stepping up for BBC Children In Need",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How could the Nvidia CEO’s affair threaten US national security?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Cricket sandpaper scandal claims '100% wrong', Australia captain says",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Brand will face 'hell on earth' in Wandsworth prison, says former inmate",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -14,97 +74,43 @@
    "good": false
   },
   {
-   "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "text": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Microsoft users report outages amid tech giant 'connectivity issues'",
+   "text": "Skye Newman gets 'goosebumps' over record-breaking Brixton Academy run",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Can Burnham avoid another Labour welfare rebellion?",
+   "text": "Ankle injuries are more common than you think - here's how to protect yours",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "What we know about Brooklyn building collapse that killed eight people",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Military base asylum plans granted planning approval",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Hegseth awards medal to war memorial guard who reprimanded him and group",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Duran Duran drummer quits band due to tinnitus",
+   "text": "Weekly quiz: Who's joining Wayne Rooney in the I'm A Celebrity jungle?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Faisal Islam: Why the UK economy is surprisingly resilient",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'How does a building just fall?' Neighbours grieve after deadly Brooklyn building collapse",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "How Pochettino came on Man Utd's radar - and what sacked manager Carrick was told",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'You're triggering me': How to understand your therapy-speak teen",
+   "text": "The Papers: 'Nvidia chief quits' and 'Six women say they too were preyed on by Brand'",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Schools, libraries and parents face 'difficult decision' over David Walliams books",
+   "text": "MI5 will need proof to be believed in future, says Leveson after BBC investigation",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Drugs running was like 'a paper round' for exploited son, mum says",
+   "text": "Can the Eurovision Song Contest succeed in Asia?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -116,39 +122,27 @@
    "good": false
   },
   {
+   "text": "Can Burnham avoid another Labour welfare rebellion?",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Two men found guilty of spying for Iran over plan to target UK-based journalists",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Some childhood offenders may no longer have to reveal convictions to employers",
+   "text": "Russian warship hit by Ukrainian drone in Gulf of Finland",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Teenage girl admits murder in row over boy",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Man jailed for 'appalling' catalogue of coercive control and abuse against partner",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Some under-25s should get fewer benefits, Milburn review to say",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -182,6 +176,24 @@
    "good": false
   },
   {
+   "text": "Whatever happened to the diamond that went missing in F1 crash?",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "‘Women are pitted against each other. It’s a blood sport’: Billie Piper on industry infighting, Elsinore’s Oscar buzz and thriving on personal crisis",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Experience: I was disembowelled by a hippo on my honeymoon",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Cunk on Cinema review – Diane Morgan baffles Hollywood with some of the stupidest jokes ever told",
    "source": "Guardian",
    "sev": 1,
@@ -206,45 +218,21 @@
    "good": false
   },
   {
-   "text": "The Guardian’s year in review 2026",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "NAZA: how and where to watch the Guardian’s acclaimed Gaza documentary",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Some young disabled people to lose Pip in Milburn plan – but can apply to local fund",
+   "text": "Microsoft outage live: Microsoft scrambling for new ways to fix global outage after initial attempts fail to restore Outlook services",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+   "text": "Russell Brand accused of misconduct by six more women, according to report",
    "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
-   "source": "Guardian",
-   "sev": 5,
+   "sev": 2,
    "good": false
   },
   {
@@ -254,33 +242,51 @@
    "good": false
   },
   {
-   "text": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Leeds woman, 18, admits knife murder of 16-year-old love rival",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "China rules out hosting Cop33 climate summit in 2028",
+   "text": "More than 60% of Germany’s female soldiers report harassment or abuse",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Mississippi makes history with Democrat Scott Colom’s Senate win - The Latest",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "‘I was home alone when the glacier collapsed. My mum called and told me to run’ – This is climate breakdown",
+   "text": "Boxer on death row in Iran vows ‘not to bow before oppression’ after winning rights prize",
    "source": "Guardian",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Second world war ‘brain’ bunker in cliffs of Dover opens to public",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Darth Vader’s lightsaber, used in Star Wars movies The Empire Strikes Back and Return of the Jedi, sells for nearly $5m",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘They’ve cut all entry-level jobs’: unlikely seaside town on frontline of AI threat",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Did Indonesia’s vice-president just resign because he didn’t have a high school diploma?",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
@@ -308,7 +314,13 @@
    "good": false
   },
   {
-   "text": "From cult skincare to seriously posh soap: Sali Hughes’s best beauty gifts for Christmas 2026",
+   "text": "12 12 12 review – Anthony Mackie and Jamie Dornan’s super fun heist hunt",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘The time is ripe’: ex-helicopter engineer poised to be Germany’s first female president",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -320,7 +332,7 @@
    "good": false
   },
   {
-   "text": "You can see everything on this list: the 20 most jaw-dropping documentaries – ranked!",
+   "text": "Hamlet Hail to the Thief could have been rotten but redeems Radiohead’s ‘record that got away’ | Alexis Petridis",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -332,211 +344,199 @@
    "good": false
   },
   {
-   "text": "‘Joni Mitchell sang Both Sides, Now over the phone to me’: folk music legend Judy Collins on her 87 remarkable years",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Women came forward to protect others. They’re heroes | Lucy Beaumont",
+   "text": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
    "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "As housing protests sweep Portugal, police and politicians here seem bent on making the crisis worse | Ana Naomi de Sousa",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "How did Walliams cling on to his showbiz chums? String of celebrities who appeared on podcast months before allegations emerged of his predatory behaviour go quiet",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Driver who reversed over and killed a mother in front of her two young sons then set his car on fire is jailed",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "More than 150 people reported to Government's anti-extremism programme Prevent went on to attempt or commit serious crimes - including dozens for terrorism offences - report finds",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Ousted Nvidia tycoon Jensen Huang accused of THIRD 'affair' as AI stock plunges and Trump aide tells Mail: 'World economy is f*****'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Burglar who stole £100,000 worth of cars avoids being deported to Sweden because he has ADHD",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Seedy Russell Brand and Diddy private jet video: As rapist comedian joins rapper behind bars, the truth about their friendship is revealed",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "There's a 'meaningful risk' that AI will start killing people in next SIX MONTHS as it launches global takeover, the British Godfather of AI will warn ministers today: 'It's terrifying, and I'm going to tell them that'",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "The great Piddington betrayal: Rayner presses ahead with plans for migrant camp - with villagers who voted to leave the UK in protest ignored",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "BRYONY GORDON: The brave women who helped convict Russell Brand have allowed me to acknowledge the truth about my own experiences with him when I was 25",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Horrific footage captures moment NYC building collapses as terrified resident rushes down newly exposed staircase",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Rapist Russell Brand is accused of sexual misconduct and predatory behaviour 'by six more women' - as he's 'prepared for move to jail to where Lostprophets singer was murdered'",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "JAN MOIR: Crackdown on sleazy celebs? Let's start by banning the NDAs they cynically wield",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'I thought it was innocent': Kate was 16 when she was invited to Britain's Got Talent by David Walliams. Afterwards, she was asked to go to his dressing room... only for a security guard to stop her with this chilling warning",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Staggering cost of Burnham's EU reset: We'll be forced to adopt a new Brussels directive every 12 hours",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Doctor, 66, shares everything he eats in a day to feel 40 years younger - including his go-to zucchini bread for an afternoon snack: 'It's like a code'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Deranged doctor made eerie confession after killing building manager at luxury DC apartment complex in rampage over mold and mice that left four others injured",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Revealed: The TV boss who oversaw the rise of 'predators' at channels",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Miliband's 2030 energy target 'a stretch', says his successor, as PM jets in... for climate speech",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Prince William leads tributes to Harry Kane as England captain breaks appearance record with 126th cap: Royal presents star with shirt marking occasion as Wembley celebrates milestone",
+   "source": "Mail",
    "sev": 1,
    "good": true
   },
   {
-   "text": "Spare a thought for poor Nige, clearly missing his podcast chats with Russell Brand",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Billions lost and markets roiled by one man’s indiscretion. Isn’t it now clear that these tech bros are too powerful? | Aditya Chakrabortty",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Sprawling £7.5m countryside mansion that caught the eye of Johnny Depp and John Terry is engulfed in bitter planning row over proposal to create 57 homes",
+   "text": "Why I fear for my cannabis-smoking mum friends: They order it on Snapchat, get it delivered by Uber then share joints around their designer kitchen islands - long after their children have given up",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Washington DC gunman is dead after opening fire on gym - killing one and leaving another person critically injured - in morning attack that ended in luxury apartment standoff",
+   "text": "DAILY MAIL COMMENT: There might be good news on the economy...but Labour's 'growth' is just a cynical trick",
    "source": "Mail",
-   "sev": 6,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Burnham ramps up Brexit 'surrender' drive at summit with EU leaders… as he braces to make big concessions on money, borders and control",
+   "text": "Donald Trump praises 'brilliant' Jensen Huang as he weighs in on former Nvidia CEO's downfall",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Greta Thunberg laughs at protesters still participating in Fridays For Future - the climate movement she started before focusing on Gaza: 'They're still doing that?!'",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The moment David Walliams' career started to unravel: Shamed comic was caught making sexually explicit remarks about BGT contestants on mic before stepping down as judge",
+   "text": "The decline of Quality Street: How iconic British sweets founded by Yorkshire family are now packed with palm oil and 'harmful' additives - as customers say they 'taste like wax'",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Kate Garraway is criticised for defending 'brave' Jonathan Ross in heated row over his relationship with David Walliams and Russell Brand",
+   "text": "Top marks! George's striking sketch echoes work of YouTube tutor",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Labour failing to meet national targets for faster cancer diagnosis despite ambitious pledges",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The Morning Poll: Should celebrities be able to hide bad behaviour behind an injunction?",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Estate agents see 27% drop off in first-time buyer enquiries as interest rates rise",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Afghan migrant accused of raping autistic 14-year-old girl on train 'used her to satisfy himself', court told",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Britain's Got Talent production team 'tried to oust David Walliams by deliberately leaking shamed comic's vile comments about contestants'",
+   "text": "TV's highest paid stars: Sylvester Stallone, Zendaya, Chris Pratt and more earn millions an episode as their jaw-dropping salaries are revealed",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Nvidia boss Jensen Huang resigns and shares plunge 10% - taking losses this week to $730bn",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "First victim of collapsed Brooklyn building is identified as devoted father-of-one, 26, as death toll rockets to eight and 19 injured with fears more are trapped under rubble",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Dozens of household name celebrities have injunctions to hide affairs and sex scandals",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Killer who hid artist's body in freezer along with pets 'claimed Joanna Lumley had agreed to be patron of guinea pig sanctuary' in messages pretending she was alive, court hears",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "British toymaking couples who say they lost £90m when US toy giant launched 'campaign' to keep them out of major shops lose bid for massive payout",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Romanian fraudster who fleeced £420,000 by filming victims entering PINs at ATMs to be deported after serving jail time",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Katie Price weighs in on Russell Brand conviction as she reflects on why she didn't report rape after being attacked by a British TV star 20 years ago",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Jaguar Land Rover ordered to destroy documents seized in BYD office raid as part of 'copycat Defender' dispute",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "London mosque warned by charity watchdog over 'inflammatory' sermons where imam accused Israel of lying about October 7 attack and blamed 'Zionists' for Southport riots",
+   "text": "Sharon Osbourne says disgraced comedian Russell Brand - who she has known for 20 years - must 'pay' for his crimes after he was convicted of rape and sexual assault",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Fury as plan for 930 asylum seekers in small village moves ahead with Home Office signing £3.4m deal with construction giant",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "A load of hot air! Burnham speaks to half-empty COP climate summit for six minutes while Sadiq Khan poses for selfies",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "A decade of debauchery: The Noughties were the years Russell Brand, David Walliams and their celebrity cronies were at their sleaziest. KATIE HIND witnessed it all - and had her own lucky escapes",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Former BBC DJ Tim Westwood to go on trial accused of raping and assaulting women and girls as young as 17 after denying two new charges",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Michael Carrick is SACKED by Man United: Manager leaves training ground just 2½ hours after arriving - and now Mauricio Pochettino is ready to take over",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Scientists discover the origin of a mysterious radio signal that flashes on and off every eight minutes",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Trump and Netanyahu reportedly get into 'shouting match from hell' amid argument to resume all-out war in Iran",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Author hints at ANOTHER celebrity sex scandal as she says 'high-profile sexual predator' targeted her and she is now working with the police",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'David Walliams came up over and over again in the female comics' WhatsApp group': Comedian Kate Smurthwaite reveals friends warned each other 'about men in the industry'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Victoria Beckham extends olive branch to estranged son Brooklyn as she 'transfers trademark back to his own name' after he accused her of 'attempting to bribe' him into signing away his rights in bombshell statement",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Ed Miliband FINALLY says he 'deeply regrets' appearing on Russell Brand's web show",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "House prices will keep falling, estate agents warn as they give bleakest outlook in three years",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "British woman, 72, is missing after 'falling off cruise ship in the middle of the Atlantic'",
+   "text": "How ITV's top bosses fell under the spell of 'vile' rapist Russell Brand: ALISON BOSHOFF",
    "source": "Mail",
    "sev": 3,
    "good": false
