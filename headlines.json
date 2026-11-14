@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-14T15:43:06.151Z",
+ "updated": "2026-11-14T20:35:21.848Z",
  "headlines": [
+  {
+   "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
   {
    "text": "Young people should have legal guarantee of job or training, Milburn tells BBC",
    "source": "BBC",
@@ -14,19 +20,25 @@
    "good": true
   },
   {
-   "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Noel Fielding 'appalled' by jokes he made with Russell Brand",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "King jokes with Elton John as he marks 78th birthday with radio show",
+   "text": "Thousands turn out in Edinburgh to protest against AI data centres",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Philippines wins first Eurovision Song Contest Asia",
    "source": "BBC",
    "sev": 1,
    "good": true
@@ -38,13 +50,13 @@
    "good": false
   },
   {
-   "text": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
+   "text": "The search to find a friend for Jojo the gorilla after a lifetime of being alone",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The search to find a friend for Jojo the gorilla after a lifetime of being alone",
+   "text": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -62,45 +74,45 @@
    "good": false
   },
   {
+   "text": "King jokes with Elton John as he marks 78th birthday with radio show",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "How Mississippi's new senator won in Trump's heartland and what he will do next",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Wales stun New Zealand to end 73-year losing streak",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Milder weather coming before more cold health alerts take effect",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Man dies after being stabbed by gang of masked men",
    "source": "BBC",
    "sev": 5,
    "good": false
   },
   {
-   "text": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+   "text": "Italy fines Meta €805m over accessing users' photos",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
    "text": "Body found on French beach after attempted Channel crossing",
    "source": "BBC",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Burnham suggests Welsh Labour lost sight of devolution as review criticises ex-first minister's strategy",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Murdered woman's family make appeal 30 years on",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Widespread frost and freezing fog as cold health alerts continue",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -146,21 +158,27 @@
    "good": false
   },
   {
-   "text": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+   "text": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Joseph scores record-equalling five tries as England rout Japan",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Tuchel to remind England of anti-racism protocols before Spain game",
+   "text": "Bompastor's risks pay off as Chelsea go top of WSL",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Warner accuses Cricket Australia of 'cover-up'",
+   "text": "Highlights: Wales beat New Zealand for first time in 73 years",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -182,21 +200,27 @@
    "good": false
   },
   {
-   "text": "How I survived being forced into pornography: ‘I died in that hotel room. I was a walking corpse’",
+   "text": "The moment I knew: He quoted my favourite TV show. I blurted out, ‘Marry me!’",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "369 best Christmas gifts for 2026 – tried, tested and loved by the Filter UK",
+   "text": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
    "text": "‘The social contract is broken’: young people on feeling shut out of careers",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+   "source": "Guardian",
+   "sev": 3,
    "good": false
   },
   {
@@ -212,43 +236,37 @@
    "good": false
   },
   {
-   "text": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+   "text": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Family of Watford woman set alight ‘desperate for answers’ after attack",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Microsoft says services fully restored after global outage hits governments",
+   "text": "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Greenpeace boulders may delay building of £12bn windfarms in North Sea",
+   "text": "Philippines’ Carmelle wins first Eurovision contest in Asia",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "Milder weekend forecast in UK as autumn freeze eases off",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "UK tells blind Nigerian pensioner to go to India for medical treatment",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Masterpieces haunted by brutal past could send records tumbling at Sotheby’s",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Still standing’: king jokes as he appears on Elton John’s Rocket Hour",
+   "text": "Cold weather health alerts issued for parts of UK on Sunday night",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -266,9 +284,9 @@
    "good": false
   },
   {
-   "text": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
+   "text": "‘I’m still trying to find out who I am’: the little-understood plight of Forgotten Australians",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -320,28 +338,28 @@
    "good": false
   },
   {
-   "text": "Chelsea 1-0 Manchester City: Women’s Super League – live",
+   "text": "Wales bury 73-year All Blacks hoodoo with seismic victory over New Zealand",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Five-try Will Joseph equals record as England steamroller Japan",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "De la Fuente feels the strain as Lamine Yamal club v country debate rages in Spain",
+   "text": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
+   "text": "Clinical Norway dent Wales’ Nations League top-tier hopes with victory in Oslo",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Cheltenham November meeting horse racing – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "Greta Thunberg doubles down with her criticism of eco protesters after footage emerges of her laughing 'Are they still doing that?' after she moved on to Gaza",
