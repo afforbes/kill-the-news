@@ -1,26 +1,44 @@
 {
- "updated": "2026-11-14T01:40:36.622Z",
+ "updated": "2026-11-14T08:53:01.638Z",
  "headlines": [
   {
-   "text": "Police investigating David Walliams over reports alleging serious sexual offences",
+   "text": "What we know about the US ground stop and what to do if you're affected",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Young people should have legal guarantee to job or training, Milburn tells BBC",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+   "text": "Microsoft says services fully restored after day-long global outage",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "text": "Passengers rescued after New Orleans cruise ship collision",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Widespread frost and freezing fog as cold health alerts continue",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Brand, Walliams and Married at First Sight: Is this a reckoning for the entertainment industry?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -32,43 +50,7 @@
    "good": false
   },
   {
-   "text": "Goalkeeper involved in fatal collision gets 12-game ban",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Former Hamas bodyguard guilty of UK knife attack",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "New campaign against EU membership launches ahead of UK-EU summit",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Man jailed for grooming at least 70 girls online",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Widespread frost and freezing fog forecast as cold health alerts continue",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Watch: Children in Need 2026... in 90 seconds",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+   "text": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -80,49 +62,7 @@
    "good": false
   },
   {
-   "text": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "When to put up a real Christmas tree - according to an expert",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Family's two-year fight to bring killer driver back from Latvia",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Microsoft outage 'stark reminder' of how much we rely on tech",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -134,21 +74,27 @@
    "good": false
   },
   {
-   "text": "Probation officers to take industrial action over pay and early release scheme",
+   "text": "Family's two-year fight to bring killer driver back from Latvia",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+   "text": "Police investigating David Walliams over reports alleging serious sexual offences",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "France hold nerve to edge past South Africa in thriller",
+   "text": "Watch: Children in Need 2026... in 90 seconds",
    "source": "BBC",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -170,55 +116,79 @@
    "good": false
   },
   {
-   "text": "Sabalenka's season ended by Svitolina at WTA Finals",
+   "text": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
+   "text": "Warner accuses Cricket Australia of 'cover-up'",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Don’t just blame the culture for keeping powerful men’s dirty secrets. Blame the law too | Gaby Hinsliff",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Sheds, cakes and photos of me – Prince William’s Country Life, digested by John Crace",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The dark side of reselling apps: ‘If you include your pants, I’ll pay more’",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "She gets 16 pelvic exams a day – so yours don’t hurt",
-   "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘It was a train wreck! I was terrified’: how the new James Bond will be announced – and what can go wrong",
+   "text": "England boxer missed Worlds over sex-test mix-up",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Japan's unlikely leader who turned down the All Blacks",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Six goals to go - will McGinn catch Dalglish & Law?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "France hold nerve to edge past South Africa in thriller",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "369 best Christmas gifts for 2026 – tried, tested and loved by the Filter UK",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
+   "text": "It’s absurd that ‘Black English’ is not on the census. We should be free to claim that identity if we choose | Calum Jacobs",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Portugal did the extraordinary with Cristiano Ronaldo. Can they do it without him?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Terror from the skies: drones are redefining warfare in Sudan, and massacring its civilians",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "From Cunk on Cinema to Prima Facie: the week in rave reviews",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -230,21 +200,39 @@
    "good": false
   },
   {
-   "text": "US Air Force responds to suspected drone activity at RAF Lakenheath",
+   "text": "Flights slowly resume after US aviation agency lifts nationwide ground stop",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
+   "text": "‘An environmental and welfare disaster’: British salmon loses its organic status",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "UK tells blind Nigerian pensioner to go home to India",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
+   "text": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -254,81 +242,93 @@
    "good": false
   },
   {
-   "text": "Nigel Farage’s security paid for by Reform UK despite claim over £5m gift",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Probation officers in England and Wales vote to strike over pay and workloads",
+   "text": "Bristol aims to become UK’s first ‘wetland city’ and reduce flood risk",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Robert Pattinson reportedly leads James Bond contenders",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why the Nvidia scandal is far from over - The Latest",
+   "text": "Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up?",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Families clear homes of David Walliams books after sexual offence allegations",
+   "text": "Country diary: One of Britain’s oldest surviving traditions – and it’s all over in four minutes | Doc Rowe",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Would you breastfeed your own father?’ The goofy, spiky world of art-pop duo Charlotte Adigéry and Bolis Pupul",
+   "text": "Blind date: ‘Would we meet again? We’ve swapped numbers … ’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘You can’t train to be chucked in a box full of rats!’ Ade Adepitan on fear, facing down sharks and being I’m a Celeb’s first wheelchair user",
+   "text": "Tim Dowling: I’ve made being ill an art form – and my wife has notes",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How I survived being forced into pornography: ‘I died in that hotel room. I was a walking corpse’",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "‘Seduced by a dramatic landscape of canyons and lakes’: exploring Catalonia’s wild side",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Honey: this flirty, kinky Killing Eve prequel should have been called Carré on Spying",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The Guide #269: The ident epidemic, and the true cost of movie-making",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Branding it like Beckham: how Jude Bellingham is future-proofing his fame",
+   "text": "Is it finally OK to be frank about 2000s pop culture? ‘It was profoundly, cheerfully horrible to women’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Can pornography help save Tasmania’s rainforests? Kirsha Kaechele hopes so",
+   "text": "this week’s UK cinema releases",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘So lovely’: Stevie Wonder surprises Stalybridge restaurant with late-night visit and £1,000 tip",
+   "text": "Five Great Reads: Sleep paralysis, parakeets and problematic laundry",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme",
+   "text": "Rugby League World Cup finals, ATP and WTA tennis, plus WSL – follow with us",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Asim Chaudhry, actor and writer | Comfort Eating",
+   "text": "Pochettino to Manchester United latest, WSL and Nations League buildup – matchday live",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "A cricketing drama to divide a nation: why the sandpaper scandal is Australia’s Bazball | Barney Ronay",
+   "text": "‘Stinks of a cover-up’: David Warner fans flames with new sandpapergate claim",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -338,27 +338,9 @@
    "good": true
   },
   {
-   "text": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "John McGinn double saves Scotland’s blushes against North Macedonia",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Tuchel to remind England players of anti-racism protocols before game in Spain",
-   "source": "Guardian",
+   "text": "Greta Thunberg doubles down with her criticism of eco protesters after footage emerges of her laughing 'Are they still doing that?' after she moved on to Gaza",
+   "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Jonbon shines on yet another trying day for troubled home of jumps racing",
-   "source": "Guardian",
-   "sev": 1,
    "good": false
   },
   {
@@ -431,12 +413,6 @@
    "text": "Matt Lucas is seen for first time since sex misconduct claims against his Little Britain co-star David Walliams emerged after he lost injunction bid",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Greta Thunberg doubles down with her criticism of eco protesters after footage emerges of her laughing 'Are they still doing that?' after she moved on to Gaza",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
