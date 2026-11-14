@@ -1,11 +1,17 @@
 {
- "updated": "2026-11-13T21:22:19.592Z",
+ "updated": "2026-11-14T01:40:36.622Z",
  "headlines": [
   {
    "text": "Police investigating David Walliams over reports alleging serious sexual offences",
    "source": "BBC",
    "sev": 2,
    "good": false
+  },
+  {
+   "text": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
@@ -20,9 +26,15 @@
    "good": false
   },
   {
-   "text": "Microsoft outage 'stark reminder' of how much we rely on tech",
+   "text": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Goalkeeper involved in fatal collision gets 12-game ban",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -32,27 +44,99 @@
    "good": false
   },
   {
+   "text": "New campaign against EU membership launches ahead of UK-EU summit",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Man jailed for grooming at least 70 girls online",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Widespread frost and freezing fog forecast as cold health alerts continue",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Watch: Children in Need 2026... in 90 seconds",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Brand, Walliams and MAFS: Is this a reckoning for the entertainment industry?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "When to put up a real Christmas tree - according to an expert",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'Police launch investigation' into Walliams and Piddington asylum 'betrayal'",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+   "text": "Family's two-year fight to bring killer driver back from Latvia",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Watch: BBC undercover reporter is offered fake art and awards for talent visa",
+   "text": "Microsoft outage 'stark reminder' of how much we rely on tech",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "Man jailed for grooming at least 70 girls online",
+   "text": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
    "source": "BBC",
-   "sev": 4,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Setback for SpaceX Starship rocket's double-catch test",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Probation officers to take industrial action over pay and early release scheme",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -62,121 +146,37 @@
    "good": false
   },
   {
-   "text": "'Hardest challenge of my life' - Owain Wyn Evans completes Children in Need ride",
+   "text": "France hold nerve to edge past South Africa in thriller",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Watch: How a server outage took down Microsoft Teams and Outlook",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'I feel it's a sign of what's to come': Office workers on Microsoft outage",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Peruvian city that has embraced Pope Leo as one of its own",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Whatever happened to the $300,000 diamond that went missing in F1 crash?",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The school where white working-class pupils defy the odds",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "My physical deformity left me feeling invisible - but one surgeon saw me",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The rise of 'housefishing': How AI-enhanced property listings are taking off",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Tories pay artist for Burnham images after legal threat",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "More women make allegations against Russell Brand",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Man dies after being seriously injured at Edinburgh film studio",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "German spies handed new powers to tackle 'hybrid threats' from abroad",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Eight sentenced to jail in UAE over brawl involving two MMA fighters",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Driver who fled to Latvia after killing schoolboy jailed",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-   "source": "BBC",
-   "sev": 5,
    "good": false
   },
   {
    "text": "Download now",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Welfare Plans and EU Deals",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Rumpelstiltskin fools Shrek into being erased from existence",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Sabalenka's season ended by Svitolina at WTA Finals",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Tearful Pochettino on 'difficult' decision to leave USA for Man Utd",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -218,27 +218,39 @@
    "good": false
   },
   {
+   "text": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Police launch investigation into David Walliams over alleged serious sexual offences",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "US air force responds to suspected drone activity at RAF Lakenheath",
+   "text": "US Air Force responds to suspected drone activity at RAF Lakenheath",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+   "text": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+   "text": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -248,21 +260,9 @@
    "good": false
   },
   {
-   "text": "Andy Burnham urges Labour to ‘rearm’ for Kemi Badenoch comeback",
+   "text": "Probation officers in England and Wales vote to strike over pay and workloads",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Trump bought Nvidia stock as he helped chipmaker with change to export rule",
-   "source": "Guardian",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
@@ -326,38 +326,44 @@
    "good": false
   },
   {
-   "text": "Fight the climate crisis or go for growth? There is a way Burnham can do both | Jonathan Freedland",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "If you’re wondering what a Reform government might look like, just look at its chaotic record in Wales | Will Hayward",
+   "text": "A cricketing drama to divide a nation: why the sandpaper scandal is Australia’s Bazball | Barney Ronay",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "As housing protests sweep Portugal, police and politicians here seem bent on making the crisis worse | Ana Naomi de Sousa",
+   "text": "France cling on for furious victory against South Africa after Dupont sizzles",
    "source": "Guardian",
-   "sev": 4,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "Young men were key to the blue wave. Our research offers a reason why | Brigid Schulte and Haley Swenson",
+   "text": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Ofsted’s menacing inspections are still disastrous. Schools should answer to the communities they serve | Simon Jenkins",
+   "text": "John McGinn double saves Scotland’s blushes against North Macedonia",
    "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Tuchel to remind England players of anti-racism protocols before game in Spain",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Jonbon shines on yet another trying day for troubled home of jumps racing",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
+   "source": "Mail",
    "sev": 1,
    "good": false
   },
@@ -441,12 +447,6 @@
   },
   {
    "text": "'Is it a mere coincidence? I don't think so': Social media users joke the Microsoft outage is linked to wacky 1960 study claiming 'doomsday' will occur on November 13, 2026",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Microsoft says efforts to fix global outage 'not going as expected' with millions impacted worldwide",
    "source": "Mail",
    "sev": 1,
    "good": false
