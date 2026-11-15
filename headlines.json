@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-15T07:03:48.791Z",
+ "updated": "2026-11-15T14:40:42.948Z",
  "headlines": [
+  {
+   "text": "Staggered age of consent to be discussed after Brand case, minister says",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Man and woman die and four arrested after police pursuit crash in Leeds",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
   {
    "text": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
    "source": "BBC",
@@ -8,27 +20,15 @@
    "good": false
   },
   {
-   "text": "Alleged Russell Brand rape victim wants age of consent law changed",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "text": "Minister backs legal right to job support for young people",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Iran targets US military base in Bahrain with drone attack",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -38,19 +38,7 @@
    "good": false
   },
   {
-   "text": "Beauty advent calendars can cost hundreds - but are they value for money?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How to shake hands and make eye contact - the lessons preparing pupils for the world of work",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+   "text": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -62,10 +50,16 @@
    "good": false
   },
   {
-   "text": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+   "text": "Beauty advent calendars can cost hundreds but are they value for money?",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
+  },
+  {
+   "text": "Holly Humberstone: People can't connect to a pop star who's 'too polished'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -74,73 +68,73 @@
    "good": false
   },
   {
-   "text": "UK papers: 'I was only 16' says alleged Brand victim, as disgraced comedian 'moved to soft jail'",
+   "text": "Can lessons in shaking hands and making eye contact help kids land jobs later in life?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Three men sentenced to death in Jordan over fatal church mass shooting",
+   "source": "BBC",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Banton hits century and bowlers sparkle for England to level ODI series against Australia",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Man dies after being hit by ambulance near Sunderland",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "McIlroy targets 10 after equalling Montgomerie",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Milder day in store before more cold health alerts take effect",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "South Korea's top scorer in tax accountancy exam admits cheating",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Philippines takes the crown in first Eurovision Song Contest Asia",
+   "text": "Onions in your socks? Why homespun cold remedies can work for some",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "text": "Dexter and dog Reginald offered place to stay before Christmas as part of PM's pledge",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
+   "text": "One of the most commonly injured body parts that many of us never train",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Milder weather coming before more cold health alerts take effect",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Intelligence officer's rare Aston Martin to be sold",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Handwritten 200-year-old dismissal letter found on roof tile",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "I took Vinted to court to get my money back",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Why are these purple flowers shutting down streets in Sydney?",
+   "text": "Former lorry driver, 91, knits 200 woolly hats",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -164,27 +158,33 @@
    "good": false
   },
   {
-   "text": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+   "text": "Banton pushes case and bowlers sparkle for inconsistent England",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Respect? Exposure? Why England's star names are going abroad",
+   "text": "Branthwaite, Garner and King omitted for Spain game",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Comeback kid Joseph thrills as England eye All Blacks",
+   "text": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
+   "text": "Reality dawns after Wales dared to dream",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘If you don’t shower, so what?’ The western diplomats staying put in under-attack Kyiv",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -194,7 +194,19 @@
    "good": false
   },
   {
-   "text": "Blacklock, Birmingham B3: ‘A very, very cool version of an Angus Steakhouse’ – restaurant review",
+   "text": "Dining across the divide: ‘It was futile – we didn’t agree on anything. But we had a nice meal’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -206,70 +218,40 @@
    "good": false
   },
   {
-   "text": "The moment I knew: He quoted my favourite TV show on our first date. I blurted out, ‘Marry me!’",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Honey review – a hugely entertaining Killing Eve prequel that’s packed with naughty jokes",
+   "text": "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "NHS England on track to miss key cancer treatment target by 10,000 patients",
+   "text": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - Middle East crisis live",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "UK government to consider changing age of consent after allegations against Russell Brand",
+   "text": "Two killed in Leeds after car pursued by police crashes into another vehicle",
+   "source": "Guardian",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Trident nuclear submarine concludes record underwater deployment",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Family of Watford woman set alight ‘desperate for answers’ after attack",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "World leaders head to Asia for back-to-back diplomatic summits",
+   "text": "Russell Brand accuser waives anonymity to call for consent law change",
    "source": "Guardian",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "Cold weather health alerts issued for parts of UK on Sunday night",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US judge blocks Trump’s plan to renovate historic DC golf course",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Italy fines Meta $887m for accessing Android users’ photos and videos",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "World’s top court to rule if Myanmar committed genocide against Rohingya",
@@ -278,49 +260,67 @@
    "good": false
   },
   {
-   "text": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
+   "text": "Ethnic minority groups in Wales four times more likely to be target of police facial scans",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘The social contract is broken’: young people on feeling shut out of careers",
+   "text": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "I’m really hurt that my parents didn’t give me a 40th birthday gift | Ask Annalisa Barbieri",
+   "text": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Lucy Beaumont thought she’d never work in TV again after speaking up on David Walliams. Something different happened",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘She was a monster’: the real Patricia Highsmith, by the people who knew her",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Two courtrooms, one celebrity: how did the Russell Brand case compare with the rape trial next door?",
+   "text": "Gout is on the rise – and excruciating. Why are sufferers still judged for it?",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "TV tonight: a tough look inside Crowborough asylum camp",
+   "text": "‘No one wants us any more’: how Hollywood turned its back on trans actors",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
+   "text": "The 14 best men’s boots for winter, from chelseas and lace-ups to wellies",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Our critics’ verdicts on this week’s UK cinema releases",
+   "text": "From Fjord to U2: your complete entertainment guide to the week ahead",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -344,22 +344,22 @@
    "good": false
   },
   {
-   "text": "Australia v England: second men’s cricket one-day international – live",
+   "text": "ATP Finals tennis: Alexander Zverev v Rafael Jódar and more – live",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Five-try Will Joseph equals record as England steamroller Japan",
+   "text": "Banton’s century leads England to emphatic win in second ODI amid Australian soap opera",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
+   "text": "Australia overpower New Zealand to win fourth consecutive men’s Rugby League World Cup",
    "source": "Guardian",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "Greta Thunberg doubles down with her criticism of eco protesters after footage emerges of her laughing 'Are they still doing that?' after she moved on to Gaza",
