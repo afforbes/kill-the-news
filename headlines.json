@@ -1,17 +1,11 @@
 {
- "updated": "2026-11-15T00:11:14.101Z",
+ "updated": "2026-11-15T07:03:48.791Z",
  "headlines": [
   {
-   "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "text": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
    "source": "BBC",
-   "sev": 2,
+   "sev": 4,
    "good": false
-  },
-  {
-   "text": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Alleged Russell Brand rape victim wants age of consent law changed",
@@ -26,21 +20,21 @@
    "good": false
   },
   {
-   "text": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+   "text": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
    "source": "BBC",
    "sev": 1,
+   "good": true
+  },
+  {
+   "text": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
-   "text": "New Orleans port sues tanker owners over cruise ship collision for $1m",
+   "text": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Wales stun New Zealand to end 73-year losing streak",
-   "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -68,10 +62,10 @@
    "good": false
   },
   {
-   "text": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+   "text": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
    "source": "BBC",
-   "sev": 2,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
    "text": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -86,13 +80,13 @@
    "good": false
   },
   {
-   "text": "King jokes with Elton John as he marks 78th birthday with radio show",
+   "text": "Philippines takes the crown in first Eurovision Song Contest Asia",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "Philippines takes the crown in first Eurovision Song Contest Asia",
+   "text": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -104,22 +98,22 @@
    "good": false
   },
   {
+   "text": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Milder weather coming before more cold health alerts take effect",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Thousands turn out in Edinburgh to protest against AI data centres",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "How Mississippi's new senator won in Trump's heartland - and what he will do next",
+   "text": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
    "text": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
@@ -170,14 +164,50 @@
    "good": false
   },
   {
-   "text": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
+   "text": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
+  },
+  {
+   "text": "Respect? Exposure? Why England's star names are going abroad",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
   },
   {
    "text": "Comeback kid Joseph thrills as England eye All Blacks",
    "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Blacklock, Birmingham B3: ‘A very, very cool version of an Angus Steakhouse’ – restaurant review",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "At 17, I dated a 36-year-old. That decision looks very different to me now | Polly Hudson",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The moment I knew: He quoted my favourite TV show on our first date. I blurted out, ‘Marry me!’",
+   "source": "Guardian",
    "sev": 1,
    "good": false
   },
@@ -188,58 +218,16 @@
    "good": false
   },
   {
-   "text": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "King Æthelstan founded England in the year 927. Why don’t we celebrate that anniversary? | Tom Holland",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The moment I knew: He quoted my favourite TV show. I blurted out, ‘Marry me!’",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘The social contract is broken’: young people on feeling shut out of careers",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "NHS England on track to miss key cancer treatment target by 10,000 patients",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
+   "text": "UK government to consider changing age of consent after allegations against Russell Brand",
    "source": "Guardian",
    "sev": 2,
    "good": false
-  },
-  {
-   "text": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Family of Watford woman set alight ‘desperate for answers’ after attack",
@@ -248,9 +236,33 @@
    "good": false
   },
   {
-   "text": "New Orleans officials file $1m lawsuit after ‘Mississippi miracle’ tanker crash",
+   "text": "World leaders head to Asia for back-to-back diplomatic summits",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Cold weather health alerts issued for parts of UK on Sunday night",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "US judge blocks Trump’s plan to renovate historic DC golf course",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Italy fines Meta $887m for accessing Android users’ photos and videos",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -260,27 +272,27 @@
    "good": true
   },
   {
-   "text": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Cold weather health alerts issued for parts of UK on Sunday night",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+   "text": "World’s top court to rule if Myanmar committed genocide against Rohingya",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
+   "text": "‘We need to get back to class’: some teachers lose patience as France enters its eighth week of student protests",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘The social contract is broken’: young people on feeling shut out of careers",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "I’m really hurt that my parents didn’t give me a 40th birthday gift | Ask Annalisa Barbieri",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
@@ -290,19 +302,19 @@
    "good": false
   },
   {
-   "text": "‘I’m still trying to find out who I am’: the little-understood plight of Forgotten Australians",
+   "text": "TV tonight: a tough look inside Crowborough asylum camp",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘It’s an architect’s dream’: five beautiful eco buildings around the world",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘You have to cope’: why don’t we hear of the ‘epidemic’ of women’s loneliness?",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "James Blunt: ‘Do I have a nickname? Yes, it rhymes with blunt’",
+   "text": "‘Don’t lie to me to get free stuff’: how small businesses are fighting back against influencers",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -332,10 +344,10 @@
    "good": false
   },
   {
-   "text": "Wales’ Dewi Lake calls historic win against New Zealand ‘amazing feeling’",
+   "text": "Australia v England: second men’s cricket one-day international – live",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
    "text": "Five-try Will Joseph equals record as England steamroller Japan",
@@ -345,18 +357,6 @@
   },
   {
    "text": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
    "source": "Guardian",
    "sev": 1,
    "good": false
