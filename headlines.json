@@ -1,16 +1,10 @@
 {
- "updated": "2026-11-15T20:17:38.393Z",
+ "updated": "2026-11-16T00:16:47.736Z",
  "headlines": [
   {
    "text": "Staggered age of consent to be discussed after Brand case, minister says",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Man and woman die and four arrested after police pursuit crash in Leeds",
-   "source": "BBC",
-   "sev": 4,
    "good": false
   },
   {
@@ -20,25 +14,19 @@
    "good": false
   },
   {
-   "text": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+   "text": "Prince Harry praises war veterans on surprise visit to Ukraine",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Minister backs legal right to job support for young people",
+   "text": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Pope Leo rides in helicopter cockpit during Peru trip",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "text": "Cut national insurance for under-25s to create jobs, Milburn report to say",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -50,19 +38,31 @@
    "good": true
   },
   {
-   "text": "Tearful McIlroy dedicates record-equalling win to ill dad",
+   "text": "Man and woman die and four arrested after police pursuit crash in Leeds",
    "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Iran targets US military base in Bahrain with drone attack",
-   "source": "BBC",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Hannah Fry feels 'unbelievably lucky' after cervical cancer treatment",
+   "text": "Brand moved from Wandsworth to category C prison, his wife confirms on podcast",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Tories pledge to halt screen-based school exams and cut coursework",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -98,7 +98,25 @@
    "good": false
   },
   {
+   "text": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
    "text": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Minister backs legal right to job support for young people",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -122,12 +140,6 @@
    "good": false
   },
   {
-   "text": "South Korea's top scorer in tax accountancy exam admits cheating",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Download now",
    "source": "BBC",
    "sev": 1,
@@ -146,33 +158,27 @@
    "good": false
   },
   {
-   "text": "Final whistle a blessing as Scotland edge dull Test against Australia",
+   "text": "60 minutes of perfection, 30 minutes of chaos - an England win for the ages",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "How did England cling on against Spain and what did Tuchel do differently?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Ronaldinho, 46, makes comeback for Ravenna",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Triumph or flop? The Rugby League World Cup that split opinion",
+   "text": "Tearful McIlroy dedicates record-equalling win to ill dad",
    "source": "BBC",
    "sev": 1,
    "good": true
   },
   {
-   "text": "London City's 'bravery' paying off in top three pursuit",
+   "text": "Townsend hails Scotland's defence in Australia 'arm wrestle'",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Chapecoense crash survivor wins promotion in final game",
-   "source": "BBC",
-   "sev": 3,
    "good": false
   },
   {
@@ -188,7 +194,7 @@
    "good": false
   },
   {
-   "text": "Strictly Come Dancing week eight results – live",
+   "text": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -218,9 +224,15 @@
    "good": false
   },
   {
-   "text": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+   "text": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Women prosecuted for abortions hail ‘historic day’ after receiving pardon",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -230,13 +242,19 @@
    "good": false
   },
   {
+   "text": "Lewis Hamilton urges F1 to ‘push harder and move faster’ on diversity",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Russell Brand accuser waives anonymity to call for consent law change",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Iran launches drone attacks against US military base in Bahrain",
+   "text": "Prince Harry tells Ukrainians they are ‘going to win war’ on surprise trip to Lviv",
    "source": "Guardian",
    "sev": 3,
    "good": false
@@ -248,25 +266,7 @@
    "good": false
   },
   {
-   "text": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Trident nuclear submarine concludes record underwater deployment",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Spain v England: Nations League – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+   "text": "‘Loaded with potential’: stage version of TV smash It’s a Sin has the dancefloor at its heart",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -296,46 +296,22 @@
    "good": false
   },
   {
+   "text": "‘Were we too Maga or not Maga enough?’: Republicans reckon with Arizona wipeout",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Reclaiming Mary Cassatt: putting overlooked American artist back at heart of impressionism",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The 14 best men’s boots for winter, from chelseas and lace-ups to wellies",
+   "text": "Tuchel hails England’s statement win over Spain as ‘complete performance’",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From Fjord to U2: your complete entertainment guide to the week ahead",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Five Great Reads: Sleep paralysis, parakeets and problematic laundry",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From Cunk on Cinema to Prima Facie: the week in rave reviews",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Rugby League World Cup finals, ATP and WTA tennis, plus WSL – follow with us",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "WTA Finals final: Elina Svitolina v Mirra Andreeva – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "Scotland hold off late Australia rally to secure narrow victory",
@@ -350,9 +326,117 @@
    "good": false
   },
   {
+   "text": "Mirra Andreeva holds nerve against Svitolina to win WTA Finals for first time",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Banton’s century leads England to emphatic win in second ODI amid Australian soap opera",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
    "text": "Climate crisis gave Cheltenham a major headache – and more pain is coming",
    "source": "Guardian",
    "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Emotional Rory McIlroy dedicates record-equalling eighth Race to Dubai title to father",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Record-breaking Andy Robertson is Scotland’s finest captain",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russell Brand's wife Laura reads message from rapist comedian on their Sunday Service podcast: 'As you know, I am not guilty for the offences I have been jailed for, so something strange is happening'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "British favourite Maldon Sea Salt uses German rock salt despite claims it's 100 per cent from Essex",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Moment speeding BMW fleeing police smashes into car killing innocent man and woman in their 20s is caught on CCTV: Four arrested",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Half of civil servants at several Whitehall departments admit using AI to save time at work as Andy Burnham faces fresh questions over speechwriter using it to help craft keynote speech",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Met Office issues 12-hour snow alert: Yellow weather warnings in place as 'cold Arctic air mass' rolls through - and temperatures could plummet to -8C",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Peter Phillips finally finds his feet at 49: King's nephew endured turbulent years amid divorce, questions over his business dealings and tension with William - but his marriage has heralded a new era",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Architect of Labour's plan to tackle youth inactivity admits it will take 10 years to make savings",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Bob spent years struggling to breathe and had to use his asthma inhaler eight times a day. Now he only uses it twice a YEAR... and it's thanks to this simple, non-surgical routine",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The 45p supplement that ended my cravings for wine and chocolate - and reduced my waist size in just weeks. Most people have never heard of it, but now I don't need to take Mounjaro... and it even lowers cholesterol",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Labour's trade union backers revolt against Andy Burnham's push to rejoin the EU, telling PM: 'We can't go back'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The BEST hospitals in Britain to get treatment revealed: Daily Mail analysis shows where you'll get the quickest care... and where you're most likely to have your operation cancelled",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "We're quitting buy-to-let as we can't make a profit: Everything landlords have to pay, from tax to fixing flats trashed by tenants",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "DANIEL HANNAN: The real reason Burnham and his Remainer ministers want an EU reset? They just want to wipe the grin from Nigel Farage's face",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -368,12 +452,6 @@
    "good": false
   },
   {
-   "text": "Police launch criminal probe into David Walliams as victims come forward accusing him of sexual misconduct",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Lioness kills 19-year-old after it was let out of its cage for TikTok video",
    "source": "Mail",
    "sev": 4,
@@ -386,39 +464,15 @@
    "good": false
   },
   {
-   "text": "Labour's 'crushing' tax hikes worth £85BILLION a year - after Healey's Budget added another £7.5bn to burden",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Reform UK sees vote shares plunge in council by-elections as Nigel Farage's struggles mount",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Hamas chief's bodyguard 'plotted massacres on Jews in Europe' from terraced home in Birmingham after he was given asylum",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Jo Whiley reveals message Russell Brand wrote to her calling her a MILF makes her 'shudder' in the wake of his rape and sexual assault conviction as she says she 'cried' for his victims",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "Will Russell Brand end up at 'Monster Mansion' jail?: Rapist could face transfer to notorious HMP Wakefield where paedophile singer Ian Watkins was stabbed to death",
    "source": "Mail",
    "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Russell Brand's ex-girlfriend says he sexually assaulted her and made her brush her teeth until her mouth bled because he 'wanted her to taste anonymous'",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
@@ -431,12 +485,6 @@
    "text": "Matt Lucas is seen for first time since sex misconduct claims against his Little Britain co-star David Walliams emerged after he lost injunction bid",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "SAS soldiers being placed 'in real danger' by war crime inquiries in the courts, senior officers warn, saying hostile states and terrorists are exploiting legal proceedings to 'weaken' special forces",
-   "source": "Mail",
-   "sev": 5,
    "good": false
   },
   {
@@ -458,18 +506,6 @@
    "good": false
   },
   {
-   "text": "Disgraced politician Jeffrey Donaldson's wife placed on sex offenders' register for 'aiding and abetting' paedophile husband",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "'I'm just a piece of s***': Insiders 'reveal Jensen Huang's final hours as Nvidia CEO - 'he started saying he didn't care''",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Isn't He Lovely: Stevie Wonder shocks Stalybridge cafe staff after popping in for seafood meal after gig - and leaving £1,000 tip!",
    "source": "Mail",
    "sev": 1,
@@ -479,12 +515,6 @@
    "text": "Is THIS the best 'Christmas' ad? How a low-budget Scottish travel agent's advert went viral with fans hailing it 'better than John Lewis'",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Is Burnham cooling on his dream of rejoining the EU? PM says 'reset' deal could be 'Brexit people voted for' - as he prepares for concessions at summit",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
@@ -507,30 +537,6 @@
   },
   {
    "text": "Fraudster who tricked more than 20 victims into handing over luxury watches, gold and jewellery in £2million scam is jailed for 12 years",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Italy's three biggest mafia clans form 'Hydra' alliance",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "More than 12,000 households will be wrongly hit with 'mansion tax' demands for thousands of pounds, officials admit",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Muslim officer accused of making 'racist comments about white people' in police WhatsApp group as major Met probe sees 22 on restricted duties",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "First person in nearly 60 years is killed by steam engine as locomotive hits them on its way to pick up passengers for Remembrance Day trip",
    "source": "Mail",
    "sev": 3,
    "good": false
