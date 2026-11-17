@@ -1,14 +1,26 @@
 {
- "updated": "2026-11-16T17:21:09.932Z",
+ "updated": "2026-11-17T01:00:05.589Z",
  "headlines": [
   {
-   "text": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+   "text": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The young people caught up in Britain's Neets crisis",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+   "text": "Robert Pattinson to replace Daniel Craig as James Bond",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Cass report author says she does not support draft conversion practices bill",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -20,9 +32,9 @@
    "good": false
   },
   {
-   "text": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+   "text": "Forensic expert says his analysis of autopsy photos suggests Epstein was killed",
    "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
@@ -32,9 +44,21 @@
    "good": false
   },
   {
-   "text": "Watch: Street cricket and metro ride as Prince and Princess of Wales visit India",
+   "text": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "UK lost more than it gained from Brexit, Burnham says ahead of EU summit",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -44,25 +68,19 @@
    "good": false
   },
   {
-   "text": "Yellow weather warnings issued for snow as temperatures plummet",
+   "text": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Barristers must stop using rape myths in trials, justice secretary says",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
+   "text": "Children dropping out of school: What can politicians do about it?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Women's criminal records wiped for abortion offences",
+   "text": "We couldn't afford a house alone, so we bought one with strangers",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -74,9 +92,15 @@
    "good": false
   },
   {
-   "text": "Russia's mega-rich are already imagining a future after Putin",
+   "text": "Street cricket with a legend then metro ride as William and Kate begin India visit",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -86,55 +110,25 @@
    "good": false
   },
   {
-   "text": "'I'd throw up in the car park': How school anxiety is harming children's futures",
+   "text": "Emma Barnett to leave Radio 4's Today for new BBC show",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Has Trafford replaced Pickford as England No 1?",
+   "text": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "text": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Gérard Depardieu drops appeal against sexual assault conviction",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Man sentenced for attempted murder of three children that sparked Dublin riots",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "GTA 6 hacker pleads guilty after release from secure hospital",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Town rebuilt after devastating floods becomes showcase for Libyan strongman's rule",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Miliband says he won't resign if government approves Rosebank oil field",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -146,7 +140,19 @@
    "good": false
   },
   {
-   "text": "Could The Russell Brand Case Change The Age Of Consent?",
+   "text": "The Name's Milburn...Alan Milburn",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What's the story with Scotland boss Pocognoli - is it time to go?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Pocognoli wants patience but Scotland 'don't have time' says Robertson",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -158,26 +164,26 @@
    "good": false
   },
   {
-   "text": "Cap fits as Robertson poised to take King Kenny's crown",
+   "text": "Littler hits triple-bull, but Price checkout doesn't add up",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Klopp says Infantino worse than Blatter",
+   "text": "Has Trafford replaced Pickford as England No 1?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Ratcliffe's Ineos settles £180m boat claim with Ainslie",
+   "text": "Five-try Joseph set to start for England against All Blacks",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Alcaraz 'best I've felt' in statement start at ATP Finals",
-   "source": "BBC",
+   "text": "Milburn’s historic report on Britain’s lost generation says one key thing: finally, young lives will really matter | Polly Toynbee",
+   "source": "Guardian",
    "sev": 1,
    "good": false
   },
@@ -188,13 +194,19 @@
    "good": false
   },
   {
-   "text": "‘I saw a picture of a two-year-old girl buried in mud. I knew we had to do something’ – This is climate breakdown",
+   "text": "Miliband plays warm-up man for Burnham’s big Brexit speech | John Crace",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "‘I have to sell my bum on OnlyFans to go on tour’: Kate Nash on fame, feminism and fighting the music business",
+   "text": "How Milburn won over Labour on tackling rising youth unemployment",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Killer tunes: how Grand Theft Auto conquered the music world",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -206,13 +218,13 @@
    "good": false
   },
   {
-   "text": "The pet I’ll never forget: Mr Baxter, who ate our belongings – and broke our hearts",
+   "text": "Police ‘retreating from streets’ due to major funding crisis, chief constables say",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "European football body’s plan to go global leaves Fifa on tenterhooks",
+   "text": "Alan Milburn urges Burnham to spend billions on ‘new deal’ for young people",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -224,9 +236,9 @@
    "good": false
   },
   {
-   "text": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
+   "text": "Refused UK asylum seekers to lose five-day grace period and face immediate removal",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -236,43 +248,37 @@
    "good": false
   },
   {
-   "text": "Xi, Trump and Putin to discuss ‘world peace’ at trilateral, says China",
+   "text": "Woman accusing David Walliams of grooming her backs staggered age of consent call",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Two charged after man run over by van during flags incident in Birmingham",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Ukraine hits Kerch bridge between Russia and occupied Crimea",
+   "text": "Leave.EU and Vote Leave veterans launch rival campaigns to defend Brexit",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "‘Visceral response’: flag campaigns inspire anti-racism organising across England",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Beckham firm sues after fragrance found for sale in Poundland",
+   "text": "Emma Barnett steps down from BBC Radio 4’s Today programme",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Mushroom lovers in UK told to avoid grow kits owing to invasive species risk",
+   "text": "‘Let the aid in’: Deadly winter approaches in Gaza - The Latest",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "‘These men feel protected’: how Mexico’s first femicide squad is turning the tide on record killings",
+   "text": "Will Burnham put ‘brake’ on push to rejoin EU? | Politics Weekly",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -290,19 +296,31 @@
    "good": false
   },
   {
+   "text": "‘I saw a picture of a two-year-old girl buried in mud. I knew we had to do something’ – This is climate breakdown",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Controversial efforts to suck carbon from atmosphere championed at UN climate talks",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Cop31 summit spells out stark warnings for athletes and sport organisations",
+   "text": "I Am Helen review – Nicola Coughlan is absolutely superb in this terrifying must-watch",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Killer tunes: how Grand Theft Auto conquered the music world",
+   "text": "Young, British and Tradwife review – TV this frustrating should come with a blood pressure warning",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Glenn Close cries! John Malkovich weeps! But it’s Nathan Fielder everyone wants to talk to at the honorary Oscars",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -326,27 +344,9 @@
    "good": false
   },
   {
-   "text": "Quel head trip! Failed postcards, scrapping poets and germ-ridden film rock Paris Photo – review",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Miaow! What your cat is really trying to tell you",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Ma Wee Tin O’Shortbreid: a journey in search of the real Highlands",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Hero, villain or victim: why are refugees so rarely seen now as fully human? | Zoe Williams",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
@@ -356,21 +356,39 @@
    "good": false
   },
   {
-   "text": "The hill I will die on: There is only one acceptable occasion on which to ghost someone – when you die | Temi Wilkey",
+   "text": "Anthropic recognises the risks to humanity – but is its governance really up to the job? | Nils Pratley",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Moment a bus-load of scantily clad young women descend on Leonardo DiCaprio's 52nd birthday party as A-listers mingle with Love Island stars",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
-  },
-  {
    "text": "Trump says Nvidia ex-CEO Jensen Huang should be reinstated after Chinese spy honeypot scandal: 'That's a beautiful woman'",
    "source": "Mail",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "James Bond's identity is FINALLY confirmed as Robert Pattinson after weeks of casting rumours - as star calls 007 role 'the honour of a lifetime'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Gypsy Rose Blanchard's ex Ken Urker's cause of death revealed... after ex-con denied he died by suicide",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Lindsay Clancy will face first-degree murder charges again in new trial for her three children's deaths",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Eye-watering eleven-figure sum Jensen Huang's wife could get if she divorces husband over Nvidia cheating scandal",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -380,16 +398,28 @@
    "good": false
   },
   {
+   "text": "Burnham declares war on Brexit: PM scrambles to justify concessions in new EU deal - but claims he is 'drawing a line' under bitter debate",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "James Blunt says it's 'deeply troubling' to be rumoured to be the singer who actress Hayden Panettiere was put into bed with aged 18",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Family of suicidal British woman who flew to America to be murdered by a man she met in a fetish chatroom say they are 'nervous' as trial begins today",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "James Bond's identity is FINALLY confirmed as Robert Pattinson after weeks of casting rumours - as star calls 007 role 'the honour of a lifetime'",
+   "text": "Moment a bus-load of scantily clad young women descend on Leonardo DiCaprio's 52nd birthday party as A-listers mingle with Love Island stars",
    "source": "Mail",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
    "text": "17 miles long and 392 metres deep: The world's longest underwater road tunnel is being built by Norway - here's what it will look like",
@@ -410,12 +440,6 @@
    "good": false
   },
   {
-   "text": "Lindsay Clancy will face first-degree murder charges again in new trial for her three children's deaths",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
    "text": "Prince William and Harry's former nanny Jessie Webb who came out of retirement to help care for George as a baby, dies aged 84",
    "source": "Mail",
    "sev": 3,
@@ -428,33 +452,15 @@
    "good": false
   },
   {
-   "text": "James Blunt says it's 'deeply troubling' to be rumoured to be the singer who actress Hayden Panettiere was put into bed with aged 18",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "The fertility clinics helping women become mothers in their 50s and even 60s: Experts reveal the hidden risks - and why some want the practice outlawed, as GB News presenter Renee Hoenderkamp announces she's expecting at 59",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Gypsy Rose Blanchard's ex Ken Urker's cause of death revealed... after ex-con denied he died by suicide",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Prince Harry event clashes with brother William's Earthshot prize for FIFTH year in a row as he makes surprise Ukraine visit",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Eye-watering eleven-figure sum Jensen Huang's wife could get if she divorces husband over Nvidia cheating scandal",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
@@ -531,12 +537,6 @@
   },
   {
    "text": "David Beckham kicks up a £30million stink after finding his perfume for sale in Poundland",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From Skyfall to pricefall: Millionaire James Bond superfan slashes cost of his £2.25million 007-themed mansion",
    "source": "Mail",
    "sev": 1,
    "good": false
