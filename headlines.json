@@ -1,16 +1,34 @@
 {
- "updated": "2026-11-17T18:24:42.852Z",
+ "updated": "2026-11-18T01:13:01.695Z",
  "headlines": [
   {
-   "text": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+   "text": "Government backs welfare shake-up to prevent 'lost generation'",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "'It's hard to keep going': Neets speak to BBC about struggling to get a job",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+   "text": "Nvidia says it won't reinstate Huang as firm reports bumper results",
    "source": "BBC",
    "sev": 1,
+   "good": true
+  },
+  {
+   "text": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The EU that Burnham is eyeing up is very different to the one Britain left",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -20,49 +38,31 @@
    "good": false
   },
   {
-   "text": "BBC reports from Kyiv bridge hit by Russian attack",
+   "text": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Rooney says he considered taking his own life at Man Utd",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "How Met failed to stop rape-unit detective who abused women",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "UK sanctions firms over Israeli West Bank settlements",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Woman who accuses Russell Brand of rape says prison message 'upsetting'",
+   "text": "Government risks missing climate targets if EV rules weakened, adviser warns",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Channel 4 admits it doesn't know number of Married At First Sight UK sex abuse complaints",
+   "text": "Largest British study to check social media ban's effect on youth mental health",
    "source": "BBC",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Henry Nowak killer applies to appeal against conviction",
+   "text": "Thomas Markle charged over child sex abuse material in Philippines",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "US National Security Agency's classified internal network reportedly goes offline",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -110,55 +110,55 @@
    "good": false
   },
   {
-   "text": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+   "text": "'Everyone's talking about it' - GTA 6 generates huge hype ahead of release",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Will President Trump meet Kim Jong Un in China?",
+   "text": "Who to watch in Spain's election race",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+   "text": "Voy at-home test kit adverts banned over low testosterone claims",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Speed camera fault may have allowed drivers to escape fines",
+   "text": "William and Kate celebrate Earthshot Prize winners in Mumbai",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Hunger Games prequel splits opinion: 'Surreally awful' or 'surprisingly strong'",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "British Airways plane veers off Heathrow taxiway",
+   "text": "Henry Nowak killer applies to appeal against conviction",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Ex-Reform Wales leader Dan Thomas faces no further police action after assault arrest",
+   "text": "UK sanctions firms over Israeli West Bank settlements",
    "source": "BBC",
-   "sev": 5,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Brad Pitt and Florence Pugh pitch for James Bond villain role",
+   "text": "Protest against talk by academic who made Arday plagiarism claim",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Tiger Woods set to return next month after two years out",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "US loses measles elimination status after 26 years amid record case numbers",
+   "text": "Church of England should protect 'every belief', King says",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -176,97 +176,19 @@
    "good": false
   },
   {
-   "text": "South Africa head coach Erasmus banned for six matches",
+   "text": "Belief and bench help Northern Ireland scale new heights as promotion secured",
    "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
-   "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Our climate experts Ajit Niranjan and Fiona Harvey answer your questions on Cop31 – live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "They’re one of the UK’s greatest cult bands – who swore they’d never reunite. What brought Life Without Buildings back together?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "A heretical outrage: why Italians disown spaghetti bolognese",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The 45 best Secret Santa gifts in the UK for £15 or less – tried and tested for 2026",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Ministers vow to create new welfare system for young people as they back Milburn report",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Andy Burnham delays taking stock of UK’s relationship with EU",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "‘Chloe’s policy’ aims to prevent repeat of case of Treasury worker who took her own life",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Master manipulator’ police officer should not be released early from UK prison, says ex-partner",
+   "text": "A potato war has been simmering for decades between the US and Japan. It’s about to reach boiling point",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Wayne Rooney says he contemplated taking own life during playing career",
+   "text": "Would more hands-on dads create a more peaceful world? This pioneering scientist thinks so",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -278,15 +200,87 @@
    "good": false
   },
   {
+   "text": "Milburn’s absurdly ambitious report offers blueprint for fixing everything and everyone",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Neet ideas: what’s in Alan Milburn’s report on young people not in education, employment or training?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The 45 best Secret Santa gifts in the UK for £15 or less – tried and tested for 2026",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "New UK-EU youth mobility scheme may not fully launch until 2030",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Shabana Mahmood to launch fast-track training to improve police leadership",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Man armed with axe accused of destroying US military plane at Shannon airport in Ireland",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "‘They learn the job doing the job’: the project helping UK’s Neets into work",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "What is the polar vortex, why has it flipped and will it bring the UK snow?",
+   "text": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -308,13 +302,25 @@
    "good": false
   },
   {
+   "text": "The Last Spy review – a riveting tale of CIA meddling, espionage gossip and Blue Nun wine",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "A heretical outrage: why Italians disown spaghetti bolognese",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "The Hunger Games: Sunrise on the Reaping review – surreally awful prequel to the Katniss Everdeen era",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Help! Why does my apple pie always have a soggy base? | Kitchen aide",
+   "text": "They’re one of the UK’s greatest cult bands – who swore they’d never reunite. What brought Life Without Buildings back together?",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -326,19 +332,13 @@
    "good": false
   },
   {
-   "text": "The play that changed my life: ‘John Berger’s Pig Earth became something magical – they licked milk off bodies’",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Is Robert Pattinson the right choice for James Bond? - The Latest",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Nothing they said made sense’: down the rabbit hole with Britain’s sovereign citizens",
+   "text": "Will the Milburn review come good or go south? Either way, we’ll always have Eurovision",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -362,15 +362,27 @@
    "good": false
   },
   {
-   "text": "'He still thinks he's a celeb': Fury grows as probe is launched into Russell Brand's YouTube video from cushy jail",
+   "text": "MAGA influencer's German banker boyfriend found guilty of hurling racist abuse at two sisters in London and threatening to spray Lynx on them after his partner tripped over their pushchair",
    "source": "Mail",
-   "sev": 3,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Russell Brand's cushy new jail where children could find sexual predators OUTSIDE the prison walls",
+   "text": "Katy Perry, Lindsay Lohan and Ralph Fiennes weigh in on Robert Pattinson becoming James Bond... as the oldest living 007 breaks silence",
    "source": "Mail",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Moment sister of British woman weeps as she speaks at murder trial: Court hears how sibling was lured to US by predatory sadist who became her 'executioner'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Massive cyberattack hits 178 of world's biggest companies as hackers target customers' money and credit card details",
+   "source": "Mail",
+   "sev": 1,
    "good": false
   },
   {
@@ -380,9 +392,45 @@
    "good": false
   },
   {
-   "text": "MAGA influencer's German banker boyfriend found guilty of hurling racist abuse at two sisters in London and threatening to spray Lynx on them after his partner tripped over their pushchair",
+   "text": "Moment shoppers battle for bottled water with sales up 67% after 'Be Ready' campaign launch",
    "source": "Mail",
-   "sev": 4,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "AJ Odudu shares her heartbreak at becoming the earliest I'm A Celeb exit in show history and says 'I didn't even get to see my hammock!'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Ranulph Fiennes 'lit up' after friends were finally allowed to visit him",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "I'm a Celeb suffers lowest launch ratings in show history as ITV's star-studded series slumps to just 4.8m viewers",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "British Airways Dreamliner gets stuck in the mud at Heathrow after it veers off taxiway moments before take-off",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'He still thinks he's a celeb': Fury grows as probe is launched into Russell Brand's YouTube video from cushy jail",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Russell Brand's cushy new jail where children could find sexual predators OUTSIDE the prison walls",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -398,21 +446,9 @@
    "good": false
   },
   {
-   "text": "'Oh god, I feel so sick, why am I here?': British woman's words as she left for Florida after being lured by predatory sadist who became her 'executioner', his murder trial is told",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "My sickening encounter with rapist Russell Brand: How he told me he wanted a baby with me - and my sister - six months after his wedding to Katy Perry: JONICA BRAY",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Massive cyberattack hits 178 of world's biggest companies as hackers target customers' money and credit card details",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
@@ -440,12 +476,6 @@
    "good": false
   },
   {
-   "text": "British Airways Dreamliner gets stuck in the mud at Heathrow after it veers off taxiway moments before take-off",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Russian oligarch's ex-wife will demand £600million to meet her 'reasonable needs' as Britain's biggest ever divorce trial finally begins in London",
    "source": "Mail",
    "sev": 2,
@@ -453,18 +483,6 @@
   },
   {
    "text": "Wayne Rooney reveals how two-day binge drinking sessions while at Man United left him considering suicide as he hit 'rock bottom' and risked pushing away wife Coleen",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "I'm a Celeb suffers lowest launch ratings in show history as ITV's star-studded series slumps to just 4.8m viewers",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Ranulph Fiennes 'lit up' after friends were finally allowed to visit him",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -483,12 +501,6 @@
   },
   {
    "text": "As last minute screeching U-turn saw 'too famous to be Bond' Robert Pattinson land the role of his dreams, ALISON BOSHOFF reveals inside story of race to be 007 - and why his rivals were fed to the sharks",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Moment shoppers battle for bottled water with sales up 67% after 'Be Ready' campaign launch",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -525,18 +537,6 @@
   },
   {
    "text": "Baroness Cass says she can't back Labour's 'chilling' trans conversion law",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Motorists in Oxfordshire could be banned from parking on pavements as Lib Dem council plans crackdown on 'selfish' drivers",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Castrated for 'disgusting acts': The untold story of this former police officer whose crimes are so vile he's suffering an eye-watering fate",
    "source": "Mail",
    "sev": 2,
    "good": false
