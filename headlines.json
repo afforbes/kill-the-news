@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:56:20.479Z",
+ "updated": "2026-11-19T00:11:43.574Z",
  "headlines": [
   {
    "text": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
@@ -14,40 +14,34 @@
    "good": false
   },
   {
-   "text": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+   "text": "Claude-maker Anthropic poised for $1.4tn stock market debut",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "text": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+   "text": "Crew unaware of risks before Bayesian yacht accident, say investigators",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Police investigate death of boy, 3, after nursery incident",
+   "text": "Prince Harry says he would rejoin army as he warns of Russia threat",
    "source": "BBC",
-   "sev": 4,
+   "sev": 3,
    "good": false
-  },
-  {
-   "text": "Council wins legal fight over flags on lamp-posts",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Gamers react as New Zealand first to see Grand Theft Auto 6",
@@ -56,21 +50,21 @@
    "good": false
   },
   {
-   "text": "Test cricket's sandpaper plot - who was there, who said what?",
+   "text": "William and Kate meet PM Modi as they wrap up India tour",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Minister criticises media for 'amplifying' Russell Brand's prison message",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-   "source": "BBC",
-   "sev": 4,
    "good": false
   },
   {
@@ -86,33 +80,21 @@
    "good": false
   },
   {
+   "text": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Test cricket's sandpaper plot - who was there, who said what?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "New video shows explosions moments before part of Crimea Bridge collapses",
    "source": "BBC",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "What's behind the recent flurry of global tech outages?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The tightest Premier League survival scrap for years? Why it's not too early to worry",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "George thought his funeral was paid for – but now his wife will get nothing when he dies",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "What's gone wrong at Britain's worst bathing site?",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -122,27 +104,27 @@
    "good": false
   },
   {
-   "text": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
+   "text": "Police investigate death of boy, 3, after nursery incident",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "BBL practitioner 'unbothered' when woman collapsed",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+   "text": "Council wins legal fight against flags on lamp-posts",
    "source": "BBC",
    "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Regulator mistakenly sent complaints about doctors to newspaper",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Brain cancer patients demand public inquiry into chemotherapy scandal",
+   "text": "TfL photocard breach exposes 265,000 customers",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
@@ -176,19 +158,115 @@
    "good": false
   },
   {
-   "text": "Joint-record six referee errors in last Premier League weekend",
+   "text": "FA explored legal challenge to Infantino staying on",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Definitely one of the best games I’ve ever played’: our games editor answered your GTA VI questions",
+   "text": "Littler shocked by brilliant Wattimena at Grand Slam",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "I jumped from a plane at 12,000ft. In mid-air, a friend’s knee collided into my neck",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Nicola Coughlan on her favourite noodles, getting rejected from drama school and I Am Helen",
+   "text": "Guarding Stars review – Leighton Meester is a delight in fizzy Netflix holiday romance",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Kemi and Andy put another nail in the coffin of his consensus politics | John Crace",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Quechua rapper and an artistic movement reclaiming language of the Incas",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘I hope paramedics are on standby for the sex scenes!’ The wet and wild TV experience leaving fans dizzy",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "The reboot of poor Jensen Huang almost worked. But who can explain away 30 leather jackets? | Emma Brockes",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Russian national charged with spying on Silicon Valley tech and defense firm",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "UK ministers reportedly ask Google to block Russell Brand’s YouTube account",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Leaseholders in England and Wales to have ground rent capped in 2028",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Anthropic sets share price at $83 for stock market debut, above expected range",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Florence Pugh speaks out against ‘disturbing’ cosmetic surgery speculation",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How Ukraine landed a blow to Putin’s prized bridge - The Latest",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "The leave campaign has been resurrected, so how should Burnham respond?",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -200,91 +278,7 @@
    "good": true
   },
   {
-   "text": "Get vaccinated, don’t vape – and moisturise liberally! 10 doctors on how to avoid and treat winter ailments",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Worst decision in cinema history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘In the end, nothing happened’: how Reform’s Doge-style crackdown fell flat",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Cancer patients at NHS trust harmed by years of unnecessary chemotherapy, report finds",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Traces of filler found in heart and brain of woman who died after cosmetic procedure, UK inquest hears",
-   "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Bacterial toxin produced by E coli leading suspect in rise in bowel cancer among under-50s",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Israel delays building contracts for West Bank settlement after UK sanctions",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Joanna Page says ‘inappropriate’ male actor whispered ‘awful stuff’ to her",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "New pro-Brexit campaign took Westminster by surprise, but it is relying on the same old playbook",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Who speaks for Europe abroad? Not its top diplomat",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "World ‘held hostage by oil mafia’ says Panama minister at Cop 31",
+   "text": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
    "source": "Guardian",
    "sev": 4,
    "good": false
@@ -314,31 +308,13 @@
    "good": false
   },
   {
-   "text": "I jumped from a plane at 12,000ft. In mid-air, a friend’s knee collided into my neck",
+   "text": "‘Worst decision in cinema history’: Guardian readers shaken and stirred by the casting of Robert Pattinson as Bond",
    "source": "Guardian",
    "sev": 1,
    "good": false
-  },
-  {
-   "text": "‘I hope paramedics are on standby for the sex scenes!’ The wet and wild TV experience leaving fans dizzy",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
   },
   {
    "text": "Bloomscrolling: the uplifting new way to waste your own time",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Kelly Gough is simply astounding as Desire Under the Elms reaches the heights of Greek tragedy",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The Quechua rapper and an artistic movement reclaiming language of the Incas",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -350,7 +326,7 @@
    "good": false
   },
   {
-   "text": "Kemi and Andy put another nail in the coffin of his consensus politics | John Crace",
+   "text": "Nicola Coughlan on her favourite noodles, getting rejected from drama school and I Am Helen",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -358,6 +334,54 @@
   {
    "text": "Childhood neglect, unmet needs, mental health struggles: this is the making of a Neet | Mark Mon-Williams",
    "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Instant gratification is ruining our lives – and for me it started with my CD player’s shuffle button | Adrian Chiles",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "We made GTA 6, the world’s biggest video game – we should have working conditions to match | Nestor Uriarte",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'He isn't finding any savings for 10 years!' Kemi Badenoch roasts Burnham over 'vibes' NEETs plan as she brands Labour 'the welfare party'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Meghan's £112 Advent calendar? The chocolates are bland, the sprinkles are missing and where's the jolly Christmas cheer, asks JAN MOIR",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Newly released Jeffrey Epstein autopsy photos that show grim images of his neck prove he was strangled, says top forensic investigator",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Nursery bosses 'heartbroken' after boy, three, dies following hospital dash - as police launch investigation",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Moment two Afghan migrants walk through carriage while taking turns to rape and sexually assault autistic girl, 14, on commuter train",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Demolition begins on seaside home teetering on cliff edge before it topples into the sea",
+   "source": "Mail",
    "sev": 1,
    "good": false
   },
@@ -380,18 +404,6 @@
    "good": false
   },
   {
-   "text": "Moment two Afghan migrants walk through carriage while taking turns to rape and sexually assault autistic girl, 14, on commuter train",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Nursery bosses 'heartbroken' after boy, three, dies following hospital dash - as police launch investigation",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "Kate's glamorous night with Bollywood royalty: How Prince and Princess of Wales mingled with India's biggest movie stars and billionaire families at star-studded Earthshot Prize awards",
    "source": "Mail",
    "sev": 1,
@@ -410,12 +422,6 @@
    "good": false
   },
   {
-   "text": "Demolition begins on seaside home teetering on cliff edge before it topples into the sea",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Robert Pattinson received $1 million just to audition for coveted Bond role and is set to earn almost $100 million to play the iconic Secret Service agent",
    "source": "Mail",
    "sev": 1,
@@ -423,18 +429,6 @@
   },
   {
    "text": "Russell Brand faces ban on speaking to his wife from cushy jail after protesting his innocence in message she read out on YouTube",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Meghan's £112 Advent calendar? The chocolates are bland, the sprinkles are missing and where's the jolly Christmas cheer, asks JAN MOIR",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'He isn't finding any savings for 10 years!' Kemi Badenoch roasts Burnham over 'vibes' NEETs plan as she brands Labour 'the welfare party'",
    "source": "Mail",
    "sev": 2,
    "good": false
@@ -473,12 +467,6 @@
    "text": "British hacker 'behind M&S and Co-op cyber attacks' is jailed for six years after admitting stealing nearly £9m in crypto from US firms",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Newly released Jeffrey Epstein autopsy photos that show grim images of his neck prove he was strangled, says top forensic investigator",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
