@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-19T17:15:59.488Z",
+ "updated": "2026-11-19T23:44:57.807Z",
  "headlines": [
   {
-   "text": "Men guilty of abusing woman drugged and advertised for sex by husband",
+   "text": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'You can be believed and understood': Joanne Young speaks after verdict",
+   "text": "Anthropic becomes one of world's most valuable public companies in stock market debut",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "text": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
    "source": "BBC",
-   "sev": 4,
+   "sev": 3,
    "good": false
   },
   {
@@ -26,19 +26,25 @@
    "good": false
   },
   {
-   "text": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "text": "Watch: What did Trump, Xi and Putin get out of their historic meeting?",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
+   "text": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "William and Catherine's India tour was 'particularly special', aide says",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Discrimination claims by McDonald's workers can go ahead, court says",
+   "text": "EU-UK talks going down to the wire, says No 10",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -50,21 +56,21 @@
    "good": false
   },
   {
-   "text": "Cleverly to run as Tory London mayor candidate",
+   "text": "Dutch watchdog tells people not to buy AI smart glasses",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Timetable set out for dismantling leasehold system in England and Wales",
+   "text": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Florence Pugh hits out at weight loss and cosmetic surgery speculation",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "EU-UK talks going down to the wire, says No 10",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -80,6 +86,12 @@
    "good": false
   },
   {
+   "text": "Anthony Zurcher: Trilateral summit high on spectacle, short on substance",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "The Brexit debate is back – and there are nerves about what happens next",
    "source": "BBC",
    "sev": 2,
@@ -92,9 +104,9 @@
    "good": false
   },
   {
-   "text": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "text": "England fined for fans' anti-Catholic chants in Spain",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -104,21 +116,15 @@
    "good": true
   },
   {
-   "text": "Dutch watchdog tells people not to buy AI smart glasses",
+   "text": "Faults not fixed in 90% of homes in government insulation scheme",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Watch: Moment Van Gogh painting sells for record $190.4m (£144.8m)",
+   "text": "Cleverly to run as Tory London mayor candidate",
    "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "UK to provide Ukraine with 1,000 long-range strike drones",
-   "source": "BBC",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -128,7 +134,7 @@
    "good": false
   },
   {
-   "text": "Badenoch defends amputee marathon runners claim in benefits cut row",
+   "text": "Discrimination claims by McDonald's workers can go ahead, court says",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -164,19 +170,13 @@
    "good": false
   },
   {
-   "text": "Cummins' Australia captaincy at a crossroads - Agnew",
+   "text": "Pochettino's first Man Utd training session filmed by drone operator",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Premier League clubs to cover legal costs if Man City sponsors sue",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Furbank leads returning England trio for All Blacks visit",
+   "text": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -188,10 +188,28 @@
    "good": false
   },
   {
-   "text": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+   "text": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
+  },
+  {
+   "text": "The best and worst Bond films: ranked by critics and box office",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The Further Mis-Adventures of Cliff Booth review – Tarantino and Fincher join forces for Brad Pitt’s glorious return",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "You Can See Everything review – unblinking, unhinged and unmissable",
@@ -200,31 +218,31 @@
    "good": false
   },
   {
-   "text": "The Altruists review – two of TV’s best actors light up this chaotic crypto tale",
+   "text": "Woman raped by strangers after being drugged by husband calls for consent law changes",
    "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Nothing but highlights: is Power Slap the sport we deserve?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Want to shop more sustainably this Black Friday? The best UK deals on eco-friendly products we love",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Four UK men convicted of sexual assault and rape of drugged woman at invitation of husband",
-   "source": "Guardian",
-   "sev": 4,
+   "sev": 3,
    "good": false
   },
   {
    "text": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Prison authorities consider whether Russell Brand harassed victims with YouTube message",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -236,27 +254,9 @@
    "good": false
   },
   {
-   "text": "Anthropic valued at $2tn as shares begin trading at $111.50 each – business live",
+   "text": "Man arrested after ‘horrific’ knife attack on Bradford councillor",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Cap all political donations, not only those from overseas, Burnham told",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
-   "source": "Guardian",
-   "sev": 4,
+   "sev": 5,
    "good": false
   },
   {
@@ -266,15 +266,33 @@
    "good": false
   },
   {
-   "text": "‘Take temperature down’ over guidance on single-sex spaces, head of UK equalities body urges",
+   "text": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Troublesome trio: Trump, Xi and Putin hold historic meeting - The Latest",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
    "text": "Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years",
    "source": "Guardian",
    "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Myanmar ruling gives new relevance to genocide convention and is ‘full of messages’ for Israel",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -296,15 +314,9 @@
    "good": false
   },
   {
-   "text": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
+   "text": "Terror on Bondi Beach review – these astounding stories recreate every single second of horror",
    "source": "Guardian",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "‘I came close to killing Sally about six times’: how my abusive father was enabled by his fame",
-   "source": "Guardian",
-   "sev": 3,
+   "sev": 5,
    "good": false
   },
   {
@@ -314,25 +326,13 @@
    "good": false
   },
   {
-   "text": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
+   "text": "How to start eating plant-based, without missing out on nutrients or foods you enjoy",
    "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Nothing compares to her: Sinéad O’Connor’s 20 best songs – ranked!",
-   "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "‘In our lands the rain is made of bullets’: Palestinian artists look back in anger, melancholy and defiance",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The best early UK Black Friday deals on the products we love, from heated airers to the perfect pillow",
+   "text": "Nothing but highlights: is Power Slap the sport we deserve?",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -344,13 +344,13 @@
    "good": false
   },
   {
-   "text": "Ram through datacentres no one wants and hope the AI bubble never bursts: that’s the UK’s growth plan | George Monbiot",
+   "text": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "This year, the Greens have reshaped British politics. Now we need party systems to match that influence | Caroline Lucas",
+   "text": "It’s unfashionable to say it, but class still matters – and young people know that | Polly Toynbee",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -359,6 +359,72 @@
    "text": "Parents: please don’t buy Grand Theft Auto VI for your child",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Councillor stabbed in street while canvassing neighbourhood as man arrested for attempted murder",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Glampsite owner is locked in bitter £135,000 court fight with her neighbours after she tried to stop them parking their car in their own garden",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Claims women were trafficked by Jeffrey Epstein on the King's Balmoral estate being 'examined' by investigators, police chief confirms",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Moment 'hot tub' explodes in massive blast as neighbours say they are stunned no one was injured",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "The smile that says I just made TWENTY-SIX BILLION DOLLARS! Jack Clark, British former state school boy (and £20,000-a-year journalist) who co-founded Anthropic, celebrates as shares soar",
+   "source": "Mail",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Moment Raise the Colours campaign founder cries as he's told he's murdered pub owner in unprompted attack on bar dancefloor",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Green-run council accused of trying to 'erase' the word Christmas after unveiling a display in eight different languages for festive season",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What the Anthropic IPO means for UK investors: Your questions answered",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Marlborough College physics teacher 'took his own life after facing allegations which led to him being suspended and then fired'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'The person I trusted most in the world betrayed me in the most horrific way': Woman drugged and raped by her husband who invited five men to sexually assault her calls for new consent laws",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "As war is waged five miles up at 310mph, the Mail joins Ukraine's hero warriors on the frontline fighting to repel Putin's new superdrone",
+   "source": "Mail",
+   "sev": 4,
    "good": false
   },
   {
@@ -380,12 +446,6 @@
    "good": false
   },
   {
-   "text": "'The person I trusted most in the world betrayed me in the most horrific way': Woman drugged and raped by her husband who invited five men to sexually assault her calls for new consent laws",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
    "text": "AI boss denies causing £35,000 worth of damage after protesters splatter red paint over Legal & General office",
    "source": "Mail",
    "sev": 1,
@@ -404,45 +464,15 @@
    "good": false
   },
   {
-   "text": "Claims women were trafficked by Jeffrey Epstein on the King's Balmoral estate being 'examined' by investigators, police chief confirms",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Marlborough College physics teacher 'took his own life after facing 33 allegations which led to him being suspended and then fired'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Terrifying moment thug BLOWS UP cake shed in firework attack as stunned owner watches on",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Councillor stabbed in street while canvassing neighbourhood as man arrested for attempted murder",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "What the Anthropic IPO means for UK investors: Your questions answered",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Muslims will outnumber Christians by 2035 and see an 80% surge in population by 2070",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Moment Raise the Colours campaign founder cries as he's told he's murdered pub owner in unprompted attack on bar dancefloor",
-   "source": "Mail",
-   "sev": 4,
    "good": false
   },
   {
@@ -455,18 +485,6 @@
    "text": "James Cleverly vows to end Sadiq Khan era and restore 'pride' in London after winning battle to be Tory candidate for Mayor",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Green-run council accused of trying to 'erase' the word Christmas after unveiling a display in eight different languages for festive season",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The state school boy set to become AI's mega-billionaire: Anthropic's Jack Clark goes from £20,000-a-year journalism job to being worth $19.7BN today",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
@@ -518,27 +536,9 @@
    "good": false
   },
   {
-   "text": "Glampsite owner is locked in bitter £135,000 court fight with her neighbours after she tried to stop them parking their car in their own garden",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Moment killer driver inhales laughing gas before killing female friend, 19, in 137mph crash as he is jailed for 11 years",
    "source": "Mail",
    "sev": 6,
-   "good": false
-  },
-  {
-   "text": "The UK town where it takes 52 HOURS to download GTA VI because it has the slowest broadband in the country",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Reform's Robert Jenrick hits out at Margaret Thatcher for leaving 'deep scar' in industrial areas... despite naming his daughter after Tory ex-PM",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   }
  ]
