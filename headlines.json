@@ -1,38 +1,20 @@
 {
- "updated": "2026-11-21T23:45:05.310Z",
+ "updated": "2026-11-22T06:27:53.803Z",
  "headlines": [
   {
-   "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+   "text": "New draft deal aims to avert collapse of talks at climate summit",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "May warns Burnham 'Brexit is done' after PM's EU talks",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Catherine talks openly about how cancer changed her in documentary on BBC",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'We're not meant to carry life's challenges alone', Catherine says in first clip",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Spitting Image co-creator Peter Fluck dies aged 85",
+   "text": "How a teen gamer and his mother helped rescue a missing girl",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -44,31 +26,43 @@
    "good": true
   },
   {
-   "text": "Who will be Robert Pattinson's 'Bond girl' - and does the role need to change?",
+   "text": "Spitting Image co-creator Peter Fluck dies aged 85",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Catherine talks openly about how cancer changed her in documentary on BBC",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Employers are being asked to give interview feedback - here's what applicants want",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Can AI really help spot Black Friday deals? We put it to the test",
+   "text": "The real people finding their work copied and stolen by AI characters",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+   "text": "Kate's 'road to recovery' and 'Brave princess'",
    "source": "BBC",
-   "sev": 5,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "'I was exhausted': Two days in the shoes of a tradwife",
+   "text": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "What is the EU-UK youth experience scheme and when will it start?",
+   "text": "From pit-stops to go-to destinations: The transformation of service stations",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -80,33 +74,27 @@
    "good": false
   },
   {
-   "text": "UK should only rejoin EU if it innovates on technology, Blair warns",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Village votes to 'leave UK' over migrant plan",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "British man swims through Strait of Hormuz to highlight environmental impact of war",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Scouts say they face £1m tourist tax cost for overnight trips",
+   "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Man convicted of starting Palisades fire in Los Angeles",
+   "text": "Parents urged to spot online stalking warning signs as cases rise",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "BBC apologises for 'any offence caused' by Strictly noise disruption",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -146,6 +134,12 @@
    "good": false
   },
   {
+   "text": "Verstappen wins extraordinary race as Ferraris collide",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
    "text": "Can win over All Blacks finally break England's boom-bust cycle?",
    "source": "BBC",
    "sev": 1,
@@ -164,43 +158,43 @@
    "good": false
   },
   {
-   "text": "France secure Nations Championship final with Springboks",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Match of the Day",
+   "text": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Arsenal go six points clear after lively draw at Newcastle",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Light in the dark: 20 long books for short winter days",
+   "text": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Dress for the dancefloor – and go big on jewellery: 51 ways to look fabulous this party season",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+   "text": "The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "The moment I knew: She flew me to the scene of my favourite romantic movie",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
+   "text": "Grammy snubs and a Stevie Wonder vs Lauryn Hill showdown | The Close Up Culture Swap",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -212,7 +206,13 @@
    "good": false
   },
   {
-   "text": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
+   "text": "The moment I knew: She flew me to the scene of my favourite romantic movie",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Light in the dark: 20 long books for short winter days",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -236,13 +236,13 @@
    "good": false
   },
   {
-   "text": "Peter Fluck, caricaturist and puppeteer who co-created Spitting Image, dies aged 85",
+   "text": "Labour MPs sign up for leadership course to counter rightwing populism",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+   "text": "Police called to Strictly Come Dancing after ‘disruption’ during live show",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -254,43 +254,37 @@
    "good": true
   },
   {
-   "text": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+   "text": "Max Verstappen wins Las Vegas Grand Prix: Formula One 2026 – as it happened",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
+   "sev": 1,
+   "good": true
   },
   {
-   "text": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+   "text": "Peter Fluck, caricaturist and puppeteer who co-created Spitting Image, dies aged 85",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Consent under scrutiny: where does youth end and adulthood begin?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘No means no, however we dress and wherever we go’: 50 years of campaigning against rape",
+   "text": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
+   "text": "Hacks, AI and conspiracy theories: why are we having so many outages?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+   "text": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -320,19 +314,31 @@
    "good": false
   },
   {
-   "text": "Richard Hammond: ‘I’m much taller than you think. I’m just standing further away’",
+   "text": "Cassette, London WC2: ‘One of the greatest dishes I’ve eaten all year’ – restaurant review | Grace Dent on restaurants",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
    "text": "Deniz Tek: ‘Top Gun may have got the name of Val Kilmer’s Iceman from me’",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "‘National scandal’: residents in England rally against surge in mega-warehouse developments",
    "source": "Guardian",
    "sev": 2,
    "good": false
@@ -356,31 +362,25 @@
    "good": false
   },
   {
-   "text": "Pochettino’s fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Cancer has changed me: Kate fights back tears in the most moving royal documentary ever as she describes her pain and healing",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The closest of friends for two decades, everything Matt Lucas and David Walliams touched turned to TV gold. But then came a bitter falling out, years of estrangement and Little Britain cancelled. So what next for the man who knows Walliams best...?",
+   "text": "Thomas Markle's 'trips to Asia to meet girls' were an 'open family secret', his first former wife's son says",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'For us he is a killer': Zelensky rebukes Trump for calling Putin his 'friend' - as it's claimed Russian leader increases strikes on Ukraine after every meeting with President",
+   "text": "Clarifications and Corrections",
    "source": "Mail",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Stabbings, pickpocketing and a high street filled with chicken shops and vape stores: Why Barking is the most miserable place in Britain",
+   "text": "Miley Cyrus wedding photos: Singer, 33, tears up in elegant gown as she ties the knot with rocker Maxx Morando, 28, in stunning Palm Springs ceremony",
+   "source": "Mail",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "They say I sent too many brave Ukrainians to their deaths... but I had to do everything to stop brutal Russians, ex-commander reveals to LORD ASHCROFT",
    "source": "Mail",
    "sev": 3,
    "good": false
@@ -392,153 +392,153 @@
    "good": false
   },
   {
-   "text": "Barnham votes to leave UK: 94 per cent call to quit country in protest over plan to turn ex-RAF base into asylum seeker camp",
+   "text": "Is Meghan using ChatGPT to promote As Ever? AI detection software flags winter sale promo pic as artificially generated - as the Duchess poses in cosy clothes",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Violent fare-dodger laughed after his attack on bloodied police officer who needed stitches for gruesome wound",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Prince William to give Charlotte and Louis choice to drop titles as princess is tipped to be singer or actress",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Oscar-winning Jewish producer who received £400,000 after 'being victim of anti-Semitism at the BBC' starkly shares how her anorexia returned amid the stress she suffered",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "I know James Bond has helped make Britain's real spies the world's best, writes ex-CIA spook DAVID MCCLOSKEY",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Want to end the Neets crisis, Mr Burnham? Take a lesson from the Thatcher-era teacher who let me skip class to learn a trade, says lifelong bricklayer ANDY COLLIER",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Lucy Beaumont says she will 'never forget' the messages she has received as she makes her first TV show appearance since revealing herself as David Walliams whistleblower",
+   "text": "Pupil numbers plunge at two thirds of private schools since Labour's VAT raid, new figures show",
    "source": "Mail",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Thomas Markle is exaggerating his dementia in bid to dodge child porn trial, court psychiatrist says as his son dubs him a 'lying, no good coward'",
+   "text": "Moment EU health chief is pelted with 'ashes' by cancer survivors at cancer summit as part of pesticides protest",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Europe's worst Christmas markets, according to festive shopping expert who has visited over 100 of them",
+   "text": "Labour MPs ready to force second by-election on Nigel Farage even if Commons probe calls for lesser punishment over £5million donation",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Angela Rayner's team could probe Burnham's £600million loans deal when he was Manchester mayor",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Greedy Eurocrats accused of holding Britain to ransom 'to get cut-price courses for their children' with Brexit betrayal deal",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Top solicitor sues Fortnum & Mason for £150,000 after 'doing splits' in fall",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "MICHAEL GOVE: Burnham's EU surrender is an error of historic dimensions - and a blatant finger-flick to British voters",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Ed Miliband confirms Labour could tear up Brexit and rejoin Europe - and says Andy Burnham's new EU deal will come into force whether or not £500m fees row is resolved",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "An IOU for olive oil, a garden strimmer and more: the YOU team reveal the worst Christmas gifts they've ever received",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Albanian cocaine dealer tries to avoid deportation, telling immigration judge his girlfriend needs help with her 'ADHD and anxiety'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "LAURA TROTT: Why can't the PM put OUR young people first?",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Kemi Badenoch's Conservatives take second place in Daily Mail's poll of polls",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Girl, 15, is raped in London park as police arrest two men aged 27 and 29",
+   "text": "UK pension fears after vital tech stocks lose $4trillion in a week as Nvidia crashes in Wall Street bloodbath for industry giants",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Who do YOU want to be the next Bond girl? Cast your vote as Daisy Edgar-Jones and Sydney Sweeney's names are thrown into the mix - while Hunter Schafer could make history as the first trans leading lady",
+   "text": "Green Party hypocrite! Activist calls for end to capitalism while putting on events for fossil fuel industry",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Red-faced Labour minister corrects the record after confusing his favourite crisps with a well-known pornographic magazine",
+   "text": "Fury as senior Labour MP who authored Heathrow report is revealed as arch-critic of £49billion expansion",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "MAIL ON SUNDAY COMMENT: EU did give Burnham one thing... a lesson in ruthless skulduggery",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Honour killing horrors: The teenage girls killed by their fathers for 'shaming' their families - thrown off high building or strangled",
+   "text": "Madeleine McCann prime suspect Christian Brueckner 'confessed he killed little blonde girl' to fellow inmate",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Next takes baby sleeping bag off sale after new mother warned babies could get trapped and suffocate",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Winchester College teachers to strike for first time in £60,000-a-year school's 644-year history over bosses' investigation into staff member",
+   "text": "NIGEL FARAGE: I owe it to my three grandchildren not to let Labour suck us back into this failed 1970s pipe dream",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Man, 21, is charged after 19-year-old beautician dies trapped in Mercedes that plunged into water-filled ditch",
+   "text": "Britons' top concern is inflation despite Burnham's 'breathing room' promises amid cost-of-living crisis",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "The new migrant crisis frontline: This tiny island in the Canaries was left living in fear when 11,000 African asylum seekers arrived on 100 boats. Now many are heading to Britain...",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "How a grown man went back to his old school posing as a teen pupil - and now faces jail",
+   "text": "'Trooping the Colour' soldiers face axe as figures show elite regiments have worst records for drug use in Army",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The chilling evidence that sadist Dwain Hall may well have killed before he murdered vulnerable British music tutor Sonia Exelby - who told him: 'I can't be without you'",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Robert Pattinson humbly accepts huge congratulations after being unveiled as the new James Bond as he makes his first public appearance since the 007 news at The Odyssey screening",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Shameless Russell Brand wants to appeal his rape and sexual assault convictions as he begins 10-year stint behind bars - after sacking lawyer who exploded at journalist outside court",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Geordie Shore's Aaron Chalmers bragged he could help investors make thousands to live a lavish life like him. Now watch the shameful video that sparked his downfall - as we expose illegal actions",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Tributes paid to man in his 40s fatally electrocuted putting up Christmas lights at major London shopping centre",
+   "text": "Queen Elizabeth II's young herald is embroiled in extraordinary 'squatting' row",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Youth Strike protesters attempted to bring a France-style 'day of action' to London: ROBERT HARDMAN reveals how it actually went",
+   "text": "Himmler's plot to kidnap Bayeux Tapestry revealed by small and unexpected clue hidden among 1066 battle scenes",
    "source": "Mail",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Diehard eyepatched January 6 leader who has tattoo of Donald Trump says he's 'absolutely done' with president and calls him a 'traitor'",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Brexit Betrayal: Burnham 'will cave in' on £500million EU student ambush as Labour MP brands Ed Miliband naive",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Fourteen guards at UK's most notorious jail have relatives who are behind bars",
+   "source": "Mail",
+   "sev": 1,
    "good": false
   }
  ]
