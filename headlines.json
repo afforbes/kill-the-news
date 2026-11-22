@@ -1,40 +1,46 @@
 {
- "updated": "2026-11-22T06:27:53.803Z",
+ "updated": "2026-11-22T14:49:44.363Z",
  "headlines": [
   {
-   "text": "New draft deal aims to avert collapse of talks at climate summit",
+   "text": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
    "source": "BBC",
-   "sev": 4,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "May warns Burnham 'Brexit is done' after PM's EU talks",
+   "text": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "BBC apologises after noise disruption during Strictly",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
    "text": "How a teen gamer and his mother helped rescue a missing girl",
    "source": "BBC",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Australia hold on for narrow win against Wales",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Spitting Image co-creator Peter Fluck dies aged 85",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Catherine talks openly about how cancer changed her in documentary on BBC",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -50,12 +56,6 @@
    "good": false
   },
   {
-   "text": "Kate's 'road to recovery' and 'Brave princess'",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
    "text": "Why Nicola Coughlan's new drama might leave viewers uncomfortable",
    "source": "BBC",
    "sev": 1,
@@ -68,57 +68,63 @@
    "good": false
   },
   {
-   "text": "Russia-bound ship attacked in Gulf of Finland",
+   "text": "Russia-bound ship still on fire after attack in Gulf of Finland",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Parents urged to spot online stalking warning signs as cases rise",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "BBC apologises for 'any offence caused' by Strictly noise disruption",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "text": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "I've only sold five copies of GTA 6, says game shop owner",
+   "text": "South Korea education minister resigns over exam cheating scandal",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Widow fears losing home built by husband after support payments end",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Joanna Page says she nearly messed up Gavin and Stacey audition",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "We couldn't afford a house alone, so we bought one with strangers",
+   "text": "Baby thriving after 3D-printed model used to save her heart",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "How one teenager's alpacas are helping children with additional needs",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Freshers' flu left me deaf in both ears - I'm now helping people like me drive",
+   "text": "Why fibbing about stolen snacks is an important part of childhood",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'Real life' family ghost story inspires 'nightmarish' new TV drama",
+   "text": "Police dogs named after officers killed in crash",
    "source": "BBC",
-   "sev": 1,
+   "sev": 5,
    "good": false
   },
   {
@@ -134,31 +140,19 @@
    "good": false
   },
   {
-   "text": "Verstappen wins extraordinary race as Ferraris collide",
+   "text": "England will not get carried away by beating All Blacks",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "Can win over All Blacks finally break England's boom-bust cycle?",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Raya set to have scan on injury - how much would Arsenal miss him?",
+   "text": "Verstappen a constant amid chaos as he says Russell is 'so far below my level'",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Ireland remind themselves that the best are beatable",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Fragile' and 'miles off it' - Alonso's Chelsea honeymoon is over",
+   "text": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -182,93 +176,39 @@
    "good": false
   },
   {
-   "text": "Dress for the dancefloor – and go big on jewellery: 51 ways to look fabulous this party season",
+   "text": "Coventry beat Palace in Frank's first game after late own goal",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Grammy snubs and a Stevie Wonder vs Lauryn Hill Showdown | The Close Up Culture Swap",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The Trump-Putin alliance threatens every European country – yet gushing populists still cheer them | Steve Bloomfield",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Grammy snubs and a Stevie Wonder vs Lauryn Hill showdown | The Close Up Culture Swap",
+   "text": "‘He’s open and affable – I avoid being recognised like the plague’: Steve Coogan and Rob Brydon on celebrity, friendship and their trip to the Arctic circle",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The moment I knew: She flew me to the scene of my favourite romantic movie",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Light in the dark: 20 long books for short winter days",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Man charged with attempted murder after councillor stabbed in Bradford",
-   "source": "Guardian",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+   "text": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Labour MPs sign up for leadership course to counter rightwing populism",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Police called to Strictly Come Dancing after ‘disruption’ during live show",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Slade helps sparkling England power to record victory as All Blacks wilt again",
+   "text": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
    "source": "Guardian",
    "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Max Verstappen wins Las Vegas Grand Prix: Formula One 2026 – as it happened",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Peter Fluck, caricaturist and puppeteer who co-created Spitting Image, dies aged 85",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
-   "text": "California train burglars carefully executed heists for ‘staggering’ $22m haul",
+   "text": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -278,15 +218,63 @@
    "good": false
   },
   {
-   "text": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+   "text": "Cop31 climate talks break down as key deal rejected",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Europe is entering a ‘supercycle’ of national elections. Their outcomes could shake the EU’s foundations",
+   "text": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
    "source": "Guardian",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘Intimidating’ vigilantes posing as far-right security on the rise, UK experts say",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "CEO of funding agency for UK science and research criticised by union over cuts",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Cloned number plate victims in England and Wales to get new reporting tool",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Man who killed three during psychotic episode ‘had been released after catalogue of failures’",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Exquisitely decorated home of Victorian workman David Parr wins blue plaque",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -314,33 +302,39 @@
    "good": false
   },
   {
-   "text": "Cassette, London WC2: ‘One of the greatest dishes I’ve eaten all year’ – restaurant review | Grace Dent on restaurants",
+   "text": "Oobah Butler: Scams for a Better Tomorrow review – these audacious pranks are tell-your-friends funny",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "My husband has such bad breath we haven’t kissed in years – but he won’t see a dentist | Ask Annalisa Barbieri",
+   "text": "This is how we do it: ‘One time my son said: “I heard you having sex. It was disgusting.” That killed the vibe’",
    "source": "Guardian",
-   "sev": 1,
-   "good": true
+   "sev": 3,
+   "good": false
   },
   {
-   "text": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+   "text": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
+   "text": "How can we explain psychosomatic illnesses?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Deniz Tek: ‘Top Gun may have got the name of Val Kilmer’s Iceman from me’",
+   "text": "How to make nasi goreng – recipe | Felicity Cloake's Masterclass",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Dining across the divide: ‘He feels the current wave of immigrants are less likely to assimilate’",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -362,15 +356,69 @@
    "good": false
   },
   {
+   "text": "Pochettino’s fiery start, Las Vegas Grand Prix and ATP Finals finale – follow with us",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How a grown man went back to his old school posing as a teen pupil - and now faces jail",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Pupil numbers plunge at two thirds of private schools since Labour's VAT raid, new figures show",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Spitting Image co-creator and puppeteer Peter Fluck who loved lampooning the great and the good dies aged 85",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Prince William plans to strip Harry of his titles when he's King and all non-working royals would lose HRH, bombshell new book claims",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Boss of Britain's second largest pub group says Angela Rayner's new workers' rights reforms could increase costs for Britain's watering holes",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Is Meghan using ChatGPT to promote As Ever? AI detection software flags winter sale promo pic as artificially generated - as the Duchess poses in cosy clothes",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Top solicitor sues Fortnum & Mason for £150,000 after 'doing splits' in fall",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Thomas Markle's 'trips to Asia to meet girls' were an 'open family secret', his first former wife's son says",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Clarifications and Corrections",
+   "text": "Want to end the Neets crisis, Mr Burnham? Take a lesson from the Thatcher-era teacher who let me skip class to learn a trade, says lifelong bricklayer ANDY COLLIER",
    "source": "Mail",
-   "sev": 1,
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "NIGEL FARAGE: I owe it to my three grandchildren not to let Labour suck us back into this failed 1970s pipe dream",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -380,6 +428,12 @@
    "good": true
   },
   {
+   "text": "Clarifications and Corrections",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "They say I sent too many brave Ukrainians to their deaths... but I had to do everything to stop brutal Russians, ex-commander reveals to LORD ASHCROFT",
    "source": "Mail",
    "sev": 3,
@@ -387,12 +441,6 @@
   },
   {
    "text": "The British public-school brothers behind Grand Theft Auto whose Coronation Street actress mother helped inspire the biggest video game in history... and made them multi-millionaires",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Is Meghan using ChatGPT to promote As Ever? AI detection software flags winter sale promo pic as artificially generated - as the Duchess poses in cosy clothes",
    "source": "Mail",
    "sev": 1,
    "good": false
@@ -422,18 +470,6 @@
    "good": false
   },
   {
-   "text": "Want to end the Neets crisis, Mr Burnham? Take a lesson from the Thatcher-era teacher who let me skip class to learn a trade, says lifelong bricklayer ANDY COLLIER",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Pupil numbers plunge at two thirds of private schools since Labour's VAT raid, new figures show",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Moment EU health chief is pelted with 'ashes' by cancer survivors at cancer summit as part of pesticides protest",
    "source": "Mail",
    "sev": 3,
@@ -455,12 +491,6 @@
    "text": "Greedy Eurocrats accused of holding Britain to ransom 'to get cut-price courses for their children' with Brexit betrayal deal",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Top solicitor sues Fortnum & Mason for £150,000 after 'doing splits' in fall",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   },
   {
@@ -494,12 +524,6 @@
    "good": false
   },
   {
-   "text": "NIGEL FARAGE: I owe it to my three grandchildren not to let Labour suck us back into this failed 1970s pipe dream",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Britons' top concern is inflation despite Burnham's 'breathing room' promises amid cost-of-living crisis",
    "source": "Mail",
    "sev": 4,
@@ -515,30 +539,6 @@
    "text": "Queen Elizabeth II's young herald is embroiled in extraordinary 'squatting' row",
    "source": "Mail",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Himmler's plot to kidnap Bayeux Tapestry revealed by small and unexpected clue hidden among 1066 battle scenes",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Diehard eyepatched January 6 leader who has tattoo of Donald Trump says he's 'absolutely done' with president and calls him a 'traitor'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Brexit Betrayal: Burnham 'will cave in' on £500million EU student ambush as Labour MP brands Ed Miliband naive",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Fourteen guards at UK's most notorious jail have relatives who are behind bars",
-   "source": "Mail",
-   "sev": 1,
    "good": false
   }
  ]
