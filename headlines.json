@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:59:06.711Z",
+ "updated": "2026-11-23T01:31:32.809Z",
  "headlines": [
   {
    "text": "COP31 fails to reach major climate deal as talks expose deep divisions",
@@ -11,6 +11,24 @@
    "text": "What's next after no deal at COP31 climate talks?",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "source": "BBC",
+   "sev": 3,
    "good": false
   },
   {
@@ -26,25 +44,13 @@
    "good": false
   },
   {
-   "text": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+   "text": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Russell Brand's wife says she'll honour prison rules after message row",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "BBC apologises after noise disruption during Strictly",
+   "text": "Miley Cyrus marries Maxx Morando in California ceremony",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -56,19 +62,43 @@
    "good": true
   },
   {
-   "text": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "text": "Russell Brand's wife says she'll honour prison rules after message row",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Energy bills will soar - here's how you can ease the pain",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "What is going on with Poundland?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+   "text": "Would you go on holiday with your ex's kids and their mum? How to make blended families work",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+   "text": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "How a teen gamer and his mother helped rescue a missing girl",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The real people finding their work copied and stolen by AI characters",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -80,31 +110,25 @@
    "good": false
   },
   {
-   "text": "The real people finding their work copied and stolen by AI characters",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "How a teen gamer and his mother helped rescue a missing girl",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Employers are being asked to give interview feedback - here's what applicants want",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
+   "text": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "South Korea education minister resigns over exam cheating scandal",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Australian music legend Molly Meldrum dies aged 83",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -116,13 +140,13 @@
    "good": false
   },
   {
-   "text": "Widow fears losing home built by husband after support payments end",
+   "text": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Joanna Page says she nearly messed up Gavin and Stacey audition",
+   "text": "BBC apologises after noise disruption during Strictly",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -140,32 +164,26 @@
    "good": false
   },
   {
-   "text": "Ngumoha stars as Liverpool thrash 10-man Man Utd",
+   "text": "Chaotic week, nightmare start and huge reality check for Pochettino",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The red card that changed Liverpool-Man Utd: correct call?",
+   "text": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Alcaraz outplays Zverev for first ATP Finals triumph",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
+   "text": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "From conceding seven to Hull heroics - how Tzolakis recovered to defy Brighton",
-   "source": "BBC",
+   "text": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+   "source": "Guardian",
    "sev": 1,
    "good": true
   },
@@ -176,7 +194,7 @@
    "good": false
   },
   {
-   "text": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+   "text": "Pochettino’s new-manager bounce falls flat with De Ligt move a disastrous step | Jamie Jackson",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -188,9 +206,9 @@
    "good": false
   },
   {
-   "text": "‘I don’t blame any woman for being sucked in’: how the wellness industry is cynically exploiting menopause",
+   "text": "This is how we do it: ‘One time my son said: “I heard you having sex. It was disgusting.” That killed the vibe’",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -200,7 +218,13 @@
    "good": false
   },
   {
-   "text": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
+   "text": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
    "source": "Guardian",
    "sev": 3,
    "good": false
@@ -209,18 +233,6 @@
    "text": "Cop31 climate talks break down as key deal rejected",
    "source": "Guardian",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
@@ -236,15 +248,9 @@
    "good": false
   },
   {
-   "text": "Cloned number plate victims in England and Wales to get new reporting tool",
+   "text": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
    "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
-   "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -254,9 +260,15 @@
    "good": false
   },
   {
-   "text": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+   "text": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Rivals author Jilly Cooper accused of ‘extensive and deliberate plagiarism’",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
@@ -302,25 +314,19 @@
    "good": false
   },
   {
-   "text": "This is how we do it: ‘One time my son said: “I heard you having sex. It was disgusting.” That killed the vibe’",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Grammy snubs and a Stevie Wonder vs Lauryn Hill Showdown | The Close Up Culture Swap",
+   "text": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The footballer-turned-BookTuber who made an obscure Tolstoy novella a belated bestseller",
+   "text": "The Witch Farm review – this creepy tale is laugh-out-loud funny … without meaning to be",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How can we explain psychosomatic illnesses?",
+   "text": "‘All civilians suck’: inside the disturbing world of ‘cop influencers’",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -338,13 +344,19 @@
    "good": false
   },
   {
-   "text": "From I Am Helen to You Can See Everything: the week in rave reviews",
+   "text": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Five Great Reads: Brand, the first ‘weird Bond’ and female loneliness",
+   "text": "Sorting through my mother-in-law’s belongings was heartbreaking. One generation’s treasure is the next’s trash | Emma Beddington",
    "source": "Guardian",
    "sev": 1,
    "good": false
