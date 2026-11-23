@@ -1,44 +1,56 @@
 {
- "updated": "2026-11-23T09:40:50.428Z",
+ "updated": "2026-11-23T21:58:44.424Z",
  "headlines": [
   {
-   "text": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+   "text": "My approach to EU is pragmatic, says Burnham",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "How Ukraine attacked Russian ships in Libya",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "NHS launches world's largest AI breast cancer screening trial",
+   "text": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Five takeaways from the failed climate talks COP31",
+   "text": "UK to host 2035 Women's World Cup, Fifa confirms",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Andrew Mountbatten-Windsor received £750,000 from Turkish millionaire, court told",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "What's next after no deal at COP31 climate talks?",
+   "text": "UK sanctions top Myanmar military leaders after Rohingya genocide ruling",
    "source": "BBC",
-   "sev": 2,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "text": "Teenage girl stabbed multiple times by 14-year-old boy, murder trial told",
    "source": "BBC",
-   "sev": 2,
+   "sev": 6,
    "good": false
   },
   {
-   "text": "Russian ships hit by Ukrainian drones off Libya coast, Zelensky says",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'I want to destroy capitalism, not France': On the streets with the French ultra left",
+   "text": "Iranian authorities flog singer who performed without hijab, lawyers say",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -50,27 +62,27 @@
    "good": false
   },
   {
-   "text": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
+   "text": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "text": "What collapse of COP31 talks reveals about an increasingly divided world",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "text": "Faisal Islam: Why Jensen Huang proved too big to fire",
    "source": "BBC",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "Energy bills will soar - here's how you can ease the pain",
+   "text": "'People were screaming in pain' during Co-op Live evacuation",
    "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
@@ -86,69 +98,57 @@
    "good": false
   },
   {
-   "text": "Inside the heated debate over Scotland's data centres",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Papers: 'Complete COP-out' and Tyson Fury's 'torment'",
+   "text": "Energy bills will soar - here's how you can ease the pain",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "How we formed a friendship to blend our families",
+   "text": "Friends were wary of me holidaying with my ex's former wife and kids - but our blended family works",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "text": "First Lady Melania Trump welcomes this year's White House Christmas tree",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+   "text": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Tyson Fury reveals schizophrenia diagnosis",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Miley Cyrus marries Maxx Morando in California ceremony",
+   "text": "Mild Atlantic air collides with cold air across the UK, a recipe for some snow",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "RAF's next fighter jet could be last crewed combat plane, air chief says",
+   "text": "Two men admit sex offences in drugged wife case",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Russell Brand's wife says she'll honour prison rules after message row",
+   "text": "Capita shares plunge 70% as boss quits after civil service pensions failure",
    "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "South Korea education minister resigns over exam cheating scandal",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Australian music legend Molly Meldrum dies aged 83",
-   "source": "BBC",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -158,43 +158,187 @@
    "good": false
   },
   {
-   "text": "Thrilling dark comedy starring Blake Lively and Anna Kendrick",
+   "text": "'No-one's coming to save us' - but how can Man Utd save themselves?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Chaotic week, nightmare start and huge reality check for Pochettino",
+   "text": "De Bruyne's feelings for Man City will 'never change'",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "De Villiers claims ball-tampering from first 2018 Test",
+   "text": "England, Northern Ireland, Scotland & Wales to host 2035 Women's World Cup",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+   "text": "Raya to miss Dortmund game but injury 'not serious'",
    "source": "BBC",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "‘My name was poison’: Donny Osmond on fame, failure – and his friend Michael Jackson",
+   "text": "How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators in a fresh light",
+   "text": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Focker In-Law review – triangle of sadness as Ariana Grande joins Stiller and De Niro in the circle of trust",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘One area of the tent was known as fart corner’: what it’s really like to be on The Great British Bake Off",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Will the Jilly Cooper plagiarism allegations taint our love of Rivals? I doubt it | Nadia Khomami",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "AI conquered chess. What happened next should give us hope",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Russia’s war dead: the hidden toll of the Ukraine conflict",
    "source": "Guardian",
    "sev": 4,
    "good": false
   },
   {
-   "text": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+   "text": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Israel seeks to jail Palestinian student activist without trial after dorm arrest",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Only six beds for trans victims of domestic abuse in UK, report finds",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Teenage boy stabbed 14-year-old girl 55 times in park in south Wales, jury told",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Gisèle Pelicot ‘deeply shocked’ after nude images used to promote book",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Former prince Andrew was paid £750,000 in hope of helping Turkish woman with passport, high court told",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Metropolitan police seize 893kg of cocaine hidden in boxes of oranges",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Leaked data shows more than 1,000 Russian military suicides during Ukraine war",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Wild stock market swings: will I lose money, and is there anything I can do?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘The brains of a pea and the mouth of diarrhoea!’ It’s the wildest I’m a Celebrity spats",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "‘Most of the video budget went on Steve Strange’s makeup’: Midge Ure on how Visage made Fade to Grey",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Clashing Through the Snow review – Amazon’s Christmas romcom is a bust",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "The best Black Friday beauty deals I’d actually buy, from LED face masks to skincare staples",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Cop31 failed. What happens now? - video",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Words are not enough after the Myanmar genocide ruling. The world can do better – but it must take these steps | Gordon Brown",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "How many more ‘landmark’ reforms of benefits for disabled people are we expected to take? | Frances Ryan",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "You Can See Everything tells us nothing about Elizabeth Holmes. I guess that’s what the courts are for | Zoe Williams",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Kemi is beside herself that Burnham is trying to salvage a Brexit deal. Can’t we all stop talking about it? | John Crace",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -206,337 +350,193 @@
    "good": false
   },
   {
-   "text": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol – review",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The truth about dying: hospice workers on what loved ones should know",
+   "text": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Andy Burnham to give update to MPs after ‘landmark’ UK-EU summit – UK politics live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Cop31 climate talks break down as key deal rejected",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Natural England could be abolished as part of quango cull, says Louise Haigh",
+   "text": "The Guardian view on Cop31: a just transition needs more than fine words | Editorial",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Finance, fossil fuels and the ‘overshoot’: six key takeaways from Cop31",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Cop31 failed but in ‘the real world’ the transition away from fossil fuels is inevitable",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "China commits to low-carbon electrification and help for others to improve",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Dapper Liam and Noel, experimental Björk, and Bowie ‘cuddling himself’: Rankin reveals his never-before-seen shots of the stars",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Apple iPhone Duo review: the most novel and interesting iPhone in almost a decade",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Bill Wyman’s Rock & Roll Lists review – greatest hits and biggest misses",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Drivers trapped in limbo due to DVLA licence delays",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why I love Berlin in winter: ‘Christmas markets arrive in a blaze of twinkling lights’",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Connecting with Britain’s unsung carers has allowed me to feel a deep compassion for my younger self | Rhiannon Lucy Cosslett",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Nasa, please send me to the moon. Science says I’m the perfect crew member | Helen Pilcher",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From Vance dropping Trump to a lizard detaching its tail: Edith Pritchett’s week in Venn diagrams – cartoon",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "A truism for our political leaders: until work again involves respect and decent levels of pay, this crisis will continue | John Harris",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Strictly sex noise prankster could face criminal charges and being questioned by police as he leaves bosses furious by disrupting the live shows",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The mystery planet that could rewrite our Solar System: Scientists say a hidden world bigger than Earth may be lurking beyond Neptune",
+   "text": "Angry daughter delivered 'upsetting' note to Harry Redknapp and wife as part of harassment campaign to discredit local estate agent",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "US rapper's Manchester concert is halted in 'major incident': Revellers seen coughing and rubbing their eyes as thousands evacuated from Co-op arena after 'tear gas' was let off during show",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Tyson Fury reveals he's been diagnosed with schizophrenia as he details his mental breakdown, eating disorder and traumatising childhood with an absent father and a mother grief-stricken by 10 miscarriages",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "The cities where high mortgage rates mean renting is now CHEAPER than owning a home",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "New rules! Dua Lipa makes ANOTHER planning application in bid to get six-year mega-basement project back on track at her £6.75million north London home",
+   "text": "Will Smith and wife Jada Pinkett's $42million Calabasas estate catches on fire as firefighters rush to scene",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Medical student, 24, dropped dead on vacation with her friends in Turkey and doctors blamed food poisoning until trove of new evidence was uncovered",
+   "text": "The modest terrace hiding an art masterpiece: How Victorian labourer secretly transformed his home with stunning William Morris designs that lay untouched for nearly 100 years",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Two more men admit sexually abusing wife drugged and raped by her husband over 20 years",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "TeamGB wheelchair basketball player charged with 11 counts of rape - plus voyeurism, strangulation and coercive behaviour against woman",
+   "text": "The World Cup RETURNS to America! FIFA announces 2031 tournament hosts after historic four-country bid",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Russian oligarch fighting record £2.1billion divorce tells High Court ex-wife exaggerated his 'sexual prowess' when she claimed they slept together three times a week",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Schoolgirl stabbed 55 times after being 'lured' to park by 14-year-old boy after she found out he was 'two-timing' her, jury hears",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Now FIVE ex-PMs warn Burnham not to rejoin the EU... and even arch-Remainer Blair questions bid to shackle UK again",
+   "text": "Andy Burnham under fire after he uses No10 for toe-curling TikTok stunt and calls in fawning influencer to tell him he's doing a 'great job' as PM",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Mother-of-four deliberately rammed into and killed the father of her children in hit-and-run - before she died in separate crash",
+   "source": "Mail",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Mariella Frostrup's Loose Women co-star Judi Love wades into I'm A Celeb race row as she criticises using 'dangerous' labels about black women",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "DR MAX PEMBERTON: I treat so many unemployed young people. They all make the same job-hunting mistake that leaves them anxious, depressed and turning to cannabis for comfort. If your child doesn't have a job this is what you MUST do to help them",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Moment pensioners are attacked and robbed while cycling along canal towpath: Thug, 20, is jailed",
+   "text": "Boy, 13, 'set fire to block of flats after being asked to leave vape party' which left 15-year-old friend dead, court told",
    "source": "Mail",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Russell Brand's 'proud' wife says she will 'honour' the rules after his controversial prison message sparked outrage",
+   "text": "Damning NHS study lays bare the lack of support afforded to dementia patients compared to those with other diseases",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'We worked together but there was no animosity...they categorically lied about me': BBC and Sky Sports female rugby pundit Danika Priim says she will never know why woman falsely accused her of sex assault",
+   "text": "Moment migrants trying to reach Europe are stopped fleeing Ceuta - where huge numbers remain while evading deportation",
    "source": "Mail",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Britney Spears unleashes on her exes as she claims they all urged her to 'get surgery' and 'hair implants' to fix her 'big' forehead",
+   "text": "Jensen Huang reinstated as Nvidia CEO just days after he was ousted over affairs with at least three women including suspected Chinese spy",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Former Pentagon contractor claims aliens are living among us and 'taunting' US Navy to conceal chilling plan to repopulate Earth",
+   "text": "GTA 6 players claim the game is a 'psyop to turn men into good boyfriends' - as they take on mundane chores including taking out the rubbish and painting the house",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Teacher sues school, saying children singing 'if you're happy clap your hands' gave him tinnitus",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Doctor sacked over 'laughing gas party' on children's ward is now accused of asking female colleagues to sleep with him at Christmas parties",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'Murdered' Ann Widdecombe's estate is for sale: Wine, silverware and portraits of ex-Tory MP among 1,500 items to be auctioned off",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Love Island star Jack Fincham breaks his silence after 'being arrested for the second time for drug-driving' as he insists he's 'made mistakes' and has 'embarrassed his family'",
+   "text": "Married Canadian couple spent 14 months trapped in New Zealand - five of them in jail - after drug smugglers switched bag tags at airport and put their names on case full of narcotics",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Our hell after migrants took over our town - now it's coming to your home: English villages face hundreds of asylum seekers being housed nearby. Irish families left living in terror amid riots and sexual assault fears share their dire warning",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "The BEST hospitals in England to give birth revealed: Daily Mail analysis reveals where maternity care is outstanding... and where mothers and babies could be at risk",
+   "text": "Bargain round! The UK's cheapest Wetherspoons revealed, with £1.65 pints in Scotland - three times cheaper than in the chain's London branches",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "STEPHEN GLOVER: Despite the warnings, Burnham's decided steering us into the EU's loveless embrace will define his premiership",
+   "text": "Popular British department stores from your childhood that have vanished - including Woolworths, BHS and Dickins & Jones... so, how many do YOU remember?",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Migrants using knives to slash roofs of lorries as they cross into Britain undetected - before brazenly posting about it on TikTok",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Kemi urges PM to 'come clean on his terrible Brussels deal' - and accuses him of keeping Brits in the dark",
+   "text": "Andrew Mountbatten-Windsor received a £750,000 'bribe' to help a Turkish heiress with her passport, court hears",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Burnham signs up to talks on EU's ID cards despite axing the UK scheme",
+   "text": "Moment pedestrian escapes death by inches after speeding car ploughs into bus stop",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Katie Price appears to confirm she's got back together with conman ex-husband Lee Andrews as she declares 'I'm taken'",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Disappearing for days on end, 'mind games' and an obsession with BDSM: Man who lived with sadist killer Dwain Hall reveals WHY he believes British music tutor Sonia Exelby was not his only victim",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Football-loving Brits are facing a half-time tea price hike under Labour's EU plan",
+   "text": "Boy, 16, who caused house fire that killed elderly couple by throwing lit cigarette into bin admits arson",
    "source": "Mail",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
-   "text": "Children are among 19 rushed to hospital 'with carbon monoxide poisoning' during church service in Germany",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The real-life War divorce. Why the wife of a Russian oligarch - and Putin's ice hockey buddy - is fighting for £2billion in Britain's biggest ever divorce battle",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Romanian drug dealer caught with £100,000 of cannabis avoids deportation after judges decide his crime wasn't serious enough",
+   "text": "'Beautiful in every way': Kate's brother James Middleton and Beatrice's husband Edo Mapelli Mozzi leave messages of support as royal shares trailer for cancer documentary",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Colonel Gaddafi's playboy footballer son, his £10million London mansion and the serial fraudster's extraordinary plot to steal it from under the noses of the Libyan government",
+   "text": "All the signs that 'prove' Armageddon is on our doorstep: No one believed my warnings 12 years ago, but now all these prophecies are coming eerily true",
    "source": "Mail",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Wayne Rooney at the centre of I'm A Celebrity race row after singing reggae song Rat In Mi Kitchen in a Jamaican accent",
+   "text": "Moment town mayor's bike gets stuck in newly unveiled bicycle channel at railway station - despite council pumping £3k towards project",
    "source": "Mail",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "Revealed: A red dress really is a girl's best friend if she wants to look red hot...",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Burnham's deputy is to call for MORE state control in return to the 70s",
+   "text": "Scientists make astonishing discovery in the deepest place on Earth - and it could explain why the Mariana Trench plunges almost 7 miles beneath the waves",
    "source": "Mail",
    "sev": 1,
    "good": false
