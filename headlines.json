@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-24T17:27:42.660Z",
+ "updated": "2026-11-25T01:32:07.911Z",
  "headlines": [
+  {
+   "text": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Nuclear test veterans speak to BBC about search for justice",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "US preparing to unveil new tariffs on global trading partners",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Third of young Brits have never had sex, but many are sexting and watching porn",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Thomas Markle indicted in US for possessing child sex abuse images",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Households braced for soaring energy bills with new price cap to be announced",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "China-linked network using AI fakes to smear Taiwan election candidates, BBC Verify finds",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Russia's own figures show almost 500,000 deaths in war in Ukraine",
+   "source": "BBC",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Clashing political visions reflect a divided Spain ahead of election",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Ministers ask public for views on changing age of consent",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "My family died in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "These North Koreans say they were spied on, beaten and jailed for being Christian",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Shot in the face at 15: The lives shattered by Cameroon's decade of conflict",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The rising cost of putting food on the table in India",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Substance released at Manchester concert could be linked to robberies, police say",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
   {
    "text": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
    "source": "BBC",
@@ -8,33 +116,9 @@
    "good": false
   },
   {
-   "text": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'I'm proud of it': Killer confesses after murdering Ian Huntley",
+   "text": "Will there be a White Christmas this year?",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Former police chief inspector jailed for rape",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -44,115 +128,49 @@
    "good": false
   },
   {
-   "text": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+   "text": "Bake Off winner crowned after high-stakes final",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Watch: Trump pardons turkeys Freedom and Feathers",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Southport survivors' parents 'disgusted' by school recovery funding",
-   "source": "BBC",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Man charged with murder of missing 20-year-old woman",
-   "source": "BBC",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Record 5,200 heat-linked deaths estimated in England this year",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Zoe Kleinman: My week with Meta's AI agent Muse ahead of its UK launch",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Key takeaways from the Timms review into Pip disability benefit",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The shake-up facing renters as a new kind of landlord emerges",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "From dancing on the Tube to being sectioned: Sabrina Bahsoon on her psychosis misdiagnosis",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "What Jensen Huang's return teaches China's Xi about Trump",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Why I don't always tell potential employers I'm dyslexic",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Nephew demands reforms after uncles killed by schizophrenic man released from custody",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "First Children's Booker prize reveals shortlist - and its child judges",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Inquiry into Birmingham housing scheme 'exploitation' after BBC investigation",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Prince William meets Burnham on first Downing Street visit",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Israeli air strike kills Hamas internal security chief in Gaza",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Land mine casualties soar in Syria, two years after war",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Man baffled after accidentally travelling to Spain on wife's passport",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
    "text": "Download now",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Bellingham plays down Zidane comparison after wonder goal",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Arteta says Arsenal need more luck to kill off games",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Pochettino leads Man Utd fury at Yoro red card ruling",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -164,57 +182,45 @@
    "good": false
   },
   {
-   "text": "Yoro red card overturned, but refs' chief Webb backs decision",
-   "source": "BBC",
+   "text": "Men have used wealth and fame to get away with abuse. No longer | Andy Burnham",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "I don’t have children. A stranger decided I was ruining my life",
+   "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Sooryavanshi, 15, breaks sixes record by scoring 204 off 53 balls",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'The rest of the world noticed' - Welshman Donald demolishes Aussies",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘The numbers are very stark’: This primary school is the heart of a Welsh village. Can it be saved?",
+   "text": "‘The icing on the cake’: how Nigella saved Bake Off",
    "source": "Guardian",
    "sev": 1,
    "good": true
   },
   {
-   "text": "You Can See Everything in Elizabeth Holmes’s unblinking eyes. Or can you? | Jason Okundaye",
+   "text": "Shop small, save big: 21 brilliant Black Friday bargains from UK independents",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Children of the revolution: how the north of England is defining modern men’s fashion",
+   "text": "The Ukraine-Russia war is escalating – and it will go global unless Europe speaks with one voice | Simon Tisdall",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Robert Pattinson is not enough: who should become the new Bond girl?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Cookie fever! How does Marks & Spencer knock out so many viral food sensations?",
+   "text": "Metropolitan police still institutionally racist and misogynist, says report",
    "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Council tax and stamp duty: both are a disaster zone. Scrap them and start from scratch | Polly Toynbee",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Think you hate sprouts? Try these five recipes",
-   "source": "Guardian",
-   "sev": 1,
+   "sev": 3,
    "good": false
   },
   {
@@ -224,49 +230,43 @@
    "good": false
   },
   {
-   "text": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+   "text": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Two arrested after suspected burglary at home of Prince and Princess of Wales",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Southport attack families’ fury after 13 survivors miss out on school funding",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Irish plan offers Burnham breakthrough on Made in Europe",
+   "text": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
    "source": "Guardian",
    "sev": 1,
-   "good": true
+   "good": false
   },
   {
-   "text": "Prisoner given second whole-life term for murdering Soham killer Ian Huntley",
+   "text": "Thomas Markle, father of Meghan, indicted over child sexual abuse material",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Burnham opens door to wider NDAs ban at ‘watershed moment’ on abuse",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "‘Not about notches on bedpost’: people in Great Britain having less sex – especially young adults",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Chicken Shop Date host says she ended YouTube show … to find a real date",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -278,19 +278,37 @@
    "good": false
   },
   {
+   "text": "Trump makes millions after pressuring Nvidia to reinstate Huang - The Latest",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Oceans, fossil fuels and keeping 1.5 alive: the missed opportunities at Cop31",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
+   "text": "Prue and Sandi’s South African Adventure review – you’ll feel lucky to have this joyful show in your life",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
    "text": "‘The lack of fun is as noticeable as the lack of content’: the reborn Museum of London is all piazza, no punch",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Why is France fighting Vanuatu over two uninhabited islands in the Pacific?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Cookie fever! How does Marks & Spencer knock out so many viral food sensations?",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -308,33 +326,21 @@
    "good": false
   },
   {
-   "text": "Who needs perfume? The incredible link between body odour and relationships that last",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "‘The Terence Conran of his day’: the visionary Victorian futurist adored by design superstars today",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "The Royal Court’s new mission? To boldly go back to the 60s space race with The Afronauts",
+   "text": "Farage preaches the Brexit gospel according to St Nige | John Crace",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
-   "text": "I don’t have children. A stranger decided I was ruining my life",
+   "text": "Council tax and stamp duty: both are a disaster zone. Scrap them and start from scratch | Polly Toynbee",
    "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘An extravagantly illuminated beast’: the best artificial Christmas trees in the UK – tested",
-   "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -350,25 +356,49 @@
    "good": false
   },
   {
-   "text": "$150 for photos of Melania looking like a waxwork? Will the Trumps ever run out of money-making ideas? | Arwa Mahdawi",
+   "text": "Mariella Frostrup calls AJ Odudu ‘aggressive’ – and here we go again. We tire of this angry black woman trope | Natalie Morris",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Europe’s big threat is not Trump and Putin redrawing the map. It’s our own learned helplessness | Natalie Tocci",
-   "source": "Guardian",
-   "sev": 3,
+   "text": "Trump made eyewatering sum on Nvidia boss Jensen Huang's return as critics erupt in X-rated fury",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
-   "text": "English footballer Isiah Noel-Williams charged with multiple rapes and child sex offence",
+   "text": "Boy, 13, 'filmed himself carrying out school stabbing rampage before claiming: I will kill for Allah', court told",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "QUENTIN LETTS: Burnham's surrender to the EU has waved smelling salts under Farage's nostrils - bad news for Labour's Red Wall MPs",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Look up tonight for something super! The first of four consecutive supermoons will light up skies - as our lunar satellite appears 30% brighter and 14% larger than usual",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "David Walliams' publisher HarperCollins accused by former staff of 'cover up' over claims of inappropriate behaviour towards women and girls",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
    "text": "Kate and William's Anmer Hall country estate in Norfolk is broken into by intruders - as two men are arrested on suspicion of burglary and trespass",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "English footballer Isiah Noel-Williams charged with multiple rapes and child sex offence",
    "source": "Mail",
    "sev": 2,
    "good": false
@@ -398,12 +428,6 @@
    "good": false
   },
   {
-   "text": "QUENTIN LETTS: Burnham's surrender to the EU has waved smelling salts under Farage's nostrils - bad news for Labour's Red Wall MPs",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "The man forced to dig his own grave by a teen gang enforcer before being shot dead... and the reason for his killing is even more horrifying",
    "source": "Mail",
    "sev": 5,
@@ -413,12 +437,6 @@
    "text": "Daughter accused of attempting to murder 100 year-old mother said she'd had 'too much to drink' when she sent messages joking about killing her",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Boy, 13, 'filmed himself carrying out school stabbing rampage before claiming: I will kill for Allah', court told",
-   "source": "Mail",
-   "sev": 6,
    "good": false
   },
   {
@@ -440,12 +458,6 @@
    "good": false
   },
   {
-   "text": "Trump made eyewatering sum on Nvidia boss Jensen Huang's return as critics erupt in X-rated fury",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
    "text": "Two teenage girls drugged and raped after doorman 'lured' them to attend fake 'after-party', court hears",
    "source": "Mail",
    "sev": 4,
@@ -455,12 +467,6 @@
    "text": "Heartbreaking final images show trans activist 'Amsterdammer of the Year' at the beach with loved ones before euthanasia death",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "David Walliams' publisher HarperCollins accused by former staff of 'cover up' over claims of inappropriate behaviour towards women and girls",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
@@ -483,12 +489,6 @@
   },
   {
    "text": "Amanda Holden says daughter Lexi, 20, has a 'cynical head on her shoulders' unlike her 'snowflake' peers as she takes aim at woke youngsters",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Look up tonight for something super! The first of four consecutive supermoons will light up skies - as our lunar satellite appears 30% brighter and 14% larger than usual",
    "source": "Mail",
    "sev": 1,
    "good": false
