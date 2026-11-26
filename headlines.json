@@ -1,20 +1,56 @@
 {
- "updated": "2026-11-25T20:05:56.637Z",
+ "updated": "2026-11-26T02:45:15.362Z",
  "headlines": [
   {
+   "text": "Stalking law simplified to become one offence",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "US approves SpaceX plan to send a million data satellites to space",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "UK government set to publish new treaties agreed with EU",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Expect fewer frosts and more hot days as UK seasons shift, says Met Office",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "BBC launches partnership with Met Office for weather coverage",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Duran Duran guitarist Andy Taylor dies aged 65",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Moment Nasa spacecraft hit asteroid - and what happened next",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
    "text": "Poundland collapses putting 11,000 jobs at risk",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Why has Poundland collapsed and what happens next?",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "US announces new tariff proposals on EU, China, and other trade partners",
    "source": "BBC",
    "sev": 3,
    "good": false
@@ -26,37 +62,73 @@
    "good": false
   },
   {
-   "text": "Gordon Ramsay to host Top Gear as show revived after Flintoff crash",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+   "text": "'Top Gear is back': Gordon Ramsay announced as new host",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Raheem Sterling given suspended jail sentence for dangerous driving and nitrous oxide possession",
+   "text": "Frustration reigns for Pochettino in chaotic start to Man Utd job",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Has global jihadism failed, or is it simply changing shape?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "France's political mainstream risks presidential vote debacle with no clear candidate",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Energy bills to rise by 26% from January after gas prices surge",
+   "text": "The US pastor who wants to see women's right to vote overturned",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "US stocks fall further as fears over AI intensify",
+   "text": "A renovation was meant to improve these Hong Kong homes - it ended in an blaze that killed 168",
    "source": "BBC",
-   "sev": 2,
+   "sev": 5,
    "good": false
   },
   {
-   "text": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+   "text": "UK papers: Six-day streak 'smashes' global temperature record and 'Gord speed'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Why has Poundland collapsed and what happens next?",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Motorcycle rider who took stunning cricket catch found",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What we know about Trump's Thanksgiving tariffs",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Hotels need 'minimum standards' to keep women safe",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -68,127 +140,61 @@
    "good": false
   },
   {
-   "text": "Two men charged with trying to steal cufflinks and clock from Royal home",
+   "text": "Energy bills to rise by 26% from January after gas prices surge",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "text": "Hundreds complain about I'm A Celebrity after Mariella Frostrup called AJ Odudu 'aggressive'",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Two men charged with trying to steal cufflinks and clock from royal home",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "What will the price cap changes mean for my bills?",
+   "text": "Download now",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How much has the Iran war put up your energy bills?",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Why are bills going up?",
+   "text": "The making of Band Aid's iconic Christmas hit 42 years on",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Raheem Sterling - from national icon to suspended jail sentence",
+   "text": "'All coming together' - Isak repaying Liverpool faith",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "My family died in Ukraine and my mum blamed Zelensky's troops - the truth is complicated",
-   "source": "BBC",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "Lies, a disguise and surfboard bags: How a jealous Sydney policeman tried to cover up double murder",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "She spent decades as an FBI agent and this is the case she could not let go",
+   "text": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
    "source": "BBC",
    "sev": 1,
-   "good": false
+   "good": true
   },
   {
-   "text": "Why tiny cars are taking off across Europe",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "MP calls for action after her likeness used for AI porn deepfakes",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Festive market cancels bookings after backlash over misleading AI images",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Why has China sent the first Pakistani astronaut to space?",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Badenoch challenges Burnham over university fees for EU students",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "BBC appeals against decision to allow Trump's $10bn lawsuit to go ahead",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "EU offers UK fresh deal on 'Made in Europe' scheme",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Missed chances to save boy, 2, murdered by grandparents despite dad's concerns, review finds",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "‘I said no thanks to the casting couch. But other actresses had problems’: Jane Alexander on 50 years of stardom",
+   "text": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Caitlin Moran on Radiohead, anxiety and the perfect baked potato | Comfort Eating",
+   "text": "Anselm Kiefer review – Holocaust-haunted forests and a glimpse into a gigantic grave",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Which gaming headsets are worth the cost? I put 20 to the test – here are the best for 2026",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -200,19 +206,13 @@
    "good": false
   },
   {
+   "text": "‘I said no thanks to the casting couch. But other actresses had problems’: Jane Alexander on 50 years of stardom",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Blade Runner 2099 review – every scene of this TV version is packed with terrifying visual beauty",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Steal a chopper listening to Liszt! I love how Grand Theft Auto VI went crazy for classical",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "‘Half price!’ ‘Only two left!’ How to resist the bargains you just don’t need – this Black Friday and beyond",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -236,49 +236,43 @@
    "good": false
   },
   {
-   "text": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Trump proposing new tariffs on 14 partners including China and EU",
+   "text": "Ministers to create new stalking offence and scrap need for proof of fear or distress",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Woman did not believe husband had drugged her for rape by strangers, Manchester trial told",
+   "text": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
    "source": "Guardian",
-   "sev": 4,
+   "sev": 6,
    "good": false
   },
   {
-   "text": "Sporting v Manchester United: Champions League – live",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Top Gear to return with Gordon Ramsay as lead host",
+   "text": "Children in overcrowded homes get poorer GCSE results, study finds",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Nasa knocked an asteroid off course. New closeup photos shed light on aftermath",
+   "text": "Andy Taylor, guitarist in Duran Duran, dies aged 65",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Patrick Radden Keefe’s London Falling named Waterstones book of the year",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
    "text": "Max Balegde: how influencer turned a cunning comms plan into a No 10 nightmare",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Stick or switch? UK billpayers weigh up how to beat January energy jump",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -314,27 +308,21 @@
    "good": false
   },
   {
-   "text": "The 38 best Black Friday deals under £50: lip stain, Lego and a bargain coffee machine",
+   "text": "Caitlin Moran on Radiohead, anxiety and the perfect baked potato | Comfort Eating",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Anselm Kiefer review – Holocaust-haunted forests and a glimpse into a gigantic grave",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
-   "source": "Guardian",
-   "sev": 4,
    "good": false
   },
   {
    "text": "Still racist, misogynistic and homophobic. I’m putting Britain’s biggest police force on notice – we won’t tolerate this | Sadiq Khan",
    "source": "Guardian",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Is Vanity Fair’s takedown of Taylor Swift illuminating – or just a lot of hot air? | Arwa Mahdawi",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -350,15 +338,33 @@
    "good": false
   },
   {
+   "text": "Ministers can’t control gas prices, but they can attack other energy costs more ruthlessly",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
    "text": "What’s the most sustainable way to eat fish? Forget it. There isn’t one | George Monbiot",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Is Vanity Fair’s takedown of Taylor Swift illuminating – or just a lot of hot air? | Arwa Mahdawi",
+   "text": "We’re in a flaking epidemic. No wonder no one wants to host gatherings | Chelsea Flagan",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The Guardian view on rising energy prices: only bold action can win public confidence | Editorial",
    "source": "Guardian",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Woman is banned from every Marks & Spencer shop in the country for trying to scam staff and stealing clothes",
+   "source": "Mail",
+   "sev": 2,
    "good": false
   },
   {
@@ -371,12 +377,6 @@
    "text": "Raheem Sterling avoids jail for £270,000 Lamborghini crash: England star handed suspended prison sentence after telling court he underwent 12-day rehab stint for laughing gas 'problem'",
    "source": "Mail",
    "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Woman is banned from every Marks & Spencer shop in the country for trying to scam staff and stealing clothes",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
