@@ -1,28 +1,46 @@
 {
- "updated": "2026-11-26T21:51:12.724Z",
+ "updated": "2026-11-27T04:03:26.972Z",
  "headlines": [
   {
-   "text": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+   "text": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "UK to pay 'participation' fee to deliver EU deals",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Met Police ruined my life, says Kenyan man wrongly sentenced over attack on UK couple",
    "source": "BBC",
    "sev": 4,
    "good": false
   },
   {
-   "text": "Watch: How knife attack on train happened",
+   "text": "Roofs torn off and streets under water as severe weather hits US on Thanksgiving",
    "source": "BBC",
-   "sev": 4,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+   "text": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "UK net migration at lowest level since 1997 as asylum claims also fall",
+   "text": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
    "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
@@ -32,13 +50,13 @@
    "good": false
   },
   {
-   "text": "Burnham joined by former PMs at Ann Widdecombe service",
+   "text": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
    "source": "BBC",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
+   "text": "Fury 'never received' schizophrenia diagnosis",
    "source": "BBC",
    "sev": 2,
    "good": false
@@ -50,27 +68,39 @@
    "good": false
   },
   {
-   "text": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Fury 'never received' schizophrenia diagnosis",
+   "text": "Australia's sandpapergate probe to also include 2017-18 Ashes against England",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Princess of Wales drops in on arts project in the Borders",
+   "text": "The young hikers finding friendship and fresh air offline",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+   "text": "I spend £200 a month on fancy meals by myself - would you dine solo?",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Weekly quiz: Which music icon's house did Miley Cyrus get married at?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "UK papers: 'Scores' of Labour MPs oppose Rosebank and 'Shameless Huw'",
+   "source": "BBC",
+   "sev": 2,
    "good": false
   },
   {
@@ -80,73 +110,61 @@
    "good": false
   },
   {
-   "text": "When will Poundland shops close? Five key questions answered",
+   "text": "Watch: Man and dog narrowly escape powerful king tide in Oregon",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'Laughing gas has ended careers' - so how common is it in football?",
+   "text": "UK net migration at lowest level since 1997 as asylum claims also fall",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Burnham joined by former PMs at Ann Widdecombe service",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Desperate appeals from women on death row in Iran after protests",
+   "text": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
    "source": "BBC",
    "sev": 5,
    "good": false
   },
   {
-   "text": "I regret surviving the e-bike fire that killed my family",
+   "text": "Nearly 100 Labour MPs including ministerial aides oppose Rosebank oil field",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "UK reservists contacted as 'threat environment' rises, Streeting says",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Scotland's chief medical officer Gregor Smith resigns on mental health grounds",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "New UK-EU treaty has 10-year termination clause",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Millions of people to see average monthly mortgage payments rise by £100",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Tommy Robinson charged with failing to give phone Pin code to police",
+   "text": "Mandelson kept shares as ambassador despite conflict of interest fears, documents show",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-   "source": "BBC",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Number of young people out of work or training still stubbornly high, data shows",
+   "text": "Download now",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Download now",
+   "text": "Australia's sandpapergate probe to also include 2017-18 Ashes",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -158,13 +176,19 @@
    "good": false
   },
   {
-   "text": "No post-match drug testing in South Africa v New Zealand series",
+   "text": "Taylor and Lewis lose all five pairs matches on return",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
    "text": "Éric Cantona: ‘If I regret something about the kung fu kick, it’s that I would love to kick him in another place’",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Sweetpea review – why was this disastrous serial killer comedy even given a second chance?",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -194,21 +218,15 @@
    "good": false
   },
   {
-   "text": "The bleph lady: Britain’s backstreet cosmetic surgeon",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
    "text": "Labour’s split over Rosebank oilfield exposed by letter from nearly 100 MPs",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+   "text": "Labour’s EU reset deal will be ‘floor not ceiling’, says Burnham cabinet ally",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
    "good": false
   },
   {
@@ -218,9 +236,15 @@
    "good": false
   },
   {
-   "text": "Water levels fell sharply in world’s rivers and lakes in two hottest years on record, study finds",
+   "text": "Nearly half of ethnic minority people in UK have faced racism at work in last year, survey finds",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
+   "source": "Guardian",
+   "sev": 2,
    "good": false
   },
   {
@@ -230,27 +254,21 @@
    "good": false
   },
   {
-   "text": "Man who stabbed passengers on train to London guilty of attempted murder of 14 people",
-   "source": "Guardian",
-   "sev": 6,
-   "good": false
-  },
-  {
    "text": "Major East Midlands road projects shelved to divert funding to defence",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "⁠Gérard Depardieu to face trial on charges ‌of raping ​actor Charlotte ⁠Arnould",
+   "text": "Chance of snow forecast for northern England and Scotland in next few days",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Oxford museum displays seized belongings of Naga freedom fighter Gaidinliu for first time",
+   "text": "New Zealand election: final results show ruling coalition needs minor party to govern",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 2,
    "good": false
   },
   {
@@ -266,21 +284,15 @@
    "good": false
   },
   {
+   "text": "Killer frogs and rat-murdering fairies: the macabre cards Victorians sent at Christmas",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "I spent 69 hours building Lego – here are the best sets for Christmas",
    "source": "Guardian",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Can Elon Musk really put AI datacentres in space? - The Latest",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "a-ha’s Morten Harket: ‘My Parkinson’s diagnosis wasn’t devastating. I have a new appreciation for the human organism’",
-   "source": "Guardian",
-   "sev": 3,
    "good": false
   },
   {
@@ -293,6 +305,12 @@
    "text": "What would happen if Russia detonated a nuclear weapon in space?",
    "source": "Guardian",
    "sev": 5,
+   "good": false
+  },
+  {
+   "text": "The bleph lady: Britain’s backstreet cosmetic surgeon",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
