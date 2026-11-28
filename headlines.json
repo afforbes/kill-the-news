@@ -1,16 +1,10 @@
 {
- "updated": "2026-11-27T22:37:07.738Z",
+ "updated": "2026-11-28T04:12:10.339Z",
  "headlines": [
   {
    "text": "Millions lose access to benefits and pensions services after 'cyber incident'",
    "source": "BBC",
    "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Watch: What has happened to DWP online services?",
-   "source": "BBC",
-   "sev": 1,
    "good": false
   },
   {
@@ -20,15 +14,27 @@
    "good": false
   },
   {
+   "text": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Set time aside for children to read for pleasure, schools to be told",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
    "text": "Spanish PM and rivals rally supporters in final pitch for votes",
    "source": "BBC",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+   "text": "Charity founded in Captain Tom's name bids to be struck off",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
@@ -44,19 +50,13 @@
    "good": false
   },
   {
-   "text": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+   "text": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
    "source": "BBC",
-   "sev": 2,
+   "sev": 3,
    "good": false
   },
   {
    "text": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Charity founded in Captain Tom's name bids to be struck off",
    "source": "BBC",
    "sev": 1,
    "good": false
@@ -74,45 +74,45 @@
    "good": false
   },
   {
+   "text": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
+   "source": "BBC",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Carly Rae Jepsen's viral hit proves what fans knew all along",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Should I get a flu vaccine now?",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "'I don't know what I'd do without it': Why shoppers and staff fear losing Poundland",
+   "source": "BBC",
+   "sev": 2,
+   "good": false
+  },
+  {
    "text": "Chicken Shop Date: The perfect end or a disappointing send-off?",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Is it a cold, flu or Covid? How to tell the difference",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "GTA 6 crashes into top end of music chart after its record launch",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Why snooker could be the most mentally challenging sport",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "My self-care ritual is a meal at a fancy restaurant - on my own",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-   "source": "BBC",
-   "sev": 3,
    "good": false
   },
   {
@@ -236,9 +236,21 @@
    "good": false
   },
   {
-   "text": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+   "text": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
    "source": "Guardian",
-   "sev": 3,
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Charity set up by Captain Tom Moore’s family applies to be struck off",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Men dominate this Japanese game. One woman broke a 100-year-old barrier to rise to the top",
+   "source": "Guardian",
+   "sev": 1,
    "good": false
   },
   {
@@ -248,19 +260,7 @@
    "good": false
   },
   {
-   "text": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+   "text": "Schools in England must set aside time for pupils to read for pleasure",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -290,13 +290,13 @@
    "good": false
   },
   {
-   "text": "‘Genuinely emotional’: the world-conquering Chicken Shop Date’s final, eye-opening episode",
+   "text": "Chris Bray captures the amazing Christmas Island crab migration – in pictures",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘I felt a zap race through my body’: what happens when someone is hit by lightning?",
+   "text": "‘Genuinely emotional’: the world-conquering Chicken Shop Date’s final, eye-opening episode",
    "source": "Guardian",
    "sev": 1,
    "good": false
@@ -314,52 +314,58 @@
    "good": false
   },
   {
-   "text": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
-   "source": "Guardian",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Honey, we’ve shrunk the country! But at least the Brexiters got their wish | Gaby Hinsliff",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Digested week: a new forest is fine – but where’s all the fun?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "They crossed the doom loop of Groundhog Day with Nightmare on Elm Street. Voilà – it’s Peter Mandelson | Robert Hutton",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The most surprising thing about Burnham’s slow politics is this: it could be working | Andy Beckett",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Never mind EU student fees – it’s time to rethink the entire UK higher education system | Simon Jenkins",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Why all of Europe should be watching as Spain’s far-right Vox closes in on power | Eoghan Gilmartin",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "The Guardian view on AI and the Riemann hypothesis: a triumph of intelligence, a test of democracy | Editorial",
+   "text": "McNabney’s late double powers Ireland to dominant win against Australia",
    "source": "Guardian",
    "sev": 1,
    "good": true
+  },
+  {
+   "text": "England target historic All Blacks treble after finally clicking into gear",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Harry Redknapp’s big-race hope Taurus Bay follows in hoofprints of Jukebox Man",
+   "source": "Guardian",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Kemi gets tough on Tories: Take a stand against the ECHR and Net Zero or you can't be an MP",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
   },
   {
    "text": "'Cancer is a lonely road': Kate reveals how she felt battling the disease in moving new documentary clip as she meets fellow sufferers at support group",
@@ -377,12 +383,6 @@
    "text": "14-year-old bride is beaten to death by Iranian husband days after giving birth - because she asked to visit her family",
    "source": "Mail",
    "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Kemi Badenoch tells Tory wets: Back me over scrapping Net Zero laws and leaving ECHR if you want to stand for party at next election",
-   "source": "Mail",
-   "sev": 2,
    "good": false
   },
   {
