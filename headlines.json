@@ -1,10 +1,40 @@
 {
- "updated": "2026-11-28T04:12:10.339Z",
+ "updated": "2026-11-28T13:30:06.512Z",
  "headlines": [
   {
-   "text": "Millions lose access to benefits and pensions services after 'cyber incident'",
+   "text": "Argentina's bid to stop Falklands oil drilling rejected",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Pensions and benefits services still down after 'cyber incident'",
    "source": "BBC",
    "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Woman, 21, dies in Staffordshire crash following police pursuit",
+   "source": "BBC",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+   "source": "BBC",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+   "source": "BBC",
+   "sev": 1,
    "good": false
   },
   {
@@ -14,75 +44,15 @@
    "good": false
   },
   {
-   "text": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Set time aside for children to read for pleasure, schools to be told",
+   "text": "'I don't know what I'd do without it': Is this the end for Poundland?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Spanish PM and rivals rally supporters in final pitch for votes",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Charity founded in Captain Tom's name bids to be struck off",
+   "text": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
    "source": "BBC",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "New satellite data shows how fast some African cities are sinking",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Dec Donnelly says I'm a Celebrity tension 'became much bigger deal than it should have'",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Papers: 'Catherine on cancer fight' and 'Benefits and pensions chaos'",
-   "source": "BBC",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
-   "source": "BBC",
-   "sev": 2,
    "good": false
   },
   {
@@ -92,70 +62,82 @@
    "good": false
   },
   {
-   "text": "Should I get a flu vaccine now?",
+   "text": "The AI-powered race to get GTA 6 onto PC before Rockstar",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+   "text": "Flu cases are rising - should you get a vaccine now?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "'I don't know what I'd do without it': Why shoppers and staff fear losing Poundland",
-   "source": "BBC",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Chicken Shop Date: The perfect end or a disappointing send-off?",
+   "text": "Channel 4 executive defends Huw Edwards documentary",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Police look for more than 100 gig-goers to help Co-op Live probe",
+   "text": "How a Brazilian football team rebuilt after 19 players died in plane crash",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Pharmacies get new powers to swap prescriptions during shortages",
+   "source": "BBC",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Actor and comedian PJ Gallagher dies aged 51",
    "source": "BBC",
    "sev": 3,
    "good": false
   },
   {
-   "text": "'We have no interest in hearing from Huw Edwards', Downing Street says",
+   "text": "Charity founded in Captain Tom's name bids to be struck off",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "NHS boss warns of 'horrible spike' in flu as hospital admissions surge",
+   "text": "Set time aside for children to read for pleasure, schools to be told",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "NHS Grampian publishes leaked report at centre of hospital scandal",
+   "text": "UK set for break from harsh cold as temperatures climb into next week",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Body found in woodland confirmed as missing Kelsey Hunter",
+   "text": "Bellingham's backing of reporter praised after viral clip",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
+   "text": "Robotic exoskeleton helps boy, 7, take first steps",
    "source": "BBC",
-   "sev": 2,
+   "sev": 1,
    "good": false
   },
   {
-   "text": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+   "text": "Alaskan flying team airdrops Thanksgiving turkeys to remote communities",
    "source": "BBC",
-   "sev": 3,
+   "sev": 1,
    "good": false
+  },
+  {
+   "text": "Jilted bride who went ahead with her wedding alone finally walks down the aisle",
+   "source": "BBC",
+   "sev": 1,
+   "good": true
   },
   {
    "text": "Download now",
@@ -164,219 +146,369 @@
    "good": false
   },
   {
-   "text": "Five-try Ireland beat Australia in autumn finale",
+   "text": "Will 2024 version of Palmer ever re-emerge for Chelsea?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Decline of deities - the long game the All Blacks cannot afford to lose",
+   "text": "How a football team rebuilt after 19 players died in plane crash",
+   "source": "BBC",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "Are these three brothers British skiing's next family dynasty?",
    "source": "BBC",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Gibbs-White stars, Fofana struggles - player ratings for Forest v Chelsea",
-   "source": "BBC",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "You Can See Everything: what to know before watching this year’s ‘must-see’ film",
+   "text": "‘I thought I could outsmart biology’: more and more women are freezing their eggs – but what happens next?",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Tighten your corsets! Pass the smelling salts! It’s the greatest period dramas ever made",
+   "text": "Yuri and I used to play football together. Then I spotted his name among Russia’s war dead",
    "source": "Guardian",
-   "sev": 1,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Trump is destroying the rule of law in the US – to protect himself and the tech titans he worships as new gods | Jonathan Freedland",
+   "text": "Sisters strike back: have women finally had enough of the caring burden?",
    "source": "Guardian",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Too old for soft toys? Tell that to kidults booking up the Harrods Jellycat cafe",
+   "text": "The radical clarity of NAZA makes You Can See Everything seem irrelevant | Charlotte Higgins",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘I am scared’: Careless People author Sarah Wynn-Williams on living under a gag order - and why it’s time to speak out against big tech",
+   "text": "‘Who asked that? You should be ashamed of yourself!’: Judi Dench answers questions from Ian McKellen, Lorraine Kelly, David Hare and more",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "From toddler tantrums to teenage strops – how to manage your kids’ meltdowns",
+   "text": "Why young people are having less sex, according to an ethicist, a matchmaker … and you",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+   "text": "‘Please can I have one more picture’: the US airmen accused of child sexual abuse in UK who avoided British trial",
+   "source": "Guardian",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Argentina fails to block oil drilling off Falkland Islands",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Woman ‘traumatised’ by Sainsbury’s shoplifting ban after staff facial recognition error",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "High-security prisoner used soap to escape despite being handcuffed and chained to officer",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Channel 4 defends controversial Huw Edwards documentary",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "DWP cyber incident ‘probably an attack’, says former UK chief technology officer",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+   "text": "Black barrister tells of racist abuse after Rupert Lowe viral tweet",
    "source": "Guardian",
-   "sev": 2,
+   "sev": 4,
    "good": false
   },
   {
-   "text": "UK man jailed for online blackmail of vulnerable girls around the world",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
-   "source": "Guardian",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Charity set up by Captain Tom Moore’s family applies to be struck off",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Men dominate this Japanese game. One woman broke a 100-year-old barrier to rise to the top",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Graham Thorpe’s widow takes legal action against NHS trust after inquest",
+   "text": "Spain to vote in election that could put far right in power for first time since Franco",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Schools in England must set aside time for pupils to read for pleasure",
+   "text": "Two Médecins Sans Frontières staff killed by Israeli strike in Gaza, charity says",
+   "source": "Guardian",
+   "sev": 5,
+   "good": false
+  },
+  {
+   "text": "‘I told it to never call me again’: AI bots wreak havoc with UK restaurant bookings",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Elderly ‘Scrooge’ severs neighbour’s Christmas lights in mobility-scooter raid",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "You Can See Everything… except the truth? - The Latest",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Jared Kushner’s 70-minute interview reveals naive bias in handling of Putin’s aggression",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+   "text": "The picture-perfect California beach where visitors keep dying",
    "source": "Guardian",
    "sev": 3,
    "good": false
   },
   {
-   "text": "Chris Bray captures the amazing Christmas Island crab migration – in pictures",
+   "text": "Blind date: ‘When I saw her, my reaction was wow! Surely that can’t be my date?’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "‘Genuinely emotional’: the world-conquering Chicken Shop Date’s final, eye-opening episode",
+   "text": "Breathable bedding, cosy cashmere and a best-buy toaster: your favourite Black Friday bargains",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Phoebe Bridgers review – phone-free arena show is a cosmic, communal revelation",
+   "text": "Sly, subversive and surprisingly modern: why Agatha Christie is still making a killing",
+   "source": "Guardian",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Helen Lederer: ‘The worst thing anyone’s said to me? Probably, “You’re fat”’",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "Socks, smellies, chocolates and booze: 64 ‘boring’ Christmas gifts made brilliant",
+   "text": "A riot grrrl song inspired me to leave a controlling relationship",
+   "source": "Guardian",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Hot or not? The Guardian’s film critics run the rule over the week’s UK cinema releases",
    "source": "Guardian",
    "sev": 1,
    "good": false
   },
   {
-   "text": "McNabney’s late double powers Ireland to dominant win against Australia",
+   "text": "Five Great Reads: Buried history, the future of human intelligence, and why people are having less sex",
    "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "From Minotaur to Björk: your complete entertainment guide to the week ahead",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Nations Championship finale, Merseyside derby and Qatar GP – follow with us",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Wales v Japan: Nations Championship rugby union – live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Manchester United v Brentford buildup, Premier League news and more – matchday live",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Horse racing live: Newcastle and Newbury’s Coral Gold Cup latest updates",
+   "source": "Guardian",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Female passenger, 21, dies after crash as Seat Ibiza was chased by police",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "Canadian billionaire plots takeover of high street chain TG Jones seven years after he saved HMV",
+   "source": "Mail",
    "sev": 1,
    "good": true
   },
   {
-   "text": "England target historic All Blacks treble after finally clicking into gear",
-   "source": "Guardian",
-   "sev": 1,
+   "text": "DWP cyber incident 'is probably an attack' says former UK tech chief as millions lose access to online benefits and pensions services",
+   "source": "Mail",
+   "sev": 4,
    "good": false
   },
   {
-   "text": "Gibbs-White and Igor Jesus fire Nottingham Forest past shaky Chelsea",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Why have things started to go wrong for Manchester City under Enzo Maresca?",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Arteta sets Arsenal 100-point Premier League target to emulate Manchester City",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Aaron Rodgers texts into Amazon broadcast to defend himself as Steelers beat Broncos",
-   "source": "Guardian",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Spygate tensions erupt at Southampton after Finn Azaz’s cry-baby celebration riles Boro",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Harry Redknapp’s big-race hope Taurus Bay follows in hoofprints of Jukebox Man",
-   "source": "Guardian",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Kemi gets tough on Tories: Take a stand against the ECHR and Net Zero or you can't be an MP",
+   "text": "Anger as asylum seekers are offered £3 pantomime tickets and free theatre shows on the taxpayer",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "'Cancer is a lonely road': Kate reveals how she felt battling the disease in moving new documentary clip as she meets fellow sufferers at support group",
+   "text": "The food you should NEVER order at a Thai restaurant: Top chef reveals the dishes to avoid - from satay to Pad Thai and red curry",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Female police officers should 'dress modestly' and not talk to Muslim men, as Nigel Farage says advice is 'proof of two-tier policing'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Granny 'Grinch' of Middlesbrough unmasked: Retired nurse accused of cutting family's Christmas lights says it's nonsense... and insists they went out when she crashed her mobility scooter into their wall",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Three teenage sisters bludgeoned and stabbed their father to death after he subjected them to years of sickening sexual abuse. Now, after eight years, they could finally be cleared of murder",
+   "source": "Mail",
+   "sev": 6,
+   "good": false
+  },
+  {
+   "text": "La Cicciolina is back! Italy's most famous porn star, now 75, re-enters politics as she runs to become mayor of Rome",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Refugee who fled Iran fearing for her life quits Amnesty International saying it is fixated on Palestine as group volunteer praises ayatollah's 'integrity and decency'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "You may want to stand after all! Seats on the London Underground trains are only shampooed once a YEAR, report reveals",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Does your family have a doomsday plan? Crisis expert reveals the essential steps to prepare for a disaster - from emergency meeting points and child pick-ups to when to make contact",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "The family-run restaurant, a favourite of Princess Diana, a tech millionaire... and the extraordinary row over 'noisy' alfresco diners on its famed terrace that may force it to shut",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "What I saw as a migrant hotel manager: Drugs and knives stashed in rooms, bloody brawls between 'residents', female staff leered at - and staff given training in how to flee to safety. A whistleblower tells all to STEVEN EDGINTON",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Police make 33 arrests over 'child grooming gang': Schoolgirls 'rounded up in taxis, plied with drugs and raped at parties'",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Channel 4 refuses to back down on Huw Edwards film: Broadcaster says documentary is in public interest as it compares shamed presenter to 'murderers, terrorists and dictators'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Daily Mail's dementia carers appeal hits nearly £400,000 thanks to generous donation from Lord Ashcroft",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Labour compared to Scrooge as party cancels Christmas and replaces it with bizarre 'seasonfest' branding",
+   "source": "Mail",
+   "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Violence, theft - the neighbourhood is overwhelmed. And they're men, men, men: LETTICE BROMOVSKY reports from Tenerife, the holiday island hit by a new migrant crisis",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Andy Burnham's Brexit betrayal will cost taxpayers hundreds of millions of pounds a year... despite Ed Miliband's promise we wouldn't pay a thing",
    "source": "Mail",
    "sev": 2,
    "good": false
   },
   {
-   "text": "Organised criminals gassed concert-goers en masse and tried to rob them",
+   "text": "Terror as EasyJet flight declares mid-air emergency following 'engine failure' just minutes after take off",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Moment flash Albanian kingpin hugs associates ahead of botched £30million cocaine pick-up in Dover Straits - as four men are jailed",
+   "source": "Mail",
+   "sev": 2,
+   "good": false
+  },
+  {
+   "text": "Now TikTok influencer at centre of No 10 row sells £20 T-shirts with lewd lyrics on - with 'all money going to charity' as he insists 'disgusting' video was not 'offensive to women'",
    "source": "Mail",
    "sev": 1,
+   "good": false
+  },
+  {
+   "text": "Captain Tom charity set to close down after years of controversy involving hero fundraiser's daughter Hannah Ingram-Moore",
+   "source": "Mail",
+   "sev": 1,
+   "good": true
+  },
+  {
+   "text": "Former Prime Minister Gordon Brown interviewed by police investigating Lord Mandelson over alleged leaks to paedophile Jeffrey Epstein",
+   "source": "Mail",
+   "sev": 4,
+   "good": false
+  },
+  {
+   "text": "Irish comedian PJ Gallagher dies aged 51: Tributes pour in for 'much-loved' actor and funnyman",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "'The Houthis are going to become the next ISIS - and will start attacking UK targets': Chilling warning as Yemen risks 'becoming new Afghanistan'",
+   "source": "Mail",
+   "sev": 3,
+   "good": false
+  },
+  {
+   "text": "Can Britain keep the lights on? Electric grid operator issues power shortage warning for unprecedented fourth day in a row during cold snap",
+   "source": "Mail",
+   "sev": 3,
    "good": false
   },
   {
@@ -386,159 +518,9 @@
    "good": false
   },
   {
-   "text": "Meloni warns Kyiv that war 'cannot spread to the Mediterranean' after bombing of Russian warship in Libya",
-   "source": "Mail",
-   "sev": 5,
-   "good": false
-  },
-  {
-   "text": "The Grinch of Middlesbrough: Moment mobility scooter-riding spoilsport takes scissors to family's Christmas lights",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Putin bodyguard tipped to be his successor 'took his own life at 90ft waterfall', leaked documents show",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Horror of young singer lashed 74 times for daring to show her hair",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "BBC iPlayer could carry adverts for the first time under expansion plans to rival US streaming giants",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Did Labour spin-doctors brief influencer who defiled No10 to attack Kemi?",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Woman murdered by ex sought Clare's Law check but police failed to reveal his 'history of violent behaviour', coroner finds",
-   "source": "Mail",
-   "sev": 4,
-   "good": false
-  },
-  {
-   "text": "Schoolgirl, 12, who fled Ukraine was found dead after wardrobe collapsed on her in bedroom, inquest told",
-   "source": "Mail",
-   "sev": 6,
-   "good": false
-  },
-  {
-   "text": "Pregnant Laura Woods supports her Love Island star fiancé Adam Collard in court ahead of his millionaire property developer father's trial for 'assaulting his own son'",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "'What about the lives of the abused children?': BBC's Nicky Campbell condemns Huw Edwards documentary as fury grows at Channel 4 over 'strange' and 'irresponsible' film",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "F1 boss and his mother sue council and National Highways for £1.1million after tons of 'sludge' from local roads spill into lake at their £2.2million manor house",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Military can't find HALF of its army of veteran reservists who may be called up if Britain goes to war",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "TV anchor breaks down and tears up during live report on stock market share slump",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Migrant who was jailed for dangerous driving WINS deportation appeal after saying his children speak 'limited' Polish",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
    "text": "Moment beautician accidentally reverses her Range Rover at speed into her neighbours' house and smashes through their front window",
    "source": "Mail",
    "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Father, 49, died after getting trapped in fake cave at climbing centre for hours during child's birthday party: Cumbria business is fined £67,500",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Barron Trump is spotted for the first time in five months after rare appearance at White House Thanksgiving festivities",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "'I wouldn't be here without you': Student meets hero who fought off Huntingdon train attacker",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Travellers WIN planning permission for five caravan pitches more than two years after bulldozing over field in Easter bank holiday 'land grab'",
-   "source": "Mail",
-   "sev": 1,
-   "good": true
-  },
-  {
-   "text": "Britain must ditch the pound if it wants to rejoin the EU and even a 'special deal' to stay out but aligned means accepting free movement, Brussels warns",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Migrant hotel is set to be demolished and replaced by student accommodation after string of protests by locals",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Taxpayer 'footing the bill for a public sector workforce that isn't working' - as civil servants' sick days rise to 15-year high",
-   "source": "Mail",
-   "sev": 1,
-   "good": false
-  },
-  {
-   "text": "Royal 'burglar' accused of breaking into Kate and William's country estate 'is small-boat migrant who snuck into UK at least three times in past four years'",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Autistic Briton with mental age of eight is jailed in Turkey after being tricked into smuggling drugs - and now suffers daily beatings and bullying by inmates, his heartbroken family reveal",
-   "source": "Mail",
-   "sev": 2,
-   "good": false
-  },
-  {
-   "text": "Couple win bitter £135,000 court fight with their glampsite-boss neighbour after she tried to ban them parking in shared driveway",
-   "source": "Mail",
-   "sev": 3,
-   "good": false
-  },
-  {
-   "text": "Moment murderer who stabbed his girlfriend to death while she was pregnant with twins buys bleach to wipe key evidence - before he is arrested in cemetery",
-   "source": "Mail",
-   "sev": 6,
    "good": false
   }
  ]
